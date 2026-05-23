@@ -20,8 +20,6 @@ def fetch_bytes(url: str) -> bytes:
 
 
 def decode_subback(raw: bytes) -> str:
-    # subback.html can decode as cp932 without error even when it is actually UTF-8,
-    # so try UTF-8 first for the HTML list page.
     for enc in ("utf-8-sig", "utf-8", "cp932", "shift_jis"):
         try:
             return raw.decode(enc)
@@ -31,7 +29,6 @@ def decode_subback(raw: bytes) -> str:
 
 
 def decode_dat(raw: bytes) -> str:
-    # dat is usually Shift_JIS/CP932 family.
     for enc in ("cp932", "shift_jis", "utf-8-sig", "utf-8"):
         try:
             return raw.decode(enc)
@@ -46,14 +43,13 @@ def clean_title(text: str) -> str:
 
 
 def find_thread_id(subback_html: str) -> tuple[str, str]:
-    # Keep this broad: subback link shapes can be relative, absolute, /test/read.cgi/..., or ./test/read.cgi/...
     pattern = re.compile(
-        r"href=[\"']([^\"']*test/read\.cgi/liveuranus/(\d+)/[^\"']*)[\"'][^>]*>(.*?)</a>",
+        r"href=[\"'](?:[^\"']*test/read\.cgi/liveuranus/)?(\d+)/[^\"']*[\"'][^>]*>(.*?)</a>",
         re.IGNORECASE | re.DOTALL,
     )
 
     checked = []
-    for url, thread_id, raw_title in pattern.findall(subback_html):
+    for thread_id, raw_title in pattern.findall(subback_html):
         title = clean_title(raw_title)
         checked.append(f"{thread_id}: {title}")
         if TARGET in title:
