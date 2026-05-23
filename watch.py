@@ -7,7 +7,7 @@ import sys
 import urllib.request
 
 SUBBACK_URL = "https://fate.5ch.io/liveuranus/subback.html"
-DAT_BASE_URL = "http://fate.5ch.io/liveuranus/dat/{}.dat"
+DAT_BASE_URL = "https://fate.5ch.io/liveuranus/dat/{}.dat"
 TARGET = "なんJNVA部"
 OUT_DIR = pathlib.Path("data")
 USER_AGENT = "Mozilla/5.0"
