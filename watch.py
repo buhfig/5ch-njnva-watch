@@ -37,9 +37,14 @@ def decode_dat(raw: bytes) -> str:
     return raw.decode("cp932", errors="replace")
 
 
-def clean_title(text: str) -> str:
+def clean_html(text: str) -> str:
+    text = re.sub(r"<br\s*/?>", "\n", text, flags=re.IGNORECASE)
     text = re.sub(r"<[^>]+>", "", text)
-    return html.unescape(text).strip()
+    text = html.unescape(text)
+    text = text.replace("\r\n", "\n").replace("\r", "\n")
+    text = re.sub(r"[ \t]+", " ", text)
+    text = re.sub(r"\n{3,}", "\n\n", text)
+    return text.strip()
 
 
 def find_thread_id(subback_html: str) -> tuple[str, str]:
@@ -50,13 +55,30 @@ def find_thread_id(subback_html: str) -> tuple[str, str]:
 
     checked = []
     for thread_id, raw_title in pattern.findall(subback_html):
-        title = clean_title(raw_title)
+        title = clean_html(raw_title)
         checked.append(f"{thread_id}: {title}")
         if TARGET in title:
             return thread_id, title
 
     (OUT_DIR / "debug_checked_threads.txt").write_text("\n".join(checked[:200]), encoding="utf-8")
     raise RuntimeError(f"target thread not found: {TARGET}; checked_links={len(checked)}")
+
+
+def dat_to_text(dat_text: str) -> str:
+    blocks = []
+    for no, line in enumerate(dat_text.splitlines(), start=1):
+        if not line.strip():
+            continue
+        parts = line.split("<>")
+        if len(parts) < 4:
+            blocks.append(f"[{no}]\n{clean_html(line)}")
+            continue
+        name = clean_html(parts[0])
+        mail = clean_html(parts[1])
+        date_id = clean_html(parts[2])
+        body = clean_html(parts[3])
+        blocks.append(f"[{no}] {date_id} name:{name} mail:{mail}\n{body}")
+    return "\n\n---\n\n".join(blocks) + "\n"
 
 
 def main() -> int:
@@ -82,7 +104,7 @@ def main() -> int:
         }
 
         (OUT_DIR / "latest.dat").write_text(dat_text, encoding="utf-8")
-        (OUT_DIR / "latest.txt").write_text(dat_text, encoding="utf-8")
+        (OUT_DIR / "latest.txt").write_text(dat_to_text(dat_text), encoding="utf-8")
         (OUT_DIR / "latest_meta.json").write_text(json.dumps(meta, ensure_ascii=False, indent=2), encoding="utf-8")
 
         print(f"OK: {title} / {dat_url}")
