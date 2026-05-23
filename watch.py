@@ -10,11 +10,22 @@ SUBBACK_URL = "https://fate.5ch.io/liveuranus/subback.html"
 DAT_BASE_URL = "https://fate.5ch.io/liveuranus/dat/{}.dat"
 TARGET = "なんJNVA部"
 OUT_DIR = pathlib.Path("data")
-USER_AGENT = "Mozilla/5.0"
+USER_AGENT = "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+COMMON_HEADERS = {
+    "User-Agent": USER_AGENT,
+    "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+    "Accept-Language": "ja,en-US;q=0.9,en;q=0.8",
+    "Cache-Control": "no-cache",
+    "Pragma": "no-cache",
+}
 
 
 def fetch_bytes(url: str) -> bytes:
-    req = urllib.request.Request(url, headers={"User-Agent": USER_AGENT})
+    headers = dict(COMMON_HEADERS)
+    if "dat/" in url:
+        headers["Accept"] = "text/plain,*/*;q=0.8"
+        headers["Referer"] = SUBBACK_URL
+    req = urllib.request.Request(url, headers=headers)
     with urllib.request.urlopen(req, timeout=30) as response:
         return response.read()
 
