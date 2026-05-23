@@ -1,4 +1,5 @@
 import datetime as dt
+import html
 import json
 import pathlib
 import re
@@ -27,11 +28,22 @@ def decode_to_unicode(raw: bytes) -> str:
     return raw.decode("cp932", errors="replace")
 
 
+def clean_title(text: str) -> str:
+    text = re.sub(r"<[^>]+>", "", text)
+    return html.unescape(text).strip()
+
+
 def find_thread_id(subback_html: str) -> tuple[str, str]:
-    pattern = re.compile(r'href="(?:\.\./)?test/read\.cgi/liveuranus/(\d+)/[^\"]*"[^>]*>([^<]+)</a>')
-    for thread_id, title in pattern.findall(subback_html):
+    pattern = re.compile(
+        r"href=[\"']([^\"']*test/read\.cgi/liveuranus/(\d+)/[^\"']*)[\"'][^>]*>(.*?)</a>",
+        re.IGNORECASE | re.DOTALL,
+    )
+
+    for _url, thread_id, raw_title in pattern.findall(subback_html):
+        title = clean_title(raw_title)
         if TARGET in title:
             return thread_id, title
+
     raise RuntimeError(f"target thread not found: {TARGET}")
 
 
