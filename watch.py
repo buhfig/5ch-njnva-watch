@@ -19,7 +19,19 @@ def fetch_bytes(url: str) -> bytes:
         return response.read()
 
 
-def decode_to_unicode(raw: bytes) -> str:
+def decode_subback(raw: bytes) -> str:
+    # subback.html can decode as cp932 without error even when it is actually UTF-8,
+    # so try UTF-8 first for the HTML list page.
+    for enc in ("utf-8-sig", "utf-8", "cp932", "shift_jis"):
+        try:
+            return raw.decode(enc)
+        except UnicodeDecodeError:
+            continue
+    return raw.decode("utf-8", errors="replace")
+
+
+def decode_dat(raw: bytes) -> str:
+    # dat is usually Shift_JIS/CP932 family.
     for enc in ("cp932", "shift_jis", "utf-8-sig", "utf-8"):
         try:
             return raw.decode(enc)
@@ -34,28 +46,35 @@ def clean_title(text: str) -> str:
 
 
 def find_thread_id(subback_html: str) -> tuple[str, str]:
+    # Keep this broad: subback link shapes can be relative, absolute, /test/read.cgi/..., or ./test/read.cgi/...
     pattern = re.compile(
         r"href=[\"']([^\"']*test/read\.cgi/liveuranus/(\d+)/[^\"']*)[\"'][^>]*>(.*?)</a>",
         re.IGNORECASE | re.DOTALL,
     )
 
-    for _url, thread_id, raw_title in pattern.findall(subback_html):
+    checked = []
+    for url, thread_id, raw_title in pattern.findall(subback_html):
         title = clean_title(raw_title)
+        checked.append(f"{thread_id}: {title}")
         if TARGET in title:
             return thread_id, title
 
-    raise RuntimeError(f"target thread not found: {TARGET}")
+    (OUT_DIR / "debug_checked_threads.txt").write_text("\n".join(checked[:200]), encoding="utf-8")
+    raise RuntimeError(f"target thread not found: {TARGET}; checked_links={len(checked)}")
 
 
 def main() -> int:
     OUT_DIR.mkdir(exist_ok=True)
 
     try:
-        subback_text = decode_to_unicode(fetch_bytes(SUBBACK_URL))
+        subback_raw = fetch_bytes(SUBBACK_URL)
+        subback_text = decode_subback(subback_raw)
+        (OUT_DIR / "debug_subback.html").write_text(subback_text, encoding="utf-8")
+
         thread_id, title = find_thread_id(subback_text)
 
         dat_url = DAT_BASE_URL.format(thread_id)
-        dat_text = decode_to_unicode(fetch_bytes(dat_url))
+        dat_text = decode_dat(fetch_bytes(dat_url))
         fetched_at = dt.datetime.now(dt.UTC).replace(microsecond=0).isoformat()
 
         meta = {
