@@ -3,8 +3,8 @@ name: Watch 5ch thread
 on:
   workflow_dispatch:
   schedule:
-  # JST 00:54 (= UTC 15:54, previous day)
-  - cron: '54 15 * * *'
+  # JST 23:54 (= UTC 14:54, previous day)
+  - cron: '54 14 * * *'
 
 permissions:
   contents: write
