@@ -43,3 +43,10 @@ jobs:
             git commit -m "Update watched thread data"
             git push
           fi
+      - name: Debug timing
+        run: |
+          echo "event_name=${{ github.event_name }}"
+          echo "schedule=${{ github.event.schedule }}"
+          echo "run_id=${{ github.run_id }}"
+          echo "utc_now=$(date -u '+%Y-%m-%dT%H:%M:%SZ')"
+          echo "jst_now=$(TZ=Asia/Tokyo date '+%Y-%m-%dT%H:%M:%S%z')"
