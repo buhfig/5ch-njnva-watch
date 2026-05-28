@@ -4,7 +4,7 @@ on:
   workflow_dispatch:
   schedule:
   # JST 23:54 (= UTC 14:54, previous day)
-  - cron: '54 14 * * *'
+  - cron: '54 12 * * *'
 
 permissions:
   contents: write
