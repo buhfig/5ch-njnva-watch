@@ -176,12 +176,21 @@ def main() -> int:
         selected = find_threads(subback_text)
         fetched_at = dt.datetime.now(dt.UTC).replace(microsecond=0).isoformat()
         threads = []
+        newest_previous_thread_id = max(
+            (int(thread_id) for thread_id in previous_last_res),
+            default=None,
+        )
 
         for thread_id, title in selected:
             dat_url = DAT_BASE_URL.format(thread_id)
             dat_text = decode_dat(fetch_bytes(dat_url))
             last_res = count_dat_responses(dat_text)
-            previous = min(previous_last_res.get(thread_id, 0), last_res)
+            if thread_id in previous_last_res:
+                previous = min(previous_last_res[thread_id], last_res)
+            elif newest_previous_thread_id is not None and int(thread_id) < newest_previous_thread_id:
+                previous = last_res
+            else:
+                previous = 0
             threads.append(
                 {
                     "title": title,
