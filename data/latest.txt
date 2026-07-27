@@ -1,10 +1,10 @@
-===== THREAD 1/1 =====
-title: 6: なんJNVA部★672 (843)
+===== THREAD 1/2 =====
+title: 39: なんJNVA部★672 (1002)
 thread_id: 1784839679
 thread_url: https://fate.5ch.io/test/read.cgi/liveuranus/1784839679/
-response_range: 1-843
-previous_last_res: 591
-new_response_range: 592-843
+response_range: 1-1002
+previous_last_res: 843
+new_response_range: 844-1002
 ===== POSTS =====
 
 [1] 2026/07/24(金) 05:47:59.08 ID:3cP1E0tI0 name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった (ﾜｯﾁｮｲ 8b8c-W1Dw) mail:sage
@@ -5549,3 +5549,2833 @@ animaは自然言語理解できるって聞いて戻ってきたけど
  つまり語彙の多寡の問題だ、と言いたかったわけね？ 
  いずれにしてもTEがCLIPからLLM になったいまの時代に、>>819 のような主張は伝わりにくくなった、というのはあるのかも 
  https://i.imgur.com/owVSIkr.jpeg
+
+---
+
+[844] 2026/07/26(日) 23:21:09.08 ID:ajXb1eBZ0 name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.2][新芽] (ﾜｯﾁｮｲ 86e8-9TwY) mail:
+なんとなく話してた内容で説明と総括の内容を漫画にさせたけど、東方系弾幕の話だったから東方系キャラ満載だったわ 
+ https://i.imgur.com/jWwL2ii.jpeg
+
+---
+
+[845] 2026/07/26(日) 23:21:35.45 ID:tS3VVPn50 name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.8] (ﾜｯﾁｮｲ 129f-x+NG) mail:sage
+わいもWanのSVIやっと触り始めた、やっぱり繋げれば繋げるほどリアル寄りに絵柄が変わっていくね 
+ Dasiwaだと接写がなぜか動きが薄くなる気がする 
+ exitiumVICTRIXだと動くがよりバタ臭くなるトレードオフが…まあアップだとリアルな方がエロいか 
+ https://tadaup.jp/7Li1KS0Z.mp4 
+ https://tadaup.jp/7DQoZkXu.mp4
+
+---
+
+[846] 2026/07/26(日) 23:29:35.49 ID:+uktlKWf0 name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.8][新] (ﾜｯﾁｮｲ 9b07-x+NG) mail:sage
+>>836 
+ 知らんけどcivitairedにある？
+
+---
+
+[847] 2026/07/26(日) 23:44:12.39 ID:a597xanO0 name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.328][SSR武][SR防+7][木] (ﾜｯﾁｮｲ 97b3-U3uY) mail:
+3070でint8が15秒、int4が10秒 
+ 公式int8conv：https://i.ibb.co/tpjzRVCq/Comfy-UI-2026-07-26-00279.png 
+ cattower int4conv：https://i.ibb.co/SDmr07y9/Comfy-UI-2026-07-26-00280.png 
+ cattowerは乳が盛れないンゴ 
+ https://i.ibb.co/q3WPf4hs/Comfy-UI-2026-07-26-00253.png 
+ >>844 
+ ワイはECS(Entity Component System)をオススメするで
+
+---
+
+[848] 2026/07/26(日) 23:46:55.83 ID:QM06YVJY0 name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.25] (ﾜｯﾁｮｲ b7cd-Q+ZV) mail:
+避難所落ちてるじゃんね 
+ https://tadaup.jp/7c64nqkT.jpg
+
+---
+
+[849] 2026/07/26(日) 23:53:24.11 ID:fQ9ki0oM0 name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.6][新] (ﾜｯﾁｮｲ 867a-qa4O) mail:
+>>786 
+ 乞食は半年ROMっとけ 
+ 
+ >>847 
+ そのミジンコ画像あげないほうがマシじゃない？
+
+---
+
+[850] 2026/07/26(日) 23:55:37.34 ID:ajXb1eBZ0 name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.4][新芽] (ﾜｯﾁｮｲ 86e8-9TwY) mail:
+>>847 
+ 新たな知見を得たかもしれん、さんくす 
+ https://i.imgur.com/9iYmqxP.jpeg
+
+---
+
+[851] 2026/07/26(日) 23:56:51.18 ID:pkROktY50 name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.13][新] (ﾜｯﾁｮｲ e785-bHmG) mail:sage
+無産乞食は生成の楽しさも知らんのやな
+
+---
+
+[852] 2026/07/27(月) 00:02:13.61 ID:R29W0Y340 name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.0][新芽] (ﾜｯﾁｮｲ 8644-jJXo) mail:
+煽りしかしてない奴が一番要らないんだよな
+
+---
+
+[853] 2026/07/27(月) 00:04:05.78 ID:fMLIfxij0 name:警備員[Lv.0][新芽] (ﾜｯﾁｮｲ 5338-b6UF) mail:sage
+親切なニキが避難所の次スレ立ててくれたで 
+ 
+ ぷにぷにNVA部★30 
+ http://bbs.punipuni.eu/test/read.cgi/vaporeon/1785076597/
+
+---
+
+[854] 2026/07/27(月) 00:06:16.54 ID:TC254SKH0 name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.7][新] (ﾜｯﾁｮｲ e3dd-FlcO) mail:
+>>847 
+ animaより早いんやな 
+ vram16GBあるけど 
+ ワイがやるとすぐVRAM不足エラーになるんやが 
+ high vramとdynamic vram offでええんか？
+
+---
+
+[855] 2026/07/27(月) 00:07:11.83 ID:TC254SKH0 name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.7][新] (ﾜｯﾁｮｲ e3dd-FlcO) mail:
+と、思ったけど大きさか？
+
+---
+
+[856] 2026/07/27(月) 00:13:31.96 ID:/A89fVc60 name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.31] (ﾜｯﾁｮｲ 5307-x+NG) mail:sage
+生成物もうｐ出来ないミジンコのさえずりなんて気にするだけ脳リソースの無駄やぞ
+
+---
+
+[857] 2026/07/27(月) 00:19:01.81 ID:6hz2cMTM0 name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.328][SSR武][SR防+7][木] (ﾜｯﾁｮｲ 97b3-U3uY) mail:
+今頃気付いたがibbってデカいpngアップすると自動縮小されるんか 
+ 元の画像は1280x720でwfも付いてたんだが、wfも消えとるな 
+ webpにしないとダメか 
+ >>854 
+ ワイは起動オプションは--enable-managerしかつかっとらんね 
+ 起動時にメモリを自動認識していい感じに調整してくれるからお任せにしとる 
+ ドライバーの方で共有メモリ使用を禁止してる場合、pinned memoryを確保できないでちょい溢れを許容できなくなるのかも 
+ ↓だとpinned memoryが13G確保できてるので、実質8+13Gまでvramがあるとみなせる 
+ https://i.imgur.com/79KK1EW.jpeg 
+ pinned memoryは従来のメモリコピーより超高速なので、素のvramよりは遅いとはいえ十分な速度は確保できるのでOOMで動かないよりは良いとおもう
+
+---
+
+[858] 2026/07/27(月) 00:24:57.47 ID:ii1HdVs50 name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった ハンター[Lv.2185][UR武限][UR防限][二段森] (ﾜｯﾁｮｲ 12ed-BZuw) mail:sage
+>>822 
+ そこは沐浴2穴ウナギ責めやと思ってたやで、ラビッ娘ｶﾜﾖ
+
+---
+
+[859] 2026/07/27(月) 00:28:58.15 ID:TC254SKH0 name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.7][新] (ﾜｯﾁｮｲ e3dd-FlcO) mail:
+>>857 
+ pytorchがワイよりだいぶ進んでるなぁ 
+ サンガツ参考にするで
+
+---
+
+[860] 2026/07/27(月) 00:29:34.48 ID:KYSE+ZWh0 name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.59][苗] (ﾜｯﾁｮｲ ffd2-+EzY) mail:
+Animaの1280x1280の30stepが9秒くらい 
+ Krea2Turboの1536x1536の8stepが7秒台 
+ 
+ これで日本語文字出せてプロンプト理解力は比較にならんレベルだから正直Anima使う理由探すのムズいわ 
+ そんでAI画像投稿界隈が今頃ようやくSDXLからAnimaに移行し始めてキャッキャ言っとるからな 
+ あいつらアホやで動き出しが半年遅いわ
+
+---
+
+[861] 2026/07/27(月) 00:35:36.44 ID:/A89fVc60 name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.31] (ﾜｯﾁｮｲ 5307-x+NG) mail:sage
+krea2は二次版権に拘らないなら現状マストやと思うで 
+ https://tadaup.jp/7veBsFZV.webp
+
+---
+
+[862] 2026/07/27(月) 00:39:06.31 ID:1EII/hd60 name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.9][新] (ﾜｯﾁｮｲ 53ef-ZThi) mail:
+>>861 
+ プロンプトおなしゃす
+
+---
+
+[863] 2026/07/27(月) 00:41:49.48 ID:/A89fVc60 name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.31] (ﾜｯﾁｮｲ 5307-x+NG) mail:sage
+>>862 
+ An exceptionally high-quality full-body 2D illustration of a beautiful adult anime woman, rendered with thin, elegant linework and extremely refined, high-resolution coloring. Premium character artwork comparable to a top-tier Japanese mobile RPG character splash art. 
+ She has magnificent waist-length hair glowing in vivid neon pink, with luminous strands, silky texture, and softly flowing locks. Her striking blue eyes, long eyelashes, and sophisticated facial features give her a confident and alluring appearance. 
+ She wears an elaborate off-the-shoulder battle-maid outfit that combines luxurious gothic maid fashion with futuristic combat armor. The fitted bodice frames her generous cleavage, while black lace, elegant frills, armored corset details, metallic ornaments, straps, and subtle neon-pink accents create an intricate and glamorous design. The lower part of her outfit features a dramatic high slit, revealing only a subtle glimpse of delicate black lace underwear. Sexy and elegant, stylish rather than vulgar. 
+ She casually carries an enormous sci-fi shotgun in one hand. The weapon has a massive silhouette, a thick futuristic barrel, intricate mechanical components, engraved metal surfaces, glowing neon-pink energy lines, and a sophisticated gothic-industrial design. In her other hand, she carries a sturdy vintage leather travel trunk with reinforced corners, brass fittings, clasps, straps, and signs of tasteful wear. 
+ She stands confidently inside the grand entrance hall of an imposing Gothic mansion. The majestic interior features towering stone columns, pointed arches, ornate wall carvings, sweeping staircases, dark polished wood, antique furnishings, crimson carpets, enormous chandeliers, stained-glass windows, and flickering candlelight. Cool moonlight enters through the windows and mixes beautifully with the warm golden interior lighting and the pink glow from her hair and weapon. 
+ Contextfident relaxed stance, graceful body language, direct gaze toward the viewer, full character visible from head to toe, both hands clearly visible, the entire shotgun and leather trunk clearly shown. Dramatic low-angle three-quarter composition, strong character silhouette, cinematic depth, flowing hair and fabric, subtle dust particles, atmospheric lighting. 
+ Masterpiece, best quality, premium Japanese gacha game character illustration, highly detailed anime key visual, delicate line art, intricate costume design, polished cel shading, soft painterly gradients, realistic fabric and metal textures, beautiful rim lighting, cinematic lighting, vivid yet sophisticated colors, sharp focus, highly detailed background, elegant gothic sci-fi aesthetic
+
+---
+
+[864] 2026/07/27(月) 00:44:30.53 ID:1EII/hd60 name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.9][新] (ﾜｯﾁｮｲ 53ef-ZThi) mail:
+>>863 
+ うおおおお回答サンクス 
+ 研究するわ
+
+---
+
+[865] 2026/07/27(月) 00:45:33.82 ID:M4O+ii2A0 name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.200][UR武][SSR防][木] (ﾜｯﾁｮｲ ff59-ytPD) mail:sage
+>>863 
+ ﾜｯﾁｮｲｶｯｺE
+
+---
+
+[866] 2026/07/27(月) 00:47:58.44 ID:/A89fVc60 name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.31] (ﾜｯﾁｮｲ 5307-x+NG) mail:sage
+>>865 
+ ワイNG推奨みたいなワッチョイになってて草
+
+---
+
+[867] 2026/07/27(月) 00:49:22.31 ID:VxfONz8w0 name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.4][新芽] (ﾜｯﾁｮｲ 53ce-x+NG) mail:sage
+>>770 
+ テスト。もうちょいエポックごとの差異とか見て問題なさそうならうｐるわ 
+ https://i.ibb.co/393ZnVsZ/20260727003428-832x1248-euler-simple-12-1-633154373257368-02.webp
+
+---
+
+[868] 2026/07/27(月) 00:50:07.86 ID:eFRnnmru0 name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.4][新芽] (ﾜｯﾁｮｲ e36d-x+NG) mail:sage
+スレの流れ見ててふと思ってKrea2 catの低解像度生成とPixelDiT 1.5で4倍 
+ Krea2 cat tower int8(512x768): 
+ 　https://tadaup.jp/7OtKR7rg.webp 
+ PixelDiT 1.5 lcm 4steps(2048x3072): 
+ 　https://tadaup.jp/7TXU9TRH.webp 
+ (pid_1.5_qwenimage_1024_to_4096_4step_int8_convrot)
+
+---
+
+[869] 2026/07/27(月) 00:53:04.81 ID:59BXu3HG0 name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.0][新芽] (ﾜｯﾁｮｲ e3a2-ZThi) mail:
+ニキらComfyUIでのKrea2環境でのLLM連携は何使用しとる？　ワイはAnima環境やとqwen3.6 35b hauhaucs aggressive@q4_k_mをLM studioノードで使用してたんやけど 
+ Krea2環境やとLLM使用する際のVRAMがきつく使用できとらんので教えてほしいんや
+
+---
+
+[870] 2026/07/27(月) 00:53:51.41 ID:Vl9kkort0 name:警備員[Lv.7][新] (ﾜｯﾁｮｲ 9b70-IkFD) mail:sage
+>>867 
+ ん？昔オホ顔civiに上げてたニキか？ 
+ 既視感がある
+
+---
+
+[871] 2026/07/27(月) 00:59:02.07 ID:BQX3eLeQ0 name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.25] (ﾜｯﾁｮｲ b7cd-Q+ZV) mail:
+>>869 
+ Clean VRAM UsedでLLMを前後から嬲るンゴ
+
+---
+
+[872] 2026/07/27(月) 00:59:12.20 ID:qM2TKfMl0 name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.0][新芽] (ﾜｯﾁｮｲ 53b4-KW3r) mail:sage
+>>856 
+ https://tadaup.jp/7e05Rd4L.mp4
+
+---
+
+[873] 2026/07/27(月) 00:59:44.41 ID:/A89fVc60 name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.32] (ﾜｯﾁｮｲ 5307-x+NG) mail:sage
+>>869 
+ ワイは2GPU環境で同時起動やとLM Studio連携でGemma4-12B-QATやな
+
+---
+
+[874] 2026/07/27(月) 01:02:17.57 ID:Vl9kkort0 name:警備員[Lv.7][新] (ﾜｯﾁｮｲ 9b70-IkFD) mail:sage
+デブニキアンチ辺りから貼った画像にケチ付けてくる奴増えたんだよな 
+ 同一人物か？
+
+---
+
+[875] 2026/07/27(月) 01:06:03.04 ID:1EII/hd60 name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.9][新] (ﾜｯﾁｮｲ 53ef-ZThi) mail:
+ここまでガチガチに英文で記載しないといけないとなるとKrea2は一般人には中々つらそうやな 
+ おっぱい見たければ1girl,nipplesで出る段ボールタグ系の画像生成が楽すぎるのよな
+
+---
+
+[876] 2026/07/27(月) 01:06:29.11 ID:ii1HdVs50 name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった ハンター[Lv.2185][UR武限][UR防限][二段森] (ﾜｯﾁｮｲ 12ed-BZuw) mail:sage
+1日遅れの土用の丑の日(ウナギ注意) 
+ https://tadaup.jp/7H6R97Tg.jpg 
+ 
+ krea2は実写の創作が気軽に作れるのが面白い
+
+---
+
+[877] 2026/07/27(月) 01:11:29.26 ID:ii1HdVs50 name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった ハンター[Lv.2185][UR武限][UR防限][二段森] (ﾜｯﾁｮｲ 12ed-BZuw) mail:sage
+>>875 
+ LLMの長文は使わなくても高校で履修するぐらいの英文を使って簡潔にシンプルでも十分いける 
+ LLMを使うと割り増しの表現は期待できるが情報過多でメインの引き立てを弱めることもあるやで
+
+---
+
+[878] 2026/07/27(月) 01:12:51.89 ID:/A89fVc60 name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.32] (ﾜｯﾁｮｲ 5307-x+NG) mail:sage
+>>872 
+ 草 
+ でもまさしくその通りなんよな
+
+---
+
+[879] 2026/07/27(月) 01:15:17.04 ID:/A89fVc60 name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.32] (ﾜｯﾁｮｲ 5307-x+NG) mail:sage
+>>875 
+ >>877ニキが言ってる通りもっと短縮してざっくりでもええと思う 
+ けどkrea2はanimaよりTEサイズでかいからプロンプトちょっと盛れるのがアド
+
+---
+
+[880] 2026/07/27(月) 01:15:34.71 ID:5bfWEzQD0 name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.132][苗] (ﾜｯﾁｮｲ 0200-x+NG) mail:
+>>868 
+ PiD 1.0から色は随分改善されたと思うけど、やっぱり二次向きではない気がするね 
+ （PiD 1.0の時にもPiDの使い方やニキの画像について、ニキと何回かやり取りしたような・・・）
+
+---
+
+[881] 2026/07/27(月) 01:17:14.69 ID:SBI3yS2P0 name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.9] (ﾜｯﾁｮｲ d63f-x+NG) mail:
+>>845 
+ これ1つ作るのにどれくらい時間かかるんや 
+ ついでにワークフローから何から何まで全部教えてくれ
+
+---
+
+[882] 2026/07/27(月) 01:22:21.77 ID:eFRnnmru0 name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.5][新芽] (ﾜｯﾁｮｲ e36d-x+NG) mail:sage
+>>880 
+ ニキの感想通り思ったよりは良かったけどまだまだって感じやね 
+ krea2がわりと解像度フリーというか低解像度でもニュアンスが崩れにくいんで 
+ pidと合わせるとどやろかという発想やった
+
+---
+
+[883] 2026/07/27(月) 01:24:43.62 ID:gctWG7QI0 name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.14][新] (ﾜｯﾁｮｲ 5e07-JLhH) mail:sage
+なんかヤバい他力本願寺来てるやん
+
+---
+
+[884] 2026/07/27(月) 01:24:44.26 ID:PknAfnSB0 name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.0][新芽] (ﾜｯﾁｮｲ 0219-x+NG) mail:
+https://ul.h3z.jp/nZdCqW7p.webp
+
+---
+
+[885] 2026/07/27(月) 01:29:20.38 ID:bqf9lFME0 name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.4][新芽] (ﾜｯﾁｮｲ e3ea-+EzY) mail:
+>>876 
+ エッッッッッ
+
+---
+
+[886] 2026/07/27(月) 01:29:55.34 ID:1VTM3EyM0 name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.8][新] (ﾜｯﾁｮｲ 867a-qa4O) mail:
+こんな掃き溜めで自分の手の内晒してるのマヌケ過ぎるｗ
+
+---
+
+[887] 2026/07/27(月) 01:32:42.67 ID:BPjcHuk70 name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.9][新] (ﾜｯﾁｮｲ 8616-XEKp) mail:sage
+ノーヘルヨシッ
+
+---
+
+[888] 2026/07/27(月) 01:34:08.86 ID:c4S24JlV0 name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.14][新] (ﾜｯﾁｮｲ ffd4-6Gxp) mail:sage
+ID:fQ9ki0oM0 
+ >>886 
+ スレに参加できない無産がイライラしてて草
+
+---
+
+[889] 2026/07/27(月) 01:37:10.92 ID:qM2TKfMl0 name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった (ﾜｯﾁｮｲ 53b4-KW3r) mail:sage
+「5ちゃんになんて公表する馬鹿なんて居ない」これが無産の合言葉ｗ
+
+---
+
+[890] 2026/07/27(月) 01:45:34.81 ID:59BXu3HG0 name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.3][新芽] (ﾜｯﾁｮｲ e3a2-ZThi) mail:
+>>871 
+ >>873 
+ ニキらサンガツや！　ワイ環境やとClean VRAM Usedを要所要所に仕込むのがよさそうやと感じたので試してみるやで 
+ 
+ >>872 
+ 草　知性感じる
+
+---
+
+[891] 2026/07/27(月) 01:48:20.46 ID:SBI3yS2P0 name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.10] (ﾜｯﾁｮｲ d63f-x+NG) mail:
+ええんやで（ﾆｯｺﾘ 
+ おすそわけの精神でいこうや
+
+---
+
+[892] 2026/07/27(月) 01:49:42.95 ID:ii1HdVs50 name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった ハンター[Lv.2185][UR武限][UR防限][二段森] (ﾜｯﾁｮｲ 12ed-BZuw) mail:sage
+ﾜｲ「ウナギの頭マンマンに入れて」 
+ KREA2「おかのした」 
+ https://tadaup.jp/7cKwb01m.jpg 
+ 
+ KREA2の素直さが怖い
+
+---
+
+[893] 2026/07/27(月) 01:50:07.93 ID:U2hm3jL/0 name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.0][新芽] (ﾜｯﾁｮｲ e3bb-8h1f) mail:sage
+https://ul.h3z.jp/2r9HBQTd.jpeg 
+ 自然言語ナニソレ美味しいの？ってノリで1girl, smile, black hair, long hair, sundress, summer, と雑にdanbooru語で書いても、はいはいアニメ絵の女の子ねって生成してくれるkrea2ちゃんマジ有能や
+
+---
+
+[894] 2026/07/27(月) 02:08:41.01 ID:MZ010NT60 name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.0][新芽] (ﾜｯﾁｮｲ 86a6-qa4O) mail:
+なんか煽ってるけど大多数は俺の味方だぞ？ 
+ 逆に教えて？ 
+ こんな便所の落書きに自分の手の内晒す理由ｗ
+
+---
+
+[895] 2026/07/27(月) 02:16:40.38 ID:VxfONz8w0 name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.6][新芽] (ﾜｯﾁｮｲ 53ce-x+NG) mail:sage
+ウィンドウズの画像を選択してる時に出る「背景に設定」とかいうボタン誰が使うんだこれ？ 
+ Win+Dでデスクトップ表示したら画面いっぱいにオホ顔の生成したエロ画像がデスクトップになってて（たぶん誤クリックした）めちゃくちゃビックリしたゾ 
+ 前も何回か誤操作でデスクトップ画像変わってて焦ったことあるわ
+
+---
+
+[896] 2026/07/27(月) 02:19:16.66 ID:oMSuoXbe0 name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.5][芽] (ﾜｯﾁｮｲ f2c1-y1cV) mail:
+>>895 
+ 背景に設定したらその画像ファイルが生成されるフォルダへのショートカット作ってあるわ
+
+---
+
+[897] 2026/07/27(月) 02:26:12.07 ID:Vl9kkort0 name:警備員[Lv.8][新] (ﾜｯﾁｮｲ 9b70-IkFD) mail:sage
+この程度の事を手の内とか言ってる辺りマジで生成して無いんやろな 
+ すまんがこのスレ内で目新しいもんあったか？ 
+ 猛虎弁も使わんし荒らしのお客さんは帰ってどうぞ 
+ 吐きだめ言うてるがここスレ民の正体知ったら驚くだろな
+
+---
+
+[898] 2026/07/27(月) 02:37:53.25 ID:8eZJuFJn0 name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.0][新芽] (ﾜｯﾁｮｲ e393-+EzY) mail:
+「ここはエロのスレではない」とか「ここは画像を貼るスレじゃないが？」みたいな事を言い続けてるアホが一人居座ってるんや 
+ 画像張ると腐すのもプロンプト開示とかに突っかかるのも単に気にくわないからとかやろ
+
+---
+
+[899] 2026/07/27(月) 02:41:19.53 ID:r70XCkUnd name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.9] (ｽｯﾌﾟﾌﾟ Sd32-IfQL) mail:
+「夏」を感じる夜やな🥴
+
+---
+
+[900] 2026/07/27(月) 03:00:59.57 ID:DRS1c95O0 name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.0][新芽] (ﾜｯﾁｮｲ e377-qa4O) mail:
+ガイジに反応する奴も同類だからな 
+ 黙々と画像貼り付けてる奴が1番健全や
+
+---
+
+[901] 2026/07/27(月) 03:06:42.86 ID:EHmhUO930 name:警備員[Lv.11] (ﾜｯﾁｮｲ df85-2bbU) mail:sage
+スレそのものにコンプを生じさせる魔性のスレやな
+
+---
+
+[902] 2026/07/27(月) 03:10:08.42 ID:QwKSQH6N0 name:警備員[Lv.128][SSR武][UR防][苗] (ﾜｯﾁｮｲ e35e-+EzY) mail:
+animaとAnyテストで色んな構図出し放題やろって夢見てたから 
+ 複雑な構図あんま通らなくてガッカリやな 
+ 自然言語がちょっとわかるようになった代わりにdanbooru語の追従性が下がってる感じもするし 
+ 
+ ローカルで無検閲のnanobananaが動く日が早く来てほしいわ
+
+---
+
+[903] 2026/07/27(月) 03:10:31.26 ID:qM2TKfMl0 name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.4][新芽] (ﾜｯﾁｮｲ 53b4-KW3r) mail:sage
+もうこんな時間か。ワイは寝る 
+ https://tadaup.jp/7vSeYWhq.mp4
+
+---
+
+[904] 2026/07/27(月) 03:13:26.89 ID:AiOjqT/F0 name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.24] (ﾜｯﾁｮｲ a78f-x+NG) mail:sage
+>>902 
+ よく勘違いされるけどanimaは脱SDXLしたモデルってだけで最先端の画像生成モデルってわけではないんだよな 
+ モデル自体も小さめだし
+
+---
+
+[905] 2026/07/27(月) 03:18:44.23 ID:EBHbws8Z0 name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.10][新] (ﾜｯﾁｮｲ 8625-XEKp) mail:sage
+本当のことを言うとここはスレじゃない
+
+---
+
+[906] 2026/07/27(月) 03:23:30.66 ID:QwKSQH6N0 name:警備員[Lv.128][SSR武][UR防][苗] (ﾜｯﾁｮｲ e35e-+EzY) mail:
+>>904 
+ なるほどなぁ…… 
+ みんなリアスと併用してるもんな 
+ forge neoを入れる動機になったからそれはよかったわ 
+ サンガツ
+
+---
+
+[907] 2026/07/27(月) 03:25:40.04 ID:FetPkS0v0 name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.51] (ﾜｯﾁｮｲ a38e-DeUy) mail:
+そういやAnimaBaseV2とかはないんかな 
+ V1ももう3ヶ月くらい前よな
+
+---
+
+[908] 2026/07/27(月) 03:30:43.58 ID:AiOjqT/F0 name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.24] (ﾜｯﾁｮｲ a78f-x+NG) mail:sage
+>>907 
+ それより競合がいないのが気になるわ 
+ リアスの開発元も音沙汰ないし
+
+---
+
+[909] 2026/07/27(月) 03:43:31.66 ID:FetPkS0v0 name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.51] (ﾜｯﾁｮｲ a38e-DeUy) mail:
+>>908 
+ やっぱエロいけるデカいモデルは作りづらいんやろな色々と 
+ エロが絡むと中国にもあんま期待できんし当分Animaと付き合っていくことになりそうやね…
+
+---
+
+[910] 2026/07/27(月) 03:54:52.70 ID:gZnmbsYb0 name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.9] (ﾜｯﾁｮｲ 129f-x+NG) mail:sage
+>>881 
+ ワークフローは>>845の動画に残っとるで、まあCivitaiで降ろした借り物やけどな 
+ 生成時間はi7 13700k+RTX4070Ti+メモリ96GBで10分超やな
+
+---
+
+[911] 2026/07/27(月) 03:56:15.92 ID:VxfONz8w0 name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.7][新] (ﾜｯﾁｮｲ 53ce-x+NG) mail:sage
+やけくそLORAテスト 
+ https://image-b2.civitai.com/file/civitai-media-cache/3f275a4b-7fe2-4728-a506-16c2ec23abb0/original?.webp 
+ https://tadaup.jp/7BjebYHI.webp 
+ https://tadaup.jp/7UIDCVgQ.webp 
+ https://tadaup.jp/7LERd9i1.webp 
+ https://tadaup.jp/7wwzRMaT.webp 
+ https://tadaup.jp/7MnSeG1A.webp 
+ https://tadaup.jp/7RDG153x.webp 
+ https://tadaup.jp/7kcIyKd9.webp 
+ https://tadaup.jp/7nwRv9KD.webp 
+ https://image-b2.civitai.com/file/civitai-media-cache/17dc4173-e5d3-42a9-b923-864690e4a8f7/original?.png
+
+---
+
+[912] 2026/07/27(月) 04:07:42.63 ID:QwKSQH6N0 name:警備員[Lv.128][SSR武][UR防][苗] (ﾜｯﾁｮｲ e35e-+EzY) mail:
+>>911 
+ やっぱり一枚普通の立ち絵があるとうま味が違うわね
+
+---
+
+[913] 2026/07/27(月) 04:17:01.79 ID:U2hm3jL/0 name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.4][新] (ﾜｯﾁｮｲ e3bb-8h1f) mail:sage
+下品なアヘ顔stomach bulge美少女からしか得られない栄養素がある
+
+---
+
+[914] 2026/07/27(月) 04:48:16.06 ID:ZV6XQVtx0 name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.0][新芽] (ﾜｯﾁｮｲ b673-x+NG) mail:
+エロ出すのなんか疲れてきたしワシもKrea2とやらを入れてみるかいのぉ・・・
+
+---
+
+[915] 2026/07/27(月) 06:28:04.60 ID:MeyQT+jm0 name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.0][新芽] (ﾜｯﾁｮｲ 5373-IkFD) mail:sage
+こんなに色々良くなってきてもリアスとかの旧webui系の手軽さを超えるものは出ないんだね 
+ 良くなった分モデルがピーキーに感じる、ゆえに直感的には出せない 
+ 構造も硬くて良くも悪くも適当なのがないんだよなー 
+ だから秘伝の味も強いし、飽和してるせいか情報も少なくなったよね
+
+---
+
+[916] 2026/07/27(月) 06:38:59.00 ID:ZV6XQVtx0 name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.5][新] (ﾜｯﾁｮｲ b673-x+NG) mail:
+オマンコって入れてもオマンコ出さねぇしよく分かんねぇからテンプレ的な絵出してもう満足したわ 
+ これアニメとリアルの中間くらいの絵ってどうやって出すの？ 
+ 
+ https://i.imgur.com/18Lfc1C.png 
+ https://i.imgur.com/IF7upXS.png 
+ https://i.imgur.com/gm9g2as.png
+
+---
+
+[917] 2026/07/27(月) 06:41:27.06 ID:2Ol9Gya8M name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.0][新芽] (ﾌﾞｰｲﾓ MM32-oAIo) mail:
+>>863 
+ Masterpiece, best qualityとかは最後に書いた方がええの？
+
+---
+
+[918] 2026/07/27(月) 06:43:06.41 ID:tHfsoNq60 name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.0][新芽] (ﾜｯﾁｮｲ 53b2-x+NG) mail:sage
+公式から供給されてきたので衝動的に作った 
+ 乳に圧迫されながら耳かきされたい 
+ https://ul.h3z.jp/w/icxkQR.png
+
+---
+
+[919] 2026/07/27(月) 06:45:01.59 ID:Fwb+ZfiF0 name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.64][苗] (ﾜｯﾁｮｲ e3e3-0X9m) mail:dongri
+>>916 
+ セミリアルっていうカテゴリーのモデルやLoRAを探してみたら？
+
+---
+
+[920] 2026/07/27(月) 06:46:54.05 ID:Fwb+ZfiF0 name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.64][苗] (ﾜｯﾁｮｲ e3e3-0X9m) mail:dongri
+>>918 
+ 耳塞がるって… 
+ 物理的に膝枕耳掻きが出来ない女や
+
+---
+
+[921] 2026/07/27(月) 06:47:06.24 ID:ZV6XQVtx0 name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.5][新] (ﾜｯﾁｮｲ b673-x+NG) mail:
+>>919 
+ ありがてぇ、こういうのって知らんともうどうやって調べるか分からんし聞くのが一番早いんだよな
+
+---
+
+[922] 2026/07/27(月) 07:26:08.60 ID:0zeeaLRt0 name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.18] (ﾜｯﾁｮｲ de8f-+EzY) mail:
+krea2って時々顔以外リアルになるんやがなんなんやろな 
+ https://tadaup.jp/7aLmnBQq.jpg 
+ https://tadaup.jp/7JmtJn0g.jpg
+
+---
+
+[923] 2026/07/27(月) 07:33:33.32 ID:fgoSaHmc0 name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.6][新] (ﾜｯﾁｮｲ 9bc7-ZThi) mail:sage
+>>918 
+ ええやんけ
+
+---
+
+[924] 2026/07/27(月) 07:35:36.59 ID:U2hm3jL/0 name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.6][新] (ﾜｯﾁｮｲ e3bb-8h1f) mail:sage
+https://tadaup.jp/7NkOMNho.jpeg 
+ 芸術的にオホらせるのって難しいな…
+
+---
+
+[925] 2026/07/27(月) 07:49:48.21 ID:JUVY3FaN0 name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.0][新芽] (ﾜｯﾁｮｲ 53ae-fgAY) mail:sage
+>>918 
+ サイズ申告は良い文化
+
+---
+
+[926] 2026/07/27(月) 08:06:30.72 ID:XTcXGHMZ0 name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.11] (ﾜｯﾁｮｲ 5311-wdMD) mail:
+うちのKrea2ちゃん黒ギャルを頑なに出してくれないんやがそんなに白ギャルが好きなんか 
+ 定番のdark-skinnedとかtannedみたいなのが全く効かなくて途方に暮れてる 
+ 煮卵と見紛うようなツヤツヤテカテカな日焼けなんとかならんか…
+
+---
+
+[927] 2026/07/27(月) 08:12:58.91 ID:1YCCi/2O0 name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.4][新芽] (ﾜｯﾁｮｲ 860c-PfP3) mail:sage
+煮卵が肉体の人間を作ればいいのでは
+
+---
+
+[928] 2026/07/27(月) 08:17:04.41 ID:4yewT8Eq0 name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.16] (ﾜｯﾁｮｲ e33f-fj/M) mail:sage
+ガングロたまごちゃんじゃん
+
+---
+
+[929] 2026/07/27(月) 08:39:14.49 ID:XTcXGHMZ0 name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.0][新芽] (ﾜｯﾁｮｲ 5311-x+NG) mail:
+黒ギャルはダメでも妖怪煮卵ギャルはすぐにお出ししてくれた 
+ なんでや… 
+ https://tadaup.jp/7VnvsyzJ.webp
+
+---
+
+[930] 2026/07/27(月) 08:39:58.52 ID:eFRnnmru0 name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.0][新芽] (ﾜｯﾁｮｲ e3c9-x+NG) mail:
+>>929 
+ 破壊力がありすぎる
+
+---
+
+[931] 2026/07/27(月) 08:43:56.16 ID:5aY3pc7d0 name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.0][新芽] (ﾜｯﾁｮｲ 4778-9xuh) mail:
+>>922 
+ 若干GPTみも感じる
+
+---
+
+[932] 2026/07/27(月) 08:44:03.93 ID:iKzio6VI0 name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.0][新芽] (ﾜｯﾁｮｲ 9baa-x+NG) mail:sage
+>>845 
+ ええやん 
+ よかったらワークフロークレメンス
+
+---
+
+[933] 2026/07/27(月) 08:45:54.35 ID:U2hm3jL/0 name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.7][新] (ﾜｯﾁｮｲ e3bb-8h1f) mail:sage
+>>929 
+ 汁まみれでえっちすぎる
+
+---
+
+[934] 2026/07/27(月) 08:53:09.16 ID:s211fgIy0 name:警備員[Lv.128][SSR武][UR防][苗] (ﾜｯﾁｮｲ 1245-ytPD) mail:sage
+>>858 
+ サンキュー 
+ うなぎは試してないけどどうにもウナギイヌがちらついてダメだったｗ 
+ 
+ >>918 
+ デッカ…でもサイズを聞くとそうでもないかなと思える不思議ｗ
+
+---
+
+[935] 2026/07/27(月) 09:14:11.72 ID:iKzio6VI0 name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.0][新芽] (ﾜｯﾁｮｲ 9baa-x+NG) mail:sage
+comfyui最新にしたらちょいちょいUIおかしなっとるな 
+ loraの強度の←→がクリックしても効かなかったりいつの間にか吹き出しが出ていて消せなかったり直し方が分からん
+
+---
+
+[936] 2026/07/27(月) 09:16:29.48 ID:fMLIfxij0 name:警備員[Lv.4][新芽] (ﾜｯﾁｮｲ 5338-b6UF) mail:sage
+>>929 
+ 人間では絶対思い付かない発想力に寧ろ感心やで
+
+---
+
+[937] 2026/07/27(月) 09:18:50.80 ID:Nm7sY+o70 name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.70][苗] (ﾜｯﾁｮｲ 1eaa-rotY) mail:
+ところでideogramってこのスレ的にはもう流行ってないのか？
+
+---
+
+[938] 2026/07/27(月) 09:36:12.06 ID:GYcPAthb0 name:警備員[Lv.143][苗] (ﾜｯﾁｮｲ 16b0-+sDE) mail:sage
+>>932 
+ >>910
+
+---
+
+[939] 2026/07/27(月) 09:41:36.60 ID:/A89fVc60 name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.32] (ﾜｯﾁｮｲ 5307-x+NG) mail:sage
+krea2で黒ギャル出来たで 
+ 
+ よく分からんが素の状態だと出て来なくて 
+ Krea2T Enhancer Advancedノードで検閲解除すると出て来る 
+ 
+ つまり･･･黒ギャルは検閲対象･･･ 
+ https://tadaup.jp/7Rqcd9aT.png
+
+---
+
+[940] 2026/07/27(月) 09:42:41.38 ID:LWSMUArx0 name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.9] (ﾜｯﾁｮｲ f24e-x+NG) mail:
+>>937 
+ ideogramはプロンプトの書き方が面倒過ぎたわ 
+ 一枚の絵の為に手間暇かけて商用アート作りたい人とか向けやと思う
+
+---
+
+[941] 2026/07/27(月) 09:49:26.40 ID:/A89fVc60 name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.32] (ﾜｯﾁｮｲ 5307-x+NG) mail:sage
+>>917 
+ 正しい構文は分からんけどワイは品質系のプロンプトを何となく最後の方に入れてるな
+
+---
+
+[942] 2026/07/27(月) 09:54:20.40 ID:qM2TKfMl0 name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.6][新] (ﾜｯﾁｮｲ 53b4-KW3r) mail:sage
+ギャルを指定したら勝手に黒ギャルで出たで 
+ https://tadaup.jp/7tPHqzmB.png
+
+---
+
+[943] 2026/07/27(月) 10:01:07.77 ID:iKzio6VI0 name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.3][新芽] (ﾜｯﾁｮｲ 9baa-x+NG) mail:sage
+サンガツ 
+ ワークフロー残ってたんか 
+ tada残らんと思ってたわ
+
+---
+
+[944] 2026/07/27(月) 10:06:39.94 ID:kh24Kh9Y0 name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.0][新芽] (ﾜｯﾁｮｲ 2798-HCIA) mail:
+forgeNEOでDynamicPromptが正常に動作しなくなったんだが同じ人いる？ 
+ conbinatorial generationにチェックいれると全く動作しないんよね、入れないと正常に動作はする 
+ エラーメッセージも出ないでストップするから困っている
+
+---
+
+[945] 2026/07/27(月) 10:44:03.32 ID:fMLIfxij0 name:警備員[Lv.6][新] (ﾜｯﾁｮｲ 5338-b6UF) mail:sage
+>>939 
+ やっぱ王道の黒ギャル最高やな
+
+---
+
+[946] 2026/07/27(月) 10:46:42.11 ID:GTmHUF6e0 name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.0][新芽] (ﾜｯﾁｮｲ b799-92CM) mail:
+>>944 
+ __を$に変えるといい
+
+---
+
+[947] 2026/07/27(月) 10:51:55.43 ID:9yWnMT5v0 name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.140][UR武限][UR防][苗] (ﾜｯﾁｮｲ 32b5-ZThi) mail:
+試したけどギャルってNGなんやな変速投げても無理やった
+
+---
+
+[948] 2026/07/27(月) 11:03:47.31 ID:F0Dznde30 name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.10] (ﾜｯﾁｮｲ e71a-om0x) mail:sage
+サヤカちゃんのlora civitai に上げたら全画像pg-13にされて草 
+ キッズ向けゲームのキャラに公式の衣装着せてるだけなのになんでやろなあ
+
+---
+
+[949] 2026/07/27(月) 11:11:29.76 ID:QRC1TFFf0 name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.0][新芽] (ﾜｯﾁｮｲ 86dd-6PXk) mail:sage
+これ豆なんだけど、Danbooruタグとしてのギャルはgalじゃなくてgyaruな
+
+---
+
+[950] 2026/07/27(月) 11:16:20.76 ID:SKW8mjmT0 name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.0][新芽] (ﾜｯﾁｮｲ 53d1-ytPD) mail:sage
+今月のclaude max20xプラン持て余しとるからcomfyのカスタムノード作ろうかと思ったけどこうなると思い浮かばんな
+
+---
+
+[951] 2026/07/27(月) 11:22:20.02 ID:6hz2cMTM0 name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.16] (ﾜｯﾁｮｲ 97b3-+hO6) mail:
+civitai、ナヒーダにまでMINOR（未成年）フラグ付くようになってしまった
+
+---
+
+[952] 2026/07/27(月) 11:24:18.00 ID:Nm7sY+o70 name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.71][苗] (ﾜｯﾁｮｲ 1eaa-rotY) mail:
+>>951 
+ 500歳のキャラクターを未成年扱いとか頭おかしいわホンマ
+
+---
+
+[953] 2026/07/27(月) 11:26:50.48 ID:5GgfvBs60 name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.0][新芽] (ﾜｯﾁｮｲ 866e-9vd+) mail:
+>>863 
+ 英語の長文見たらヘイジュードがキング牧師のアレかと思ったわ
+
+---
+
+[954] 2026/07/27(月) 11:30:44.38 ID:zEWjTen30 name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.7] (ﾜｯﾁｮｲ 63a5-lrqI) mail:
+なんかサーモグラフィセックスになってしまった 
+ LoRA2つ使っただけだけど相性悪かったのかな 
+ 
+ https://i.imgur.com/gBiQq9M.jpeg 
+ https://i.imgur.com/zQlo9LB.jpeg
+
+---
+
+[955] 2026/07/27(月) 11:32:00.40 ID:F0Dznde30 name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.10] (ﾜｯﾁｮｲ e71a-om0x) mail:sage
+まあaiコンテンツが氾濫して、チェック側もaiに任せざるを得ない昨今、画像内の情報だけで判定されるのはしゃーない気はする 
+ そもそも二時規制すんなってのはまあそう
+
+---
+
+[956] 2026/07/27(月) 11:36:20.61 ID:t6jHL1Du0 name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.0][新芽] (ﾜｯﾁｮｲ e3b8-8h1f) mail:sage
+>>954 
+ これはこれで…
+
+---
+
+[957] 2026/07/27(月) 11:37:40.95 ID:HFkV51540 name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.0][新芽] (ﾜｯﾁｮｲ 866d-XEKp) mail:sage
+>>954 
+ 肛門が熱そう
+
+---
+
+[958] 2026/07/27(月) 11:41:42.74 ID:EHmhUO930 name:警備員[Lv.12] (ﾜｯﾁｮｲ df85-2bbU) mail:sage
+事故から生まれる性癖もある 
+ BREAKのように
+
+---
+
+[959] 2026/07/27(月) 11:44:35.34 ID:mtiB6H/w0 name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.16] (ﾜｯﾁｮｲ 128b-OyDm) mail:sage
+>>952 
+ 一昔前の「※登場人物は全て18歳以上です」で何とかなる時代は終わったんだ
+
+---
+
+[960] 2026/07/27(月) 11:46:56.72 ID:1+IncLxo0 name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.5][芽] (ﾜｯﾁｮｲ 969e-IUqu) mail:
+>>959 
+ 外人はバカなのでそういうの通じない
+
+---
+
+[961] 2026/07/27(月) 11:47:17.08 ID:1YCCi/2O0 name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.0][新芽] (ﾜｯﾁｮｲ 8631-x+NG) mail:sage
+>>846 
+ https://www.youtube.com/@BenjisAIPlayground 
+ 
+ この人 
+ この人のWFは全般的にわかりやすくて出来も安定してるよ 
+ 動画WFが多い
+
+---
+
+[962] 2026/07/27(月) 11:50:50.75 ID:O/11nE260 name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.0][新芽] (ﾜｯﾁｮｲ 8664-OCo2) mail:
+すまん、animaのLORA学習用のキャプションってどうすればええんや？ 
+ 画像解析して自然言語で作ってくれるツールとかあるんやろか
+
+---
+
+[963] 2026/07/27(月) 11:53:28.03 ID:mtiB6H/w0 name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.16] (ﾜｯﾁｮｲ 128b-OyDm) mail:sage
+>>962 
+ VLMにぶん投げればいい。自分はJoyCaption使って付けてる
+
+---
+
+[964] 2026/07/27(月) 11:56:43.60 ID:O/11nE260 name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.0][新芽] (ﾜｯﾁｮｲ 8664-OCo2) mail:
+>>963 
+ サンキュー！調べてみる
+
+---
+
+[965] 2026/07/27(月) 11:56:47.23 ID:evZsTfsJ0 name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.0][新芽] (ﾜｯﾁｮｲ 8667-x+NG) mail:
+>>895 
+ レジストリで変更そのものを禁止にしてる 
+ 
+ [HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Policies\ActiveDesktop] 
+ "NoChangingWallPaper"=dword:1
+
+---
+
+[966] 2026/07/27(月) 11:59:52.98 ID:F0Dznde30 name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.10] (ﾜｯﾁｮｲ e71a-om0x) mail:sage
+>>962 
+ 自作ツールの宣伝してええか 
+ https://github.com/fwaunstp/fwaun-tools 
+ Aiでタグとキャプションつけてsd-scripts互換のjsonファイル出力できるツールや
+
+---
+
+[967] 2026/07/27(月) 12:15:29.86 ID:O/11nE260 name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.0][新芽] (ﾜｯﾁｮｲ 8664-OCo2) mail:
+>>966 
+ サンキュー！ 
+ 自然言語とdanbooru両対応なのええな
+
+---
+
+[968] 2026/07/27(月) 12:18:11.20 ID:DB+1mmId0 name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.0][新芽] (ﾜｯﾁｮｲ 8311-x+NG) mail:
+>>954 
+ 昔こんな盗撮AVあったようなｗ
+
+---
+
+[969] 2026/07/27(月) 12:21:01.69 ID:vJaeG/Lx0 name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.200][UR武][SSR防][木] (ﾜｯﾁｮｲ e3d9-YyCH) mail:sage
+>>966 
+ 便利そうやな！時間ある時に触ってみたいンゴね。共有ありがとﾅｽ！ 
+ 
+ モデルも出してるってことでご教示頂きたいんやけど、キャプションて部族語＋自然言語でつけてるンゴ？ 
+ あと学習は公式案内の通りU net のみやろうか？ 
+ 
+ ワイがQwen3-VLでやっても指示文が悪いからか上手くいかなくてな… 
+ 自然言語学習でうまく行ったこと一度もないんや…
+
+---
+
+[970] 2026/07/27(月) 12:21:47.05 ID:WcdInD2c0 name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.72][R武][SSR防] (ﾜｯﾁｮｲ e316-82sy) mail:sage
+>>954 
+ 草
+
+---
+
+[971] 2026/07/27(月) 12:22:40.39 ID:Fwb+ZfiF0 name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.65][苗] (ﾜｯﾁｮｲ e3e3-0X9m) mail:dongri
+>>929 
+ 無駄に質感がリアルなのが腹立つw
+
+---
+
+[972] 2026/07/27(月) 12:26:01.72 ID:EbTudwP00 name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.13] (ﾜｯﾁｮｲ 1201-uGUf) mail:sage
+学習フォルダ選んだらキャプションtxt作るworkflow使ってたがPC買い替えた時に失くしたな
+
+---
+
+[973] 2026/07/27(月) 12:26:05.12 ID:DJ9SoL4k0 name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.161][苗] (ﾜｯﾁｮｲ e33e-ZThi) mail:sage
+淫夢のりんごみたいなやつ
+
+---
+
+[974] 2026/07/27(月) 12:28:57.57 ID:aIXIJwQc0 name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.0][新芽] (ﾜｯﾁｮｲ 2777-IkFD) mail:
+>>939 
+ 「肌が黒い」って表現がポリコレフィルターに引っかかってる可能性か 
+ 「日焼けした肌」って表現が水着とかに結び付けられて引っかかってる可能性あるな
+
+---
+
+[975] 2026/07/27(月) 12:35:39.21 ID:XN0Drnfn0 name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.41][苗] (ﾜｯﾁｮｲ a785-Iv4t) mail:
+>>929 
+ 煮卵のような肌のギャル出してって頼むとこうなるんか？
+
+---
+
+[976] 2026/07/27(月) 12:36:30.55 ID:Vl9kkort0 name:警備員[Lv.0][新芽] (ﾜｯﾁｮｲ 9b96-IkFD) mail:sage
+ギャル雑誌のegg入れたんやろ？
+
+---
+
+[977] 2026/07/27(月) 12:37:25.48 ID:z2LUnk3v0 name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.0][新芽] (ﾜｯﾁｮｲ e358-+EzY) mail:sage
+klea2に脱獄テキストエンコーダーを使うと結果が変わるとか変わらないとか
+
+---
+
+[978] 2026/07/27(月) 12:40:04.03 ID:GYcPAthb0 name:警備員[Lv.143][苗] (ﾜｯﾁｮｲ 16b0-+sDE) mail:sage
+そろそろ次スレ立てようかな
+
+---
+
+[979] 2026/07/27(月) 12:40:41.91 ID:8R39Tc94M name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.0][新芽] (ﾌﾞｰｲﾓ MM32-XEKp) mail:sage
+>>929 
+ 手足のアンバランスさがどこかで見た感じなのに思い出せない
+
+---
+
+[980] 2026/07/27(月) 12:42:09.63 ID:QN68T/oI0 name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.0][新芽] (ﾜｯﾁｮｲ 8628-fj/M) mail:sage
+>>973 
+ ニコニコにあったdecember'810っていうMAD思い出した
+
+---
+
+[981] 2026/07/27(月) 12:49:27.84 ID:F0Dznde30 name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.11] (ﾜｯﾁｮｲ e71a-om0x) mail:sage
+>>969 
+ 少なくともワイのツールではキャプションとタグは別々や、キャプション欄は完全に自然言語や 
+ と言うのもsd-scriptsでjsonファイルでキャプション渡す場合、タグとキャプションそれぞれ設定できるんでな 
+ といってもぶっちゃけた話animaに関しては自然言語の学習の成果実感したことないで。自然言語キャプションの有無での差とかも検証しとらんし。 
+ https://civitai.red/models/2794005/dragonmaids-yu-gi-oh 
+ これはkrea2やけど、こんな感じに複数人並べたいとかだとleft girl is laundry dragonmaid みたいなキャプション必須やろうけど、そうでなければ自然言語キャプションいらん気もしとる。 
+ Unet云々はllm adapterを学習させないってことであっとる？であればワイもそうしとるけど、これもさせた場合と比較しとらんから差はわからん。 
+ プロンプトなんかはワイもaiに聞いとるんで、「こう言うlora 作りたいんでキャプショニングのためのプロンプト考えてくれ」って聞くとええと思うで
+
+---
+
+[982] 2026/07/27(月) 12:49:40.23 ID:GYcPAthb0 name:警備員[Lv.143][苗] (ﾜｯﾁｮｲ 16b0-+sDE) mail:sage
+立てたでー 
+ 
+ なんJNVA部★673 
+ https://fate.5ch.io/test/read.cgi/liveuranus/1785123927/
+
+---
+
+[983] 2026/07/27(月) 12:52:20.29 ID:zEWjTen30 name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.8] (ﾜｯﾁｮｲ 63a5-lrqI) mail:
+>>979 
+ ハンプティダンプティ？
+
+---
+
+[984] 2026/07/27(月) 12:53:06.18 ID:F0Dznde30 name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.11] (ﾜｯﾁｮｲ e71a-om0x) mail:sage
+>>982 
+ サンガツ！
+
+---
+
+[985] 2026/07/27(月) 12:55:47.31 ID:K+FONHuzM name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.0][新芽] (ﾌﾞｰｲﾓ MMde-XEKp) mail:sage
+>>983 
+ https://i.imgur.com/NW6Htre.png
+
+---
+
+[986] 2026/07/27(月) 12:56:33.81 ID:QN68T/oI0 name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.0][新芽] (ﾜｯﾁｮｲ 8628-fj/M) mail:sage
+>>985 
+ 草
+
+---
+
+[987] 2026/07/27(月) 12:57:37.56 ID:GYcPAthb0 name:警備員[Lv.143][苗] (ﾜｯﾁｮｲ 16b0-+sDE) mail:sage
+>>929はharukimixだからリアルな人間になるんだな 
+ 素のkrea2だとCGキャラみたいになってしまう https://i.ibb.co/S77kHy0Y/S77kHy0Y.webp 
+ ちなみにMage-flowで出してみるとこう https://i.ibb.co/qLk2nfJp/qLk2nfJp.webp 
+ Mage-flowはワイのプロンプト力が足りないのかもしれないがもうちょっとこう…
+
+---
+
+[988] 2026/07/27(月) 13:04:18.00 ID:59BXu3HG0 name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.0][新芽] (ﾜｯﾁｮｲ e341-ZThi) mail:
+>>985 
+ ワイ　ほんまこういうAIの使い方するニキ好き
+
+---
+
+[989] 2026/07/27(月) 13:10:25.76 ID:dT+rLwNj0 name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.343][木] (ﾜｯﾁｮｲ d257-0M99) mail:sage
+>>985 
+ 問2～6も見たくなる
+
+---
+
+[990] 2026/07/27(月) 13:28:32.29 ID:9AalFoKN0 name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.0][新芽] (ﾜｯﾁｮｲ 5357-x+NG) mail:sage
+ずっとwaiのanima使ってるけど、みんな今は何のモデルメインで使ってるんだろ 
+ animaの速度が早いからなかなか試せてないけど他も気になるんだよな
+
+---
+
+[991] 2026/07/27(月) 13:43:03.11 ID:aaE2QzqI0 name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.8][新] (ﾜｯﾁｮｲ 86a8-M2cS) mail:
+>>954 
+ 一時期Grokでサーモグラフィ映像ばかり作ってたの思い出したで 
+ なんか妙にモデ率が低くてな
+
+---
+
+[992] 2026/07/27(月) 14:03:39.69 ID:gZnmbsYb0 name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.5] (ﾜｯﾁｮｲ 129f-lLXv) mail:sage
+Kimi K3ホンマに今夜公開するんや 
+ https://x.com/pc_watch/status/2081560736267169988 
+ どんくらいスペックいるんやろと思って調べてみたら、なんとHBMが1.4TB必要らしい…さすが2.8兆パラメータやでぇ 
+ https://finance.biggo.jp/news/c87be533-c2e7-4847-bdcb-7beba4e00d55
+
+---
+
+[993] 2026/07/27(月) 14:05:49.26 ID:gE69Ay4Ma name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.0][新芽] (ｱｳｱｳｳｰ Sac3-exzg) mail:
+>>939 
+ ルーズソックスも出ないからな 
+ すぐLora作られてて笑ったけど
+
+---
+
+[994] 2026/07/27(月) 14:27:33.54 ID:JdXXAHi50 name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.0][新芽] (ﾜｯﾁｮｲ 861b-92TE) mail:
+>>990 
+ 最近はAnima aesthetic v1.1やな
+
+---
+
+[995] 2026/07/27(月) 14:28:30.62 ID:86/Xmxu/0 name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.0][新芽] (ﾜｯﾁｮｲ ef90-i3Ny) mail:sage
+お豆さんを直撃！
+
+---
+
+[996] 2026/07/27(月) 14:30:12.74 ID:9yWnMT5v0 name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.141][UR武限][UR防][苗] (ﾜｯﾁｮｲ 32b5-ZThi) mail:
+kimi震えてきた
+
+---
+
+[997] 2026/07/27(月) 14:32:13.47 ID:0pYsIof1M name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.0][新芽] (ﾌﾞｰｲﾓ MMde-XEKp) mail:sage
+NitamagoのKimi
+
+---
+
+[998] 2026/07/27(月) 14:33:34.23 ID:fMLIfxij0 name:警備員[Lv.7][新] (ﾜｯﾁｮｲ 5338-b6UF) mail:sage
+そろそろ質問を
+
+---
+
+[999] 2026/07/27(月) 14:36:06.50 ID:gXC3Bt5G0 name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.9] (ﾜｯﾁｮｲ 927d-f5Ip) mail:
+>>895 
+ OneDrive経由で全ログイン環境同じ背景にする機能あるけど下手したらアカウントバンされるなw
+
+---
+
+[1000] 2026/07/27(月) 14:38:50.59 ID:8q0EQZwG0 name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.0][新芽] (ﾜｯﾁｮｲ d207-+EzY) mail:sage
+質問いいですか？
+
+---
+
+[1001] Over 1000 Thread name:1001 mail:
+このスレッドは１０００を超えました。 
+ 新しいスレッドを立ててください。 
+life time: 3日 8時間 50分 52秒
+
+---
+
+[1002] Over 1000 Thread name:1002 mail:
+5ちゃんねるの運営はUPLIFT会員の皆さまに支えられています。 
+ 運営にご協力お願いいたします。 
+ 
+ 
+ ─────────────────── 
+ 《UPLIFT会員の主な特典》 
+ ★ 5ちゃんねる専用ブラウザからの広告除去 
+ ★ 5ちゃんねるの過去ログを取得 
+ ★ 書き込み規制の緩和 
+ ─────────────────── 
+ 
+ 会員登録には個人情報は一切必要ありません。 
+ 4 USD/mon. から匿名でご購入いただけます。 
+ 
+ ▼ UPLIFT会員登録はこちら ▼ 
+ https://uplift.5ch.io/ 
+ 
+ ▼ UPLIFTログインはこちら ▼ 
+ https://uplift.5ch.io/login
+
+
+===== THREAD 2/2 =====
+title: 9: なんJNVA部★673 (260)
+thread_id: 1785123927
+thread_url: https://fate.5ch.io/test/read.cgi/liveuranus/1785123927/
+response_range: 1-260
+previous_last_res: 0
+new_response_range: 1-260
+===== POSTS =====
+
+[1] 2026/07/27(月) 12:45:27.07 ID:9IR0x6HCM name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった (ｵｲｺﾗﾐﾈｵ MM63-teTH) mail:
+!extend:default:vvvvv:1000:512:donguri=0/3: 
+ !extend:default:vvvvv:1000:512:donguri=0/3: 
+ スレ立てのときは↑の!extend:default:vvvvv:1000:512:donguri=0/3:を3行ぐらいに増やしてな 
+ なんJNVA部Wiki: https://seesaawiki.jp/nai_ch/d/ 
+ Danbooru謹製タグ辞典: https://danbooru.donmai.us/posts?tags=tag_groups 
+ 避難所: http://bbs.jpnkn.com/test/read.cgi/JNVA/1696574746/ 
+ 避難所: ぷにぷにNVA部★30 http://bbs.punipuni.eu/test/read.cgi/vaporeon/1785076597/ 
+ ※前スレ 
+ なんJNVA部★672 
+ https://fate.5ch.io/test/read.cgi/liveuranus/1784839679/ VIPQ2_EXTDAT: default:vvvvv:1000:512:donguri=0/3: EXT was configured
+
+---
+
+[2] 2026/07/27(月) 12:46:57.11 ID:GYcPAthb0 name:警備員[Lv.143][苗] (ﾜｯﾁｮｲ 16b0-+sDE) mail:sage
+■アップローダーについて 
+ 「megaの復号キーが分からん」…「#」以下も含めたURL全体をコピペして飛べ 
+ https://imgur.com/…メタデータは削除される。自分が上げた画像を一覧したい（要ログイン）ときに。エロNG。webp非対応 
+ https://ul.h3z.jp/…エロOK。ただし性器を見せびらかすような表現は修正ありでもNG。jpgのEXIFは削除されるがwebpのメタデータは削除されない 
+ https://catbox.moe/…2026年4月24日ごろ、litterも含めたURLが5chのNGワードに登録された。どうしてもcatboxのURLを貼りたいときはhttps://cat○box.moe/～などと書く。メタデータ入りの画像を貼りたい、自分が上げた画像を一覧したい（要ログイン）ときに。エロや画像以外もOK。やや不安定で閲覧やログインできない時がある 
+ https://imgbb.com/…メタデータ入りの画像を貼りたい、自分が上げた画像を一覧したい（要ログイン）ときに。エロNGだがある程度までは黙認（ただしアカウントBANに事前の警告はない）。画像のURLにはアップした画像のファイル名がそのまま使われるが、URL末尾のファイル名の部分は適当な文字列に変更してもかまわない 
+ https://tadaup.jp/…メタデータは削除されないことがある。アップロードした画像や動画、音声などのファイルは1時間／1日／1週間で削除される（アップ時に選択）。削除されない「イラスト保管庫」はイラスト専用。ユーザー登録すると自分が上げた画像を一覧できる。18禁画像を上げるとき用のチェックボックスがある 
+ ※NovelAIの画像生成情報はPNGのメタデータだけでなくアルファチャンネルにも埋め込まれており、imgurに上げてもアルファチャンネルに埋め込まれた生成情報は残る 
+ ■ponyXLについて https://seesaawiki.jp/nai_ch/d/PonyDiffusionV6XLTips 
+ ■FLUX.1について https://seesaawiki.jp/nai_ch/d/FLUX1tips 
+ ■Illustrious-XL-v0.1について https://seesaawiki.jp/nai_ch/d/illustrious_xl_01tips 
+ ■animaについて https://seesaawiki.jp/nai_ch/d/anima
+
+---
+
+[3] 2026/07/27(月) 12:47:49.23 ID:GYcPAthb0 name:警備員[Lv.143][苗] (ﾜｯﾁｮｲ 16b0-+sDE) mail:sage
+■どんぐり最低限説明（ https://donguri.5ch.net/faq 、 https://donguri.wikiru.jp/ も参照） 
+ Q.レベルが上がらねえぞ　→　A.時間経過と書き込み数で上がる。スマホや回線によってはよく0に戻る。 https://seesaawiki.jp/nai_ch/d/donguri を読んでどんぐりログインしどんぐりネームを変更するとレベルが下がらなくなる 
+ Q.どんぐりはなくなったの?　→　2025年10月13日に運営から「どんぐりシステムをサスペンドする」と発表があった。すべてのスレはどんぐりレベルによらず書き込めるようになり、大砲でレベルが下がることもなくなった 
+ ■その他 
+ Q.NovelAIの話題が少ないんだけど　→　>>1のWikiにある「雑談スレ」にユーザーが集まっている。CG板にもNovelAIスレがある https://mevius.5ch.io/test/read.cgi/cg/1769489534/ 
+ Q.ComfyUIのインストール方法がたくさんあってどれがいいのかわからない　→　https://note.com/hirorohi03/n/n1aa02e7ce276 を参照 
+ Q.EasyWan22ってどう?　→　推奨しない。メンテされなくなってしばらく経ち、現在はインストールに失敗する 
+ Q.なんか久々にA1111使ったら生成がクソ遅いぞ！　→　A.まずは旧Lycorisの拡張機能を消せ。話はそれからだ 
+ Q.グラボの型番について書きたいのにエラーが出る　→　A.4桁の半角数字は回線によっては書き込めない。全角にしたりゼロをオーにするなどで書き込める 
+ Q.🎈ってなに?　→　https://seesaawiki.jp/nai_ch/d/%b8%c5%bb%f6%b5%ad#content_4_136 を参照 
+ Q.部族語ってなに?　→　danbooruタグを並べたようなプロンプトのこと。 https://fate.5ch.io/test/read.cgi/liveuranus/1755257819/970 を参照
+
+---
+
+[4] 2026/07/27(月) 12:49:10.16 ID:GYcPAthb0 name:警備員[Lv.143][苗] (ﾜｯﾁｮｲ 16b0-+sDE) mail:sage
+>>1のぷにぷに避難所のURLを差し替えたで 
+ 即死回避を20までよろしう 
+ https://i.ibb.co/whr4QKJm/whr4QKJm.jpg
+
+---
+
+[5] 2026/07/27(月) 12:55:18.30 ID:F0Dznde30 name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.11] (ﾜｯﾁｮｲ e71a-om0x) mail:sage
+サンイチ！ 
+ https://tadaup.jp/7f4BxrOu.png
+
+---
+
+[6] 2026/07/27(月) 12:56:50.12 ID:nWnOOrz80 name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.4][新芽] (ﾜｯﾁｮｲ e3ed-x+NG) mail:
+サンイチ 
+ https://tadaup.jp/7f9QRIuk.jpg
+
+---
+
+[7] 2026/07/27(月) 13:00:57.60 ID:t6jHL1Du0 name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.3][新芽] (ﾜｯﾁｮｲ e3b8-8h1f) mail:sage
+https://ul.h3z.jp/zRX4dVvg.jpeg 
+ サンイチ
+
+---
+
+[8] 2026/07/27(月) 13:01:34.28 ID:6hz2cMTM0 name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.328][SSR武][SR防+7][木] (ﾜｯﾁｮｲ 97b3-U3uY) mail:
+サンイチ 
+ https://i.ibb.co/v6V6gfgc/Comfy-UI-12-56-44-0002.webp
+
+---
+
+[9] 2026/07/27(月) 13:01:47.15 ID:FmwvA1EW0 name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.0][新芽] (ﾜｯﾁｮｲ b739-BTuC) mail:sage
+サンイチ 
+ https://tadaup.jp/7sjNfsDT.jpg
+
+---
+
+[10] 2026/07/27(月) 13:02:49.81 ID:DgqslRfK0 name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.85][SR武][SR防][苗] (ﾜｯﾁｮｲ 12cd-Tbf9) mail:
+サンイチ 
+ https://f.k7m.f5.si/wo1e75.webp 
+ https://f.k7m.f5.si/lf63hv.webp
+
+---
+
+[11] 2026/07/27(月) 13:04:03.79 ID:F0Dznde30 name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.11] (ﾜｯﾁｮｲ e71a-om0x) mail:sage
+https://tadaup.jp/7IFP3Gpr.png 
+ サンイチ
+
+---
+
+[12] 2026/07/27(月) 13:07:39.78 ID:nWnOOrz80 name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.4][新芽] (ﾜｯﾁｮｲ e3ed-x+NG) mail:
+もうちょい支援
+
+---
+
+[13] 2026/07/27(月) 13:07:47.72 ID:59BXu3HG0 name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.0][新芽] (ﾜｯﾁｮｲ e341-ZThi) mail:
+サンイチ 
+ https://tadaup.jp/7fYbUufX.webp 
+ https://tadaup.jp/7P9DhxzP.webp
+
+---
+
+[14] 2026/07/27(月) 13:12:38.37 ID:F0Dznde30 name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.11] (ﾜｯﾁｮｲ e71a-om0x) mail:sage
+まだ支援した方がええんか
+
+---
+
+[15] 2026/07/27(月) 13:13:42.61 ID:qd+v2eIk0 name:警備員[Lv.164][UR武][SSR防][苗] (ﾜｯﾁｮｲ 278d-UO5Q) mail:sage
+サンイチ 
+ https://i.ibb.co/BV606DQQ/0727-Krea2.jpg 
+ https://i.ibb.co/nsPrGgD5/0727-Krea2.jpg
+
+---
+
+[16] 2026/07/27(月) 13:15:15.29 ID:GYcPAthb0 name:警備員[Lv.143][苗] (ﾜｯﾁｮｲ 16b0-+sDE) mail:sage
+この時間帯なら、がんばらなくてもほどなく20まで行くと思うで
+
+---
+
+[17] 2026/07/27(月) 13:15:17.07 ID:sGh7kX6tM name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.0][新芽] (ﾌﾞｰｲﾓ MM32-XEKp) mail:sage
+サンイチ 
+ https://tadaup.jp/7LONHYvt.mp4
+
+---
+
+[18] 2026/07/27(月) 13:16:03.60 ID:eFRnnmru0 name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.5][新芽] (ﾜｯﾁｮｲ e3c9-x+NG) mail:
+サンイチ 
+ https://tadaup.jp/7l1rAMtK.jpg 
+ https://tadaup.jp/7m6d3Y5O.jpg 
+ https://tadaup.jp/7K3EIQvN.jpg
+
+---
+
+[19] 2026/07/27(月) 13:18:27.61 ID:VxfONz8w0 name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.0][新芽] (ﾜｯﾁｮｲ 53cb-x+NG) mail:sage
+サンイチ 
+ https://i.ibb.co/Hp74ttFh/20260727122218-832x1248-euler-simple-12-1-434050716170289-02.webp
+
+---
+
+[20] 2026/07/27(月) 13:19:12.70 ID:rjVqKC100 name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.0][新芽] (ﾜｯﾁｮｲ e369-FlcO) mail:
+みんな長生きしてくれよ 
+ https://x.com/i/status/2081522700523331602
+
+---
+
+[21] 2026/07/27(月) 13:28:24.24 ID:fgoSaHmc0 name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.0][新芽] (ﾜｯﾁｮｲ 9b46-ZThi) mail:sage
+サンイチ 
+ https://tadaup.jp/7WkIC04L.jpg
+
+---
+
+[22] 2026/07/27(月) 13:32:37.75 ID:Nm7sY+o70 name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.71][苗] (ﾜｯﾁｮｲ 1eaa-rotY) mail:
+動画生成してできたwebpから特定のフレームだけ取得したいときってどうしてる？ 
+ 一応ComfyUI上でもできはするんだが、エクスプローラー上でコピペするくらいの手軽さでやりたい 
+ batファイル作るのが一番いいか？
+
+---
+
+[23] 2026/07/27(月) 13:37:23.94 ID:VxfONz8w0 name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.0][新芽] (ﾜｯﾁｮｲ 53cb-x+NG) mail:sage
+そのファイルがブラウザで動画として開けるならブラウザでそのファイルを開いて抜き取りたいフレームで一時停止して右クリック「動画フレームに名前をつけて保存」（Chromeの場合）
+
+---
+
+[24] 2026/07/27(月) 13:56:37.49 ID:XAswgBq60 name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.4][新芽] (ﾜｯﾁｮｲ 9b5d-x+NG) mail:sage
+サンイチ 
+ https://tadaup.jp/7hO4zhMI.png
+
+---
+
+[25] 2026/07/27(月) 14:05:02.06 ID:bwMrvxWJ0 name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.0][新芽] (ﾜｯﾁｮｲ e32c-x+NG) mail:sage
+サンイチ 
+ 
+ (失敗1) https://tadaup.jp/7Hptd2bQ.mp4「残念、チョコ味のパピコでした」 
+ (失敗2) https://tadaup.jp/7bVoiESg.mp4「残念、お腹から出たパンでした」 
+ 
+ 以前Licon-MSR(LTX2.3系)で実験したのと同じような元画像(キャラ１、キャラ２、背景の３枚)を使ってBernini-R(Wan2.2系)で実験した時の副産物。 
+ まあ、Bernini-Rもそのままでは局部描写は無理っぽい。 
+ モデルは(https://huggingface.co/Comfy-Org/Bernini-R/tree/main/diffusion_models)のint8_convrot版を使用
+
+---
+
+[26] 2026/07/27(月) 14:36:17.17 ID:TF4i/ED50 name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.0][新芽] (ﾜｯﾁｮｲ 865a-fj/M) mail:sage
+>>21 
+ ぼくこれすき
+
+---
+
+[27] 2026/07/27(月) 14:50:53.09 ID:iKzio6VI0 name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.5][新] (ﾜｯﾁｮｲ 9baa-x+NG) mail:sage
+サンイチ 
+ https://tadaup.jp/7bzZX51W.webp
+
+---
+
+[28] 2026/07/27(月) 14:57:38.48 ID:EbTudwP00 name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.13] (ﾜｯﾁｮｲ 1201-uGUf) mail:sage
+ComfyUI-LTXVideo入れたけどinterleaved_freqs_cisエラーってでて進まない
+
+---
+
+[29] 2026/07/27(月) 15:03:13.12 ID:mYB2399K0 name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.0][新芽] (ﾜｯﾁｮｲ 02cc-IkFD) mail:
+サンイチ 
+ https://tadaup.jp/7y5ngOza.webp
+
+---
+
+[30] 2026/07/27(月) 15:06:46.47 ID:bwMrvxWJ0 name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.3][新芽] (ﾜｯﾁｮｲ e32c-x+NG) mail:sage
+>>28 
+ https://github.com/Comfy-Org/ComfyUI/issues/15070#event-28469056447 
+ 潜在バグがあるっぽいね
+
+---
+
+[31] 2026/07/27(月) 15:08:41.28 ID:iKzio6VI0 name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.6][新] (ﾜｯﾁｮｲ 9baa-x+NG) mail:sage
+LTXとか10erosは顔が変わるからワイは諦めたで 
+ 5分10分かけて出来上がった動画が化物になるんや
+
+---
+
+[32] 2026/07/27(月) 15:12:41.73 ID:bqf9lFME0 name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.0][新芽] (ﾜｯﾁｮｲ e321-+EzY) mail:
+LTX自体はおもろいし、ローカルモデルとしてはそこそこの性能あるとは思うけど、 
+ SeedanceとかSoraと比べると、どうしても同格とは言えんのが実際のところよな 
+ まだ発展途上やし今後に期待やね
+
+---
+
+[33] 2026/07/27(月) 15:17:48.54 ID:W0lq10Pv0 name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.0][新芽] (ﾜｯﾁｮｲ 02fc-ytPD) mail:
+animaすごいって言うけど 
+ animaのすごさを感じる画像を見たことないけど
+
+---
+
+[34] 2026/07/27(月) 15:18:06.50 ID:EHmhUO930 name:警備員[Lv.13] (ﾜｯﾁｮｲ df85-2bbU) mail:sage
+サンイチ 
+ https://tadaup.jp/7VRJ8gfd.webp
+
+---
+
+[35] 2026/07/27(月) 15:23:01.39 ID:G2YvwcPHM name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.0][新芽] (ｵｲｺﾗﾐﾈｵ MMf3-TgZm) mail:sage
+>>33 
+ 画像をみても凄さはわからんで 
+ 
+ 1024以下の解像度でリアスの2048くらいの書き込みができる 
+ 自然言語理解でリアスより柔軟 
+ loraの顔の覚えが明らかによいし構図への侵食も少ないのでキャラlora作成時に明らかに優秀 
+ 
+ 絵のクオリティ自体はまあ……頑張ってよ
+
+---
+
+[36] 2026/07/27(月) 15:30:51.97 ID:iBAWj2aq0 name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.68][SR武][SR防][苗] (ﾜｯﾁｮｲ e30d-518O) mail:sage
+少ない材料でも汎用性に問題ないloraが作れたりするけどそういうのも画像からはわからんな
+
+---
+
+[37] 2026/07/27(月) 15:31:01.49 ID:DB+1mmId0 name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.111][SSR武][苗] (ﾜｯﾁｮｲ 8311-x+NG) mail:
+animaすごい＝俺すごい
+
+---
+
+[38] 2026/07/27(月) 15:32:10.51 ID:TF4i/ED50 name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.3][新芽] (ﾜｯﾁｮｲ 865a-fj/M) mail:sage
+>>32 
+ ハードエロができないって時点でもうseedanceやsoraは選択肢に入らんのや 
+ ちょっと前にハードエロのできるseedanceなんてのが噂にあったけど真相はわからんし 
+ 
+ 「お前なら何を選ぶ？そのエロ動画を生成するとしたら・・・」 
+ 「・・・やはりgrokしかないでしょう、それも規制前 とびきりのgrokでなければ」
+
+---
+
+[39] 2026/07/27(月) 15:36:09.07 ID:FRh95G/gM name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.0][新芽] (ﾌﾞｰｲﾓ MMff-XEKp) mail:sage
+俺の靴下が臭い=
+
+---
+
+[40] 2026/07/27(月) 15:36:22.67 ID:aIXIJwQc0 name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.3][新芽] (ﾜｯﾁｮｲ 2777-IkFD) mail:
+>>33 
+ animaは自然言語の理解力が高いし、複数キャラを出しても特徴が混ざらない 
+ 部族語オンリーのなるべく短いプロンプトで1girlポン出し最高みたいな層とは相容れんかもね
+
+---
+
+[41] 2026/07/27(月) 15:44:19.86 ID:6ECIaaNO0 name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.0][新芽] (ﾜｯﾁｮｲ 861d-UNRu) mail:sage
+>>38 
+ 今でも出来るけどモロ出しで出来たのを知ってるとどうしてもな…
+
+---
+
+[42] 2026/07/27(月) 15:47:24.68 ID:VkonK4Dr0 name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.0][新芽] (ﾜｯﾁｮｲ e3f9-+EzY) mail:
+Animaすごいというよりは左右を理解しないSDXLまでがクソすぎる 
+ 版権キャラってアクセントとしてだいたい左右非対称要素入ってるし 
+ リアスで左右非対称要素入れたキャラLoRAで高打率にするためには相当煮込まないとダメでそれはそれで煮込み過ぎの不具合出る
+
+---
+
+[43] 2026/07/27(月) 15:49:08.08 ID:vJaeG/Lx0 name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.200][UR武][SSR防][木] (ﾜｯﾁｮｲ e3d9-YyCH) mail:sage
+サンイチんぽにゃ 
+ 
+ 
+ 前スレでキャプショニングツール共有してくれたニキへ 
+ 
+ jsonで別々で渡せるの知らなかったンゴ… 
+ 近いうちニキのツール使って勉強せなあかん 
+ 
+ U-NETについては Qwen3も学習対象に入れるか、というかDiT側だけを学習するかどうかの意味やったけど、llm adapterなんてあったンゴね、すまンコやで… 
+ こっちも比較テストしなあかんな、沼やで…
+
+---
+
+[44] 2026/07/27(月) 15:51:57.78 ID:popEEfjT0 name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.0][新芽] (ﾜｯﾁｮｲ 1f7d-qcOi) mail:sage
+>>33 
+ 頭のネジ外れてそうやから何見てもすごいとは思わんと思うで
+
+---
+
+[45] 2026/07/27(月) 15:56:46.30 ID:MZqwSTaz0 name:警備員[Lv.6] (ﾜｯﾁｮｲ 33d5-HZ7a) mail:sage
+>>18 
+ ニアお嬢様やんけ 
+ 漫画版の絵が良すぎてアニメが不安しかない
+
+---
+
+[46] 2026/07/27(月) 16:04:03.21 ID:U2UW4ycT0 name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.7] (ﾜｯﾁｮｲ e3b2-r3ZB) mail:sage
+他人から見て凄いかどうかと、自分の意図通りのものが出るかどうかは別の話だからなあ
+
+---
+
+[47] 2026/07/27(月) 16:07:31.07 ID:BBpDFnbB0 name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.5][新芽] (ﾜｯﾁｮｲ 8683-tEyK) mail:
+もうアレルギーやね 
+ Animaクソ君達を問い詰めると、ターボ、プロンプトガイド無視、矛盾するプロンプト、訳分からん比較、CPU内蔵、マージモデル、スペルミス、オリテク等々これらを延々と後出ししてくる 
+ その積み重ねの反応や
+
+---
+
+[48] 2026/07/27(月) 16:15:16.41 ID:Zb1mduyC0 name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.10] (ﾜｯﾁｮｲ e3bf-wdMD) mail:sage
+Animaは自然言語理解がわりと中途半端なこと多い 
+ krea2くらい理解力欲しいがサイズ的に無理なのか？
+
+---
+
+[49] 2026/07/27(月) 16:16:13.53 ID:Y9VWrs3E0 name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.0][新芽] (ﾜｯﾁｮｲ e32f-+EzY) mail:sage
+https://tadaup.jp/7Wlx0VCF.jpg 
+ アチアチのサンイチ 
+ クーラーつけっぱなしや
+
+---
+
+[50] 2026/07/27(月) 16:19:04.35 ID:DRS1c95O0 name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.4][新] (ﾜｯﾁｮｲ e377-qa4O) mail:
+>>40 
+ アニマって複数キャラ強いのか😳
+
+---
+
+[51] 2026/07/27(月) 16:21:06.60 ID:U2UW4ycT0 name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.7] (ﾜｯﾁｮｲ e3b2-r3ZB) mail:sage
+いやそれはめっちゃ混ざりまくる 
+ しょせんは0.6B、SDXLよりマシって程度であって、🍌とかと比べるレベルにはない
+
+---
+
+[52] 2026/07/27(月) 16:24:14.59 ID:cRIFtHQt0 name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.91][SR防][苗] (ﾜｯﾁｮｲ b7cd-LhV6) mail:sage
+もう何度も言うとるがAnimaはleftと書けば左向きになるしrightと書けば右に向くんや 
+ シードを変えて何度も生成する無駄な作業をやらなくて済むようになったんや 
+ ワイはこれに助けられとるそしてAnimani乗り換えたのはこれが大きい
+
+---
+
+[53] 2026/07/27(月) 16:26:21.17 ID:mtiB6H/w0 name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.17] (ﾜｯﾁｮｲ 128b-OyDm) mail:sage
+>>31 
+ Dasiwaの試してみたら？顔の変化が多少マシな気がする
+
+---
+
+[54] 2026/07/27(月) 16:28:13.52 ID:Nm7sY+o70 name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.71][苗] (ﾜｯﾁｮｲ 1eaa-rotY) mail:
+animaっていつの間にかaesthetic1.1とかいうの出てたのね なんて発音するんやこれ 
+ vase1.0と比べても結構違うの？
+
+---
+
+[55] 2026/07/27(月) 16:29:22.35 ID:iBAWj2aq0 name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.68][SR武][SR防][苗] (ﾜｯﾁｮｲ e30d-518O) mail:sage
+>>47 
+ 後出しでも出してくる奴はマシよ 
+ 少なくとも使ってはいるってことだ
+
+---
+
+[56] 2026/07/27(月) 16:30:15.86 ID:vJo2UxZF0 name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.0][新芽] (ﾜｯﾁｮｲ 86bd-92TE) mail:
+正直どれが最上云々に関しては結局使う側がどんだけの物を求めるかにもよるし 
+ ・簡単かどうか ・出力の速さ ・支持の難しさ・テキスト追従性・構図の固さ、柔軟性 ・で、エロは？ 
+ とか自分の中でバランスと妥協取れとしかならんのよね
+
+---
+
+[57] 2026/07/27(月) 16:30:33.46 ID:U2UW4ycT0 name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.7] (ﾜｯﾁｮｲ e3b2-r3ZB) mail:sage
+aestheticはセルフマージモデルみたいなもんや 
+ 安定性が上がっとる 
+ 代わりに追従性は下がっとるはず、知らんけど
+
+---
+
+[58] 2026/07/27(月) 16:30:58.85 ID:cRIFtHQt0 name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.91][SR防][苗] (ﾜｯﾁｮｲ b7cd-LhV6) mail:sage
+BREAK君を忘れたらあかんで
+
+---
+
+[59] 2026/07/27(月) 16:38:33.25 ID:/A89fVc60 name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.32] (ﾜｯﾁｮｲ 5307-x+NG) mail:sage
+後出しもやけど主語の無い質問がマジで一番意味分からんでｗ 
+ 
+ 👴「どや？」 
+ 
+ これと一緒ｗ
+
+---
+
+[60] 2026/07/27(月) 16:41:24.85 ID:vJo2UxZF0 name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.1][新芽] (ﾜｯﾁｮｲ 86bd-92TE) mail:
+位置の指定が出来るって思ったより大事やなと今日は普段使う体位のテンプレを作ってて思ったな、何でこの視点からのカメラにしたいのに中々固定されへんと思ってたら女の子の顔の位置は画面の左上とかそんなんでおおこれよこれ！って出来たりしたし
+
+---
+
+[61] 2026/07/27(月) 16:44:12.65 ID:Fwb+ZfiF0 name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.65][苗] (ﾜｯﾁｮｲ e3e3-0X9m) mail:dongri
+無理せずサンイチ 
+ https://tadaup.jp/7fYts7Io.jpg
+
+---
+
+[62] 2026/07/27(月) 16:47:25.00 ID:TF4i/ED50 name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.5][新芽] (ﾜｯﾁｮｲ 865a-fj/M) mail:sage
+animaはSDXLと違って読解力が高いから「これで良い感じの出して」が通用せんくてプロンプト力が表面化しやすいんよな 
+ 貧弱だと似たような画像しか出てこんのや、ponyみたいに記述のお約束をまた学びなおさんとアカン 
+ 
+ 「で、キマってこう言うんだよナ」 
+ 『animaってクオリティが低くて似たような絵ばっかでツマンナイ』 
+ 「ツマンナイのはテメーの腕だろって」
+
+---
+
+[63] 2026/07/27(月) 16:49:37.14 ID:+uQn0wxW0 name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.0][新芽] (ﾜｯﾁｮｲ 2795-+EzY) mail:
+>>54 
+ だいぶ違う 
+ そして1.1と1.0でもだいぶ違って 
+ 個人的には1.0のほうがloraの乗りもいいし純粋にパワーアップしてるいい感じのモデルだと思ってる
+
+---
+
+[64] 2026/07/27(月) 16:52:40.60 ID:+uQn0wxW0 name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.0][新芽] (ﾜｯﾁｮｲ 2795-+EzY) mail:
+>>63 
+ はaestheticV1.0とV1.1の話な
+
+---
+
+[65] 2026/07/27(月) 16:57:26.00 ID:VOmEiDTvr name:警備員[Lv.0][新芽] (ｵｯﾍﾟｹ Src7-gUt1) mail:sage
+ばあさんや、データセットを増やしたbase2.0はまだかのぉ…
+
+---
+
+[66] 2026/07/27(月) 17:00:25.65 ID:VkonK4Dr0 name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.4][新芽] (ﾜｯﾁｮｲ e3f9-+EzY) mail:
+データセットはユーザー側でどうとでもなるし別にいいわ 
+ TEを変えて強化してくれ
+
+---
+
+[67] 2026/07/27(月) 17:05:22.08 ID:evZsTfsJ0 name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.4][新芽] (ﾜｯﾁｮｲ 8618-x+NG) mail:
+>>54 
+ 発音とは違うがエステティックってカタカナで読む方が日本人に分かりやすい
+
+---
+
+[68] 2026/07/27(月) 17:11:06.12 ID:nOO4d19L0 name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.0][新芽] (ﾜｯﾁｮｲ 5337-r3ZB) mail:sage
+animaって生成させてるうちにどんどん言う事聞かなくってくフェーズに入るときあるんやが何故や 
+ 10枚くらい安定して似た構図で生成した後はどんどん崩壊してくみたいなんが多い
+
+---
+
+[69] 2026/07/27(月) 17:11:26.54 ID:cRIFtHQt0 name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.91][SR防][苗] (ﾜｯﾁｮｲ b7cd-LhV6) mail:sage
+まあ一番ええのはテキストエンコーダーがAnima並に強化されたIllustriousが出ればええんやがそんなに簡単にはいかんのやな 
+ Rouweiがそういった強化を施されているらしいが率直に言って期待されたほどではなかった
+
+---
+
+[70] 2026/07/27(月) 17:16:08.91 ID:U2UW4ycT0 name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.8] (ﾜｯﾁｮｲ e3b2-r3ZB) mail:sage
+TEがkrea2並に強化されたanimaが出るのが一番やろ
+
+---
+
+[71] 2026/07/27(月) 17:17:06.54 ID:VkonK4Dr0 name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.4][新芽] (ﾜｯﾁｮｲ e3f9-+EzY) mail:
+そういや本家リアス(今はクラウド限定)が「Zimageリアス出すぞ！」と言ってた気がするけど音沙汰なしだな 
+ クラウドだから出ても触らないけど
+
+---
+
+[72] 2026/07/27(月) 17:17:25.46 ID:W/Esl7Ng0 name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.8] (ﾜｯﾁｮｲ e363-xKUo) mail:sage
+>>69 
+ 普通のRouweiじゃなくてRouwei-gemmaやで 
+ Gemma3やからあんまりやけど
+
+---
+
+[73] 2026/07/27(月) 17:17:51.56 ID:VxfONz8w0 name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.3][新芽] (ﾜｯﾁｮｲ 53cb-x+NG) mail:sage
+私は許そう 
+ https://image-b2.civitai.com/file/civitai-media-cache/b221600e-34ed-447f-b79f-c50cb7b8c983/original?.webp
+
+---
+
+[74] 2026/07/27(月) 17:20:08.19 ID:DJ9SoL4k0 name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.161][苗] (ﾜｯﾁｮｲ e324-ZThi) mail:sage
+>>68 
+ 再起動して同じプロンプト+同じシードで生成して壊れたままか直るかどうかで変わりそうやな 
+ 直っちゃうパターンの解決法はまだわからんのやが
+
+---
+
+[75] 2026/07/27(月) 17:20:59.28 ID:/TOlnFly0 name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.5][新芽] (ﾜｯﾁｮｲ 5342-6HWZ) mail:
+Anima2はベースモデル変更が検討されとるらしいがどうなるやろか 
+ なおCosmos3 Nanoは拡散モデルのみのBF16で要求VRAM32GBの模様
+
+---
+
+[76] 2026/07/27(月) 17:25:33.51 ID:Cm5mIdv60 name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.0][新芽] (ﾜｯﾁｮｲ e3ff-FlcO) mail:
+animaはちょっと複雑なポーズ出すときとか楽なんよ 
+ リアスで10回以上ガチャ必要だったのが1～2回で出るとかそんな感じや 
+ リアスでも頑張れば出るから完成品だけ見ても分かりにくいわな
+
+---
+
+[77] 2026/07/27(月) 17:34:24.41 ID:QRC1TFFf0 name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.4][新芽] (ﾜｯﾁｮｲ 86dd-6PXk) mail:sage
+>>75 
+ Cosmos3は画像生成だけじゃなくて、1つのモデルでMoE的になんでも生成できるようにしてる完全オムニモーダルモデルやからな 
+ もしそれ使うならまた魔改造するんだろう
+
+---
+
+[78] 2026/07/27(月) 17:36:14.79 ID:TfnvBglm0 name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.16] (ﾜｯﾁｮｲ 5306-91zn) mail:
+ここで即堕ち2コマ見てから本格的にanima始めたな
+
+---
+
+[79] 2026/07/27(月) 17:37:40.25 ID:1EII/hd60 name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.0][新芽] (ﾜｯﾁｮｲ 5320-ZThi) mail:
+モデルだけで13GB テキストエンコーダーで4GBってKrea2でさえ既にしんどいのにこれ以上無理ー
+
+---
+
+[80] 2026/07/27(月) 17:41:16.50 ID:1cMIsxqX0 name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.17] (ﾜｯﾁｮｲ a785-rN4z) mail:
+>>22 
+ バッチファイルで数字入れるよりgui作れるpythonのがええで 
+ 「次の仕様を満たすpythonコードを書いてください。 
+ tkinterでウインドウを作ってそこにwebpアニメをドロップすると 
+ ウインドウ中央にアニメの1枚目の画像を表示。 
+ ←と→ボタンで枚数目を選択するとそれに対応した画像を表示する。 
+ 決定ボタンを押すと選択中の画像をjpg形式でドロップしたwebpファイルと同じフォルダに保存」でclaudeあたりにお願いするんや
+
+---
+
+[81] 2026/07/27(月) 17:42:11.66 ID:FetPkS0v0 name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.51] (ﾜｯﾁｮｲ a38e-DeUy) mail:
+グラボを3060から5070tiに変えて電源ボックスも強いのに変えてから画像生成中にパソコンが度々ブラックアウトフリーズするようになったンゴ 
+ そういうときにパソコン触ったら大抵湯たんぽみたいにあったかくなっとるしオーバーヒートしとるんやろうけどこれどうやったら解決できんのかな 
+ もうパソコンケースの蓋空けっ放しにしとくべきやろか
+
+---
+
+[82] 2026/07/27(月) 17:44:51.56 ID:gOlMbVRL0 name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.8] (ﾜｯﾁｮｲ b787-VKMr) mail:
+リアスのころはプロンプト調整しながらアタリを探って、いい感じのがでたら少し手直ししてi2iで～ってやってたのがANIMAやとプロンプトだけでほぼ完結出来るから生成時間自体は長くてもトータルでかかる時間はリアスよりも短いからもう戻れん
+
+---
+
+[83] 2026/07/27(月) 17:45:33.42 ID:n09f/Yj50 name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.0][新芽] (ﾜｯﾁｮｲ 02b2-2g9e) mail:
+anima下手すぎて構図ちんちんだから仕上げにしか使ってない😢
+
+---
+
+[84] 2026/07/27(月) 17:47:52.90 ID:W/Esl7Ng0 name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.8] (ﾜｯﾁｮｲ e363-xKUo) mail:sage
+>>72 
+ Rouwei-Gemmaこれな 
+ Gemma3-1bかT5gemma-2bを使用して自然言語混ぜて2キャラとか2コマとかワイプとかAnimaっぽい事が出来た 
+ https://huggingface.co/Minthy/RouWei-Gemma?not-for-all-audiences=true 
+ https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/e9c36d55-58db-4d47-8f32-81b6ee9e5baf/anim=false,width=450,optimized=true/2.jpeg 
+ https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/46e722b6-4048-4228-a740-e3b6be3587b8/anim=false,width=450,optimized=true/1.jpeg 
+ https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/32074c3f-d708-406e-939d-49b5185c958a/anim=false,width=450,optimized=true/5.jpeg
+
+---
+
+[85] 2026/07/27(月) 17:51:44.05 ID:W/Esl7Ng0 name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.8] (ﾜｯﾁｮｲ e363-xKUo) mail:sage
+ちなみにRouwei-GemmaはTEの置き換えでモデルはSDXLどのモデルでも75トークン制限回避できるという実装だから 
+ リアスに引きずられとるニキは試してみる価値ありやで
+
+---
+
+[86] 2026/07/27(月) 17:52:30.89 ID:+qxBXpNJ0 name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.0][新芽] (ﾜｯﾁｮｲ 5300-zpSA) mail:
+animaも彗星の如く現れたのだから別系統で未知のモデルが出現する可能性もないとは言えぬ 
+ その頃に期待されていた他のモデルもあったように記憶しているがはてばあさんなんだったかのう…
+
+---
+
+[87] 2026/07/27(月) 17:53:08.42 ID:1YCCi/2O0 name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.6][新] (ﾜｯﾁｮｲ 8646-PfP3) mail:sage
+>>81 
+ ケースが小さいんじゃないの？ 
+ ミドルタワーぐらいのケース買って付け替えたらつよつよグラボでも安定稼働するで
+
+---
+
+[88] 2026/07/27(月) 17:54:34.63 ID:ApzVj/t10 name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.85][SR武][SR防][苗] (ﾜｯﾁｮｲ 12cd-Tbf9) mail:
+>>81 
+ ワイ5070tiで学習中にブラックアウトはしないけど風は75度くらいのが排気口から出てきて熱い けど正常 
+ 小さいケース 排気が狭いケースを使っていれば熱くなるかもしれないが、そうではないのに全体が熱いというのであれば正常ではないかもしれない 
+ ワイの場合生成中にブラックアウトはグラボをAfterburnerで低電圧にしていて電圧が足りないとかだと起こったがそれ以外はない 
+ 
+ まずAfterburnerでグラボの温度をチェックして85度とかなってたら熱すぎ そうでないならそれ以外の要因
+
+---
+
+[89] 2026/07/27(月) 17:58:55.53 ID:iKzio6VI0 name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.0][新芽] (ﾜｯﾁｮｲ 9b2f-x+NG) mail:sage
+>>53 
+ ltxにdasiwa版出たんか！？
+
+---
+
+[90] 2026/07/27(月) 18:06:46.16 ID:FetPkS0v0 name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.51] (ﾜｯﾁｮｲ a38e-DeUy) mail:
+>>87 
+ 小さくはないんやけど通気がすこぶる悪そうなんよな 
+ VersaH18ってやつなんやけど安いしファンのとこ以外は上部にちっさい排気口があるだけで3060ならこれで良くても5070tiやとあかんかったんかもしらん 
+ >>88 
+ 電圧が原因の可能性もあるんか？ 
+ ワイ一つのコンセントにアダプタつけてモニターとサーキュレーターも回しとるから電気足りなくなってるんかも知らんな…
+
+---
+
+[91] 2026/07/27(月) 18:08:15.99 ID:QRC1TFFf0 name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.5][新芽] (ﾜｯﾁｮｲ 86dd-6PXk) mail:sage
+LTXが速いのは1回超低解像度でぐちゃぐちゃに生成したのをlatent upscalerで拡大してごまかしてるだからなあ 
+ VAEを2回挟んでいるようなもんだから本当はlatent upscalerもファインチューニングしないといけないんだが 
+ ベースモデルがlatent upsclaerの表現に依存してるから、そこまでやってるモデルはさすがにない 
+ 
+ webuiとかのupscalerは普通の画像処理用のアップスケーラーを転用してるだけだからLTXの内部処理には使えない
+
+---
+
+[92] 2026/07/27(月) 18:08:25.53 ID:JUVY3FaN0 name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.8] (ﾜｯﾁｮｲ 534f-ZThi) mail:sage
+最近のショタは暑すぎて白ワンピお姉さんと野外セックスできなさそう 
+ https://tadaup.jp/7NJKOVMx.png
+
+---
+
+[93] 2026/07/27(月) 18:10:58.18 ID:RC6+XrKM0 name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.0][新芽] (ﾜｯﾁｮｲ 86f1-82sy) mail:
+animaはなぁ…体型スライダーさえあれば頑張って移行するんやけど…
+
+---
+
+[94] 2026/07/27(月) 18:14:36.21 ID:SBI3yS2P0 name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.11] (ﾜｯﾁｮｲ d63f-x+NG) mail:
+>>90 
+ ＞ワイ一つのコンセントにアダプタつけてモニターとサーキュレーターも回しとるから電気足りなくなってるんかも知らんな… 
+ 
+ 100％これやん 
+ PC本体はアダプター無しが当たり前や
+
+---
+
+[95] 2026/07/27(月) 18:19:55.67 ID:iKzio6VI0 name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.0][新芽] (ﾜｯﾁｮｲ 9b2f-x+NG) mail:sage
+モニタと扇風機ってそんな電気食うか？ 
+ 排熱の問題かも切り分け出来てないからひとつずつ試してクレメンス 
+ 動いてるだけでパーツの故障の可能性もあるんやで
+
+---
+
+[96] 2026/07/27(月) 18:20:10.99 ID:ApzVj/t10 name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.85][SR武][SR防][苗] (ﾜｯﾁｮｲ 12cd-Tbf9) mail:
+>>90 
+ サイドパネル取れるやつなら取って稼働させてブラックアウト出るか調べたら熱が原因かどうかは分かる 
+ このケースだと排気口とサイドパネルの上部に風が当たって熱くなるのは普通だけどそれ以外も熱かったらちょっとおかしいような気がする 
+ 
+ モニターやサーキュレータがきになるのであれば、一度pc以外オフにしてスマホからcomfyにlan接続して生成してブラックアウト出るか調べるとか切り分けができるんで気になるならやってんご
+
+---
+
+[97] 2026/07/27(月) 18:23:06.38 ID:Cm5mIdv60 name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.0][新芽] (ﾜｯﾁｮｲ e3c1-FlcO) mail:
+サーキュレーターなんか実質ゼロカロリーみたいなもんだぞ
+
+---
+
+[98] 2026/07/27(月) 18:23:30.01 ID:SBI3yS2P0 name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.11] (ﾜｯﾁｮｲ d63f-x+NG) mail:
+電力スパイクでググった方がええで 
+ 3060はギリ使えてたのかもしれんが4000とか5000クラスになってくるとアダプターは厳禁
+
+---
+
+[99] 2026/07/27(月) 18:34:53.08 ID:FyF/dLLm0 name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.21] (ﾜｯﾁｮｲ 927d-4Rwk) mail:
+>>90,98 
+ まずアダプターって何やねん
+
+---
+
+[100] 2026/07/27(月) 18:39:33.46 ID:Cm5mIdv60 name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.1][新芽] (ﾜｯﾁｮｲ e3c1-FlcO) mail:
+電源タップとか関係ないよ 
+ >>81 
+ パソコンが熱いとか 
+ 電源ボックスとか 
+ どう見ても自作素人さんやろ 
+ 自作板で聞いたらええと思うけど 
+ ちゃんとfan増設してるんやろうな…
+
+---
+
+[101] 2026/07/27(月) 18:43:58.65 ID:cRIFtHQt0 name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.91][SR防][苗] (ﾜｯﾁｮｲ b7cd-LhV6) mail:sage
+かく言うIllustriousも課金額達成したのにいつまで経っても3.0をリリースしないからAnimaが出てしまってオワコンになっちまったんやな
+
+---
+
+[102] 2026/07/27(月) 18:44:40.15 ID:SBI3yS2P0 name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.11] (ﾜｯﾁｮｲ d63f-x+NG) mail:
+電源タップとか関係ないとか言っちゃうやつこそ素人さんやろ 
+ もちろん熱でクラッシュしてる可能性も十分あるけどな
+
+---
+
+[103] 2026/07/27(月) 18:46:49.22 ID:ehE5OOAy0 name:警備員[Lv.0][新芽] (ﾜｯﾁｮｲ e327-+EzY) mail:sage
+https://tadaup.jp/7eSZDWjy.jpg 
+ https://tadaup.jp/7A2J05zS.jpg 
+ https://tadaup.jp/7UWb1XUZ.jpg 
+ 
+ Animergeスライダーlora作りやすくて感謝
+
+---
+
+[104] 2026/07/27(月) 18:49:53.99 ID:NeHIUzEi0 name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.0][新芽] (ﾜｯﾁｮｲ e3d5-qa4O) mail:
+①PCを直接コンセントに繋げてぶん回してみる 
+ 
+ 解決しない場合 
+ 
+ ②サイドパネルを開けた状態でぶん回してみる 
+ 
+ これでどっちの言い分が正しいかわかるだろ 
+ >>90はよ確かめてきて結果聞かせてくれ
+
+---
+
+[105] 2026/07/27(月) 18:50:33.55 ID:Cm5mIdv60 name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.2][新芽] (ﾜｯﾁｮｲ e3c1-FlcO) mail:
+>>102 
+ この構成だけならまず間違いなく関係無いよ😅
+
+---
+
+[106] 2026/07/27(月) 18:52:40.32 ID:SBI3yS2P0 name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.11] (ﾜｯﾁｮｲ d63f-x+NG) mail:
+.>>105 
+ 正直他の構成とか関係ない 
+ 安物のアダプター経由してるのが問題 
+ 素人さんにはわからんか…ｗ
+
+---
+
+[107] 2026/07/27(月) 18:52:57.95 ID:ks4mSWNn0 name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.0][新芽] (ﾜｯﾁｮｲ 377d-+Wbu) mail:
+>>90 
+ ファン1つなら足りない上面と前面に14cmファン対応してるからワイなら前面吸気2上面排気1追加する 
+ DDUなんか使ってドライバインストールし直したんか？古いマザボならBIOSアップデートもしたいけどPC詳しくなさそうだし色々やって駄目だったらためしてみてや
+
+---
+
+[108] 2026/07/27(月) 18:54:34.25 ID:mPEbvg0w0 name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.0][新芽] (ﾜｯﾁｮｲ 8625-Iv4t) mail:
+この知識量なら排気ファン1個の実質窒息状態やろなぁ
+
+---
+
+[109] 2026/07/27(月) 18:55:34.75 ID:mtiB6H/w0 name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.17] (ﾜｯﾁｮｲ 128b-OyDm) mail:sage
+>>89 
+ 既にv4だよ
+
+---
+
+[110] 2026/07/27(月) 18:55:51.41 ID:vyeY3x4v0 name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.0][新芽] (ﾜｯﾁｮｲ e3e7-x+NG) mail:
+ドライバ関係じゃないかな？ 
+ グラボのドライバのクリーンインストールは結構手間だぞ
+
+---
+
+[111] 2026/07/27(月) 18:56:10.01 ID:NeHIUzEi0 name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.0][新芽] (ﾜｯﾁｮｲ e3d5-qa4O) mail:
+肝心の質問したやつどこいってん
+
+---
+
+[112] 2026/07/27(月) 18:56:21.97 ID:TF4i/ED50 name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.7][新] (ﾜｯﾁｮｲ 865a-fj/M) mail:sage
+>>103 
+ この子が男か女か、それをハッキリさせる必要があるんやが？？
+
+---
+
+[113] 2026/07/27(月) 18:56:55.69 ID:Cm5mIdv60 name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.2][新芽] (ﾜｯﾁｮｲ e3c1-FlcO) mail:
+>>106 
+ うん、だから関係無いから嘘教えるな😅
+
+---
+
+[114] 2026/07/27(月) 18:57:12.02 ID:QRC1TFFf0 name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.6][新] (ﾜｯﾁｮｲ 86dd-6PXk) mail:sage
+家庭用電源って案外不安定だから、ヘタってるときは真冬や真夏だと別系統なのにエアコン付けただけでパソコン落ちる怪現象まで起こりうるしな
+
+---
+
+[115] 2026/07/27(月) 18:58:48.08 ID:SBI3yS2P0 name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.11] (ﾜｯﾁｮｲ d63f-x+NG) mail:
+>>113 
+ 理解出来てなさそうｗ
+
+---
+
+[116] 2026/07/27(月) 18:59:41.85 ID:evZsTfsJ0 name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.6][新] (ﾜｯﾁｮｲ 8618-x+NG) mail:
+>>114 
+ 日本って不幸なことにAC100Vという世界最低の電圧
+
+---
+
+[117] 2026/07/27(月) 19:00:13.46 ID:1YCCi/2O0 name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.7][新] (ﾜｯﾁｮｲ 8646-PfP3) mail:sage
+ハードオフでミドルタワーPCケース買うとええで 
+ オマケとしてしばしばSSDやHDDが取り付けられたままのケースあるから
+
+---
+
+[118] 2026/07/27(月) 19:01:47.35 ID:3hvIQKHy0 name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.64][SSR武][UR防] (ﾜｯﾁｮｲ e3ee-x+NG) mail:sage
+animaのTEは適度にアホだからタグと同居出来てるとかそんな感じだったハズやで
+
+---
+
+[119] 2026/07/27(月) 19:02:32.68 ID:SBI3yS2P0 name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.11] (ﾜｯﾁｮｲ d63f-x+NG) mail:
+>>114 
+ これも電力スパイクがらみで起きる現象なんだよね
+
+---
+
+[120] 2026/07/27(月) 19:03:06.28 ID:DJ9SoL4k0 name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.161][苗] (ﾜｯﾁｮｲ e324-ZThi) mail:sage
+質問者を叩き棒にして争い始める蛮族たち
+
+---
+
+[121] 2026/07/27(月) 19:04:44.09 ID:6YoTaVqe0 name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.383][UR武][UR防][木] (ﾜｯﾁｮｲ e397-bYzQ) mail:sage
+夏休みンゴねぇ
+
+---
+
+[122] 2026/07/27(月) 19:06:05.11 ID:1YCCi/2O0 name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.7][新] (ﾜｯﾁｮｲ 8646-PfP3) mail:sage
+covered nipplesの数値上げ過ぎたら乳首が服を突き破るんやな🥺 
+ coveredじゃないやんけ🥺
+
+---
+
+[123] 2026/07/27(月) 19:06:07.62 ID:S5Lj5u+r0 name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.0][新芽] (ﾜｯﾁｮｲ e34e-+EzY) mail:
+このスレは勢いあるからまだマシな方やね
+
+---
+
+[124] 2026/07/27(月) 19:06:08.74 ID:QRC1TFFf0 name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.6][新] (ﾜｯﾁｮｲ 86dd-6PXk) mail:sage
+>>118 
+ Danbooruタグと同居できるかは、学習時にテキストと画像の紐づけをどうやって与えるかという問題であってTEそのものの作りとは関係ないで 
+ Danbooru使ってるところはそこのタグ付けをそのまま学習させてるからその通りに学習するけど、 
+ 一般人の会社は自分とこのデータセットに大真面目にDanbooru振ったりしないから部族語が効きづらいだけや
+
+---
+
+[125] 2026/07/27(月) 19:06:15.44 ID:EbTudwP00 name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.14] (ﾜｯﾁｮｲ 1201-uGUf) mail:sage
+新PCになって生成早すぎて容量が足りない 
+ 新しく買ったのに8年前のPCと同じ1TBしかない
+
+---
+
+[126] 2026/07/27(月) 19:11:37.78 ID:G2YvwcPHM name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.4][新芽] (ｵｲｺﾗﾐﾈｵ MMf3-TgZm) mail:sage
+>>101 
+ 公開してないのは1200万のうち120万しか集まってないから
+
+---
+
+[127] 2026/07/27(月) 19:12:03.61 ID:2Mv22Sqb0 name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.0][新芽] (ﾜｯﾁｮｲ e3a1-ZThi) mail:sage
+大まかな構図は効きが良くてええんやけど細かい部分の指定に難があるなぁって感じや 
+ ワイのプロンプト力不足かもやが1本指で手マンとか親指でクリ責めとか相当ガチャせんと出てこんで…
+
+---
+
+[128] 2026/07/27(月) 19:14:18.01 ID:qM2TKfMl0 name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.0][新芽] (ﾜｯﾁｮｲ 53ab-KW3r) mail:sage
+ワイは今月2TのGen4のSSDと4TのHDDを買ったやで！ 
+ 
+ ...中古でなorz
+
+---
+
+[129] 2026/07/27(月) 19:25:01.23 ID:0Y9UuTZB0 name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった (ﾜｯﾁｮｲ a785-/T2z) mail:sage
+>>101 
+ Illustriousはオワコンとかいう以前に「こいつら金落とさねぇわｗ　アホらしｗ」って企業側がユーザーを切ったパターンだと思う
+
+---
+
+[130] 2026/07/27(月) 19:33:19.19 ID:t191N15O0 name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.0][新芽] (ﾜｯﾁｮｲ 8691-fj/M) mail:sage
+>>129 
+ 実際ローカルマンは金落とさないから… 
+ 
+ 有料モデルにしたら無料で共有されたうえにちびたいのサムネで中指立てられるし 
+ ワイもお金落としてるのはクラウドサービスだけやし
+
+---
+
+[131] 2026/07/27(月) 19:33:20.59 ID:iKzio6VI0 name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.4][新芽] (ﾜｯﾁｮｲ 9b2f-x+NG) mail:sage
+>>109 
+ サンガツほんまにあったわ 
+ int8ダウンロートしてみるで 
+ ラピュタを見つけたときのような驚きと興奮にふるえてきたで
+
+---
+
+[132] 2026/07/27(月) 19:35:26.94 ID:xIvBrl1K0 name:警備員[Lv.0][新芽] (ﾜｯﾁｮｲ af20-e5JH) mail:sage
+anima使い始めたけど、ちゃんとpantiesの上にpantyhose履いてくれるの嬉しい
+
+---
+
+[133] 2026/07/27(月) 19:36:48.36 ID:bqf9lFME0 name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.4][新芽] (ﾜｯﾁｮｲ e321-+EzY) mail:
+リアスは企業が一回設けた支援金のゴールを速攻で達成したのに 
+ 調子にのってゴールポスト動かしてもっと金せびろうとしてたからユーザーに愛想つかされたんやで 
+ Animaみたいな新しいアーキテクチャで自然言語に対応してる性能が上のモデルが出てきたし、 
+ いまさらSDXLのモデルなんかリリースしたところで見向きされんやろうけど
+
+---
+
+[134] 2026/07/27(月) 19:38:16.45 ID:M0+3vGxu0 name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.0][新芽] (ﾜｯﾁｮｲ e357-BU31) mail:sage
+>>129 
+ このスレだと大規模モデルとか時流無視！なんて評価になるが、 
+ 今どきろくに金落とさないナードにケツの穴を差し出さなくても 
+ 広告制作とかで普通に企業から金引っ張ってこられてるしな
+
+---
+
+[135] 2026/07/27(月) 19:40:57.56 ID:h49AfNP10 name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.22] (ﾜｯﾁｮｲ 46c4-ZThi) mail:sage
+グラボ意味もなく買い増ししておくで
+
+---
+
+[136] 2026/07/27(月) 19:42:53.40 ID:QRC1TFFf0 name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.7][新] (ﾜｯﾁｮｲ 86dd-6PXk) mail:sage
+今どきストレッチゴールなんて誰おまVTuberから大手企業までやってるし特異でもなくね
+
+---
+
+[137] 2026/07/27(月) 19:45:15.53 ID:mPEbvg0w0 name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.1][新芽] (ﾜｯﾁｮｲ 8625-Iv4t) mail:
+他の人がやってるからセーフ理論は危険
+
+---
+
+[138] 2026/07/27(月) 19:46:55.79 ID:gA7R7szC0 name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.0][新芽] (ﾜｯﾁｮｲ 8647-exzg) mail:
+>>81 
+ ワイも5090に変えて今まで使ってた電源が経年劣化と最新グラボの消費電力に耐えられず逝って買い替えたで
+
+---
+
+[139] 2026/07/27(月) 19:49:06.15 ID:t191N15O0 name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.1][新芽] (ﾜｯﾁｮｲ 8691-fj/M) mail:sage
+>>92 
+ お前を見ているぞ
+
+---
+
+[140] 2026/07/27(月) 19:51:44.21 ID:kSXPXFWZ0 name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.0][新芽] (ﾜｯﾁｮｲ 0270-x+NG) mail:
+>>131 
+ ネット断ってはよゴンドアの谷の娘と結婚してクレメンス～
+
+---
+
+[141] 2026/07/27(月) 19:52:02.86 ID:qd+v2eIk0 name:警備員[Lv.164][UR武][SSR防][苗] (ﾜｯﾁｮｲ 278d-UO5Q) mail:sage
+前スレを見てワイも耳かき構図をつくってみる 
+ krea2_raw, キャラlora x2, BBOX, 
+ https://i.ibb.co/xKfTdgdp/0727-Krea2.jpg 
+ https://i.ibb.co/whvbv8rR/0727-Krea2.jpg
+
+---
+
+[142] 2026/07/27(月) 19:54:17.78 ID:iKzio6VI0 name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.4][新芽] (ﾜｯﾁｮｲ 9b2f-x+NG) mail:sage
+SDXLはどこまでいってもSDXLやからリアスがひとつの到達点 
+ その先はないから何度もむしり取るのは無理やろ 
+ ラピュタとは違うんや
+
+---
+
+[143] 2026/07/27(月) 19:54:45.32 ID:Nm7sY+o70 name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.71][苗] (ﾜｯﾁｮｲ 1eaa-rotY) mail:
+すまんこれワイ渾身のオリキャラ巨乳ケモメイド絵なんやけど 
+ 誰かControlNet使ってAIイラスト化してくれんか AIにも優しい832*1216サイズや 
+ https://tadaup.jp/7jT0SLcI.png
+
+---
+
+[144] 2026/07/27(月) 19:57:08.47 ID:JUVY3FaN0 name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.10] (ﾜｯﾁｮｲ 534f-ZThi) mail:sage
+>>143 
+ 普通に可愛いからこのまま線画ちょっといじって塗ればいいのでは……？
+
+---
+
+[145] 2026/07/27(月) 19:57:25.73 ID:mlN7i/fT0 name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.132][UR武][UR防][苗] (ﾜｯﾁｮｲ 86b9-x+NG) mail:sage
+>>101 
+ リアスの個別の目標達成はテストに参加できますだけだからな 
+ ？にカーソルを合わせないと説明が表示されないせいか見てない人が多いのかなって印象 
+ 配布は総合メーターの達成
+
+---
+
+[146] 2026/07/27(月) 19:57:55.90 ID:DJ9SoL4k0 name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.161][苗] (ﾜｯﾁｮｲ e324-ZThi) mail:sage
+杜撰なクラファンで顧客に嫌われました……ほなお客様のせいです😡
+
+---
+
+[147] 2026/07/27(月) 20:04:06.63 ID:VxfONz8w0 name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.5][新] (ﾜｯﾁｮｲ 53cb-x+NG) mail:sage
+https://i.ibb.co/qMv5tknM/20260727200318-832x1248-euler-simple-12-1-488119225595221-01.webp
+
+---
+
+[148] 2026/07/27(月) 20:04:51.38 ID:Q9lCPnPT0 name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.0][新芽] (ﾜｯﾁｮｲ 737d-LhV6) mail:sage
+>>143 
+ たぶんchatGPTかgeminiに食わしてもトレースしてくれると思うで 
+ adobe契約してたらどっちも試せる
+
+---
+
+[149] 2026/07/27(月) 20:06:27.16 ID:59BXu3HG0 name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.4][新芽] (ﾜｯﾁｮｲ e341-ZThi) mail:
+>>143 
+ https://tadaup.jp/7Ic6hNde.webp 
+ https://tadaup.jp/7w3uRq6a.webp
+
+---
+
+[150] 2026/07/27(月) 20:10:05.57 ID:jgNqltyp0 name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.0][新芽] (ﾜｯﾁｮｲ 86f5-uGUf) mail:sage
+元絵殺しすぎでは
+
+---
+
+[151] 2026/07/27(月) 20:11:32.92 ID:Q9lCPnPT0 name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.0][新芽] (ﾜｯﾁｮｲ 737d-LhV6) mail:sage
+ふとPCが熱いで思い出したけど 
+ 2年ぐらい前のスレでエアコンからダクトを引っ張って冷風をPCに当たるように部屋の改装してたニキがいたような
+
+---
+
+[152] 2026/07/27(月) 20:14:43.52 ID:FetPkS0v0 name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.51] (ﾜｯﾁｮｲ a38e-DeUy) mail:
+>>94 
+ やっぱこれなんかな 
+ コンセント少ない家に住んでるとキツイわ 
+ >>96 
+ 全体的にホカホカになるンゴ 
+ もうケース買い替えたほうがええかもわからんね 
+ >>104 
+ 今外出ててしばらく使えんわすまんな 
+ >>107 
+ Biosアップデートはしたほうがええかなと思ってたけどビビっててしてなかったンゴ 
+ どうしょうもなくなったら最後の手段としてやるわ
+
+---
+
+[153] 2026/07/27(月) 20:18:27.04 ID:h49AfNP10 name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.22] (ﾜｯﾁｮｲ 46c4-ZThi) mail:sage
+本絵かわええやん
+
+---
+
+[154] 2026/07/27(月) 20:19:33.36 ID:AKl3NObn0 name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.4][芽] (ﾜｯﾁｮｲ 46a2-x+NG) mail:sage
+>>33 
+ 生成AIは画像に限らずどれもそんな感じな気がする 
+ 使う人の能力を拡張する道具みたいなところがあるから、すごさは使う人の能力に寄るっていうかそんな感じはする 
+ 
+ >>62 
+ 画像生成サービスしか使ってない人がローカルで初めてSDXL触ってみた時に同じこと言ってた気がするが、同じ理屈かもしれない
+
+---
+
+[155] 2026/07/27(月) 20:21:10.89 ID:92579Y/t0 name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.343][木] (ﾜｯﾁｮｲ af03-0M99) mail:sage
+>>152 
+ Core TempとかでCPUの温度、GPU-ZとかでGPUの温度見るのが先じゃね？
+
+---
+
+[156] 2026/07/27(月) 20:23:09.59 ID:hUlldBSd0 name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.0][新芽] (ﾜｯﾁｮｲ 921f-ZThi) mail:
+サンイチ 
+ 白銀の城βなかなか楽しい 
+ https://ul.h3z.jp/d/jS4C9s.webp 
+ 
+ >>18 
+ ニアちゃんかわええな
+
+---
+
+[157] 2026/07/27(月) 20:24:09.65 ID:FetPkS0v0 name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.51] (ﾜｯﾁｮｲ a38e-DeUy) mail:
+Geminiにも暗転フリーズの原因何か一応聞いたら仮想メモリが少ないから60GBくらいにしろみたいなこと言ってきたンゴ 
+ もう30GBくらいあるんやがAnima解像度1536でForgeNeoやとこれでも足りんのかな 
+ Comfyのほうが軽いんなら乗り換えも考えるンゴ
+
+---
+
+[158] 2026/07/27(月) 20:24:21.89 ID:DJ9SoL4k0 name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.161][苗] (ﾜｯﾁｮｲ e324-ZThi) mail:sage
+初心者に怪しい俗説をもっとたくさん吹き込んでケースとRadeonとnoctuaファンと水冷クーラーと電源タップとBTC買わせるか
+
+---
+
+[159] 2026/07/27(月) 20:25:11.81 ID:FetPkS0v0 name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.51] (ﾜｯﾁｮｲ a38e-DeUy) mail:
+>>155 
+ タスクマネージャーで温度見たときは特に変わったとこは見受けられんかったんやけどやっぱそういう専用ツール使わんとあかんかったんやろか
+
+---
+
+[160] 2026/07/27(月) 20:29:18.83 ID:mPEbvg0w0 name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.3][新芽] (ﾜｯﾁｮｲ 8625-Iv4t) mail:
+>>159 
+ PCケースにファンは何個付いてんの？ 
+ 後ろの1個だけならそれに加えて前面140mmファン2個と上面140mmファン1個を追加するだけで安定する可能性がある
+
+---
+
+[161] 2026/07/27(月) 20:29:21.86 ID:Q9lCPnPT0 name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.0][新芽] (ﾜｯﾁｮｲ 737d-LhV6) mail:sage
+>>157 
+ 十中八九geminiはポンコツ回答しかしないから 
+ 補助電源取った場所(コネクタ)を変えてみるのはやってみた？ 
+ ワイもForgeNeoやけど1536ｘ1536で問題なく出てる
+
+---
+
+[162] 2026/07/27(月) 20:29:49.31 ID:aIXIJwQc0 name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.5][新] (ﾜｯﾁｮｲ 2777-IkFD) mail:
+>>18 
+ 一枚目の昭和のブラウン管テレビとカメラが合体した謎機械が気になる
+
+---
+
+[163] 2026/07/27(月) 20:31:51.24 ID:aIXIJwQc0 name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.5][新] (ﾜｯﾁｮｲ 2777-IkFD) mail:
+>>157 
+ その回答はAI特有の嘘、animaはリアス（XL）が動く環境なら十分に動く 
+ 一番解決する可能性が高いのはタコ足配線をやめることや
+
+---
+
+[164] 2026/07/27(月) 20:32:36.76 ID:Nm7sY+o70 name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.71][苗] (ﾜｯﾁｮｲ 1eaa-rotY) mail:
+身も蓋も無い話やけどBTOショップで買い直した方が手っ取り早いのでは？ 
+ ドスパラなんかだと手持ちのグラボとかを元に組み立ててくれるのもあるし 
+ なんならほぼ新品の今のうちに全部売ってからサイコムで買い直すのもいいし
+
+---
+
+[165] 2026/07/27(月) 20:35:33.67 ID:FetPkS0v0 name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.51] (ﾜｯﾁｮｲ a38e-DeUy) mail:
+>>160 
+ 多分一個ンゴね… 
+ もう3年くらい前やけど3060積んで12万くらいの格安構成で買ったから最低限のオプションしか付いてないと思うやで 
+ 増設考えないといかんね 
+ >>161 
+ >>163 
+ やっぱ嘘やったか 
+ Geminiは当てにならん率高いやね…とりあえず後でほかの器具抜いてから試してみるやで
+
+---
+
+[166] 2026/07/27(月) 20:36:21.66 ID:jgNqltyp0 name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.0][新芽] (ﾜｯﾁｮｲ 86f5-uGUf) mail:sage
+ファンの色を温度に設定したら真っ赤にメラメラ燃えてる
+
+---
+
+[167] 2026/07/27(月) 20:38:58.91 ID:59BXu3HG0 name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.5][新芽] (ﾜｯﾁｮｲ e341-ZThi) mail:
+>>143　 
+ https://tadaup.jp/7lUNQ3V0.webp 
+ https://tadaup.jp/7NQASaXg.webp 
+ https://tadaup.jp/7OJ3GuMN.webp 
+ https://tadaup.jp/7uL1adSo.webp
+
+---
+
+[168] 2026/07/27(月) 20:42:01.95 ID:E/W+rBFE0 name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.0][新芽] (ﾜｯﾁｮｲ e324-IkFD) mail:
+nanobanana2出たときのGeminiはかなり良かった印象だけどどこに消えたんやろなぁ
+
+---
+
+[169] 2026/07/27(月) 20:44:10.52 ID:o9efFIIp0 name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.0][新芽] (ﾜｯﾁｮｲ e3f0-i3Ny) mail:sage
+サンイチ 
+ https://i.imgur.com/Nm4Y0lC.jpeg
+
+---
+
+[170] 2026/07/27(月) 20:49:27.88 ID:92579Y/t0 name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.343][木] (ﾜｯﾁｮｲ af03-0M99) mail:sage
+Krea2で遊んでたらloincloth=ふんどしっぽく学習してるっぽいことに気づいてお試し 
+ 
+ ※リアル系注意 
+ 素のKrea2 BF16(といってもTEはKrea2-Engineer-V1-BF16)だとなんとなくそれっぽい　https://tadaup.jp/7po35ywZ.webp https://tadaup.jp/7icSHBnU.webp 
+ SNOFS V1.1を加えると https://tadaup.jp/7zxymrZX.webp https://tadaup.jp/7HuXOsF5.webp 
+ SNFOS V1.1でnarrow twisted loincloth にすると締め込みっぽくできた https://tadaup.jp/7l0gOMhA.webp 
+ 
+ おまけで祭（熱中症注意、さらし巻くの忘れた） 
+ https://tadaup.jp/7N0TIzRl.webp https://tadaup.jp/7RXjtVGz.webp
+
+---
+
+[171] 2026/07/27(月) 20:52:05.70 ID:ehE5OOAy0 name:警備員[Lv.5][新芽] (ﾜｯﾁｮｲ e327-+EzY) mail:sage
+>>143 
+ https://i.imgur.com/vZ2Zuw2.png 
+ 
+ 元の線おおむね維持しようとすると途端に難しくなるんだよなぁ
+
+---
+
+[172] 2026/07/27(月) 20:55:46.34 ID:MOpbWylr0 name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.0][新芽] (ﾜｯﾁｮｲ 53a4-x+NG) mail:
+これぼく
+
+---
+
+[173] 2026/07/27(月) 20:56:09.55 ID:MOpbWylr0 name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.0][新芽] (ﾜｯﾁｮｲ 53a4-x+NG) mail:
+https://i.imgur.com/sDA88dc.png
+
+---
+
+[174] 2026/07/27(月) 20:57:54.38 ID:RkAW1HOZ0 name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.0][新芽] (ﾜｯﾁｮｲ 86eb-XEKp) mail:sage
+>>173 
+ 石川是木
+
+---
+
+[175] 2026/07/27(月) 21:02:06.96 ID:E/W+rBFE0 name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.0][新芽] (ﾜｯﾁｮｲ e324-IkFD) mail:
+>>143 
+ https://tadaup.jp/7jNb3X1s.png
+
+---
+
+[176] 2026/07/27(月) 21:02:19.47 ID:gOlMbVRL0 name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.9] (ﾜｯﾁｮｲ b787-VKMr) mail:
+>>173 
+ shittingじゃない......
+
+---
+
+[177] 2026/07/27(月) 21:09:50.87 ID:FetPkS0v0 name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.51] (ﾜｯﾁｮｲ a38e-DeUy) mail:
+今ケースの蓋取ったりタコ足配線やめたりしてテストしてみたらタコ足が原因やったということが確定したンゴ 
+ モニター無しでスマホからやったら1728みたいな解像度でも全然問題なかった 
+ 色々教えてくれた人らありがとうやで
+
+---
+
+[178] 2026/07/27(月) 21:13:35.72 ID:1EII/hd60 name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.3][新芽] (ﾜｯﾁｮｲ 5320-ZThi) mail:
+やっぱり電力不足は致命的なんやな
+
+---
+
+[179] 2026/07/27(月) 21:13:58.37 ID:VkonK4Dr0 name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.6][新芽] (ﾜｯﾁｮｲ e3f9-+EzY) mail:
+「タコ足配線やめろ」じゃなくて「消費電力計算しろ」なんだよな 
+ 1コンセントで1500Wまでしかいけないんだから、デスクトップPC・モニタぐらいがギリギリでそこに追加すると足らねえとなる 
+ 逆に消費電力がクソ低いUBS給電の小さな機器なんかはいくらタコ足配線してもいい
+
+---
+
+[180] 2026/07/27(月) 21:17:08.86 ID:O9+saK2s0 name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.151][苗] (ﾜｯﾁｮｲ 9213-f70X) mail:sage
+>>143 
+ はわわ 
+ ジュースこぼしちゃったっス 
+ https://i.ibb.co/yF6cWVMR/pee.webp
+
+---
+
+[181] 2026/07/27(月) 21:18:53.07 ID:Nm7sY+o70 name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.71][苗] (ﾜｯﾁｮｲ 1eaa-rotY) mail:
+>今ケースの蓋取ったりタコ足配線やめたりしてテストしてみたらタコ足が原因やったということが確定したンゴ 
+ タコ足！？ 
+ PC以前に色々と見直した方が良い気がするンゴ 
+ 絶対部屋ホコリにまみれてそう
+
+---
+
+[182] 2026/07/27(月) 21:22:22.57 ID:KXsQnuA+M name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.0][新芽] (ﾌﾞｰｲﾓ MMde-XEKp) mail:sage
+夏はやっぱりタコ足賃貸家留守遠隔起動GPUぶん回し生成
+
+---
+
+[183] 2026/07/27(月) 21:22:53.06 ID:92579Y/t0 name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.343][木] (ﾜｯﾁｮｲ af03-0M99) mail:sage
+タコ足配線でテーブルタップを多段に繋いでいるとコンセントやケーブルの電気抵抗が想定以上の電圧降下を起こす 
+ とくに突入電流が流れると電圧降下が大きくなって電圧不足になるとPCとかの動作が不安定になる 
+ 電力合計だけではなくて多段接続を避けるのも大事 
+ 事故防止のためにはケーブルを束ねないのも大事
+
+---
+
+[184] 2026/07/27(月) 21:23:30.40 ID:ks4mSWNn0 name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.4][新芽] (ﾜｯﾁｮｲ 377d-+Wbu) mail:
+解決しても熱いのは変わらんしケースファンは追加するとええで 
+ 最低構成だとCPUクーラーもリテールかもしれんがAM4だとスッポンの可能性…
+
+---
+
+[185] 2026/07/27(月) 21:23:43.99 ID:Vl9kkort0 name:警備員[Lv.3][新芽] (ﾜｯﾁｮｲ 9b96-IkFD) mail:sage
+>>143 
+ 軽くでいいから色付けてくれればi2iでも楽なんやがの 
+ https://tadaup.jp/7XrK4nuw.jpg
+
+---
+
+[186] 2026/07/27(月) 21:26:22.96 ID:FetPkS0v0 name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.51] (ﾜｯﾁｮｲ a38e-DeUy) mail:
+>>181 
+ タコ足ゆうても繋いでるのはモニターとサーキュレーターの他にはたまにスマホの充電器繋いでるくらいやで 
+ せやからこんくらいなら平気やろ(適当)やと思ってしまっとった 
+ >>184 
+ クーラーはAk400とかいうやつやったんやけどこれはやっぱ微妙やろか
+
+---
+
+[187] 2026/07/27(月) 21:26:31.65 ID:0KK4qvEw0 name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.0][新芽] (ﾜｯﾁｮｲ e3fd-2sag) mail:
+ローカルllm動かすためにVRAM128gbのミニpc買った　58万円もした
+
+---
+
+[188] 2026/07/27(月) 21:27:44.08 ID:0KK4qvEw0 name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.0][新芽] (ﾜｯﾁｮｲ e3fd-2sag) mail:
+これからクロードに利用料貢ぎ続けるぐらいなら安いと思う　電気代月500円ぐらいだったしな
+
+---
+
+[189] 2026/07/27(月) 21:29:15.73 ID:4yewT8Eq0 name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.17] (ﾜｯﾁｮｲ e33f-fj/M) mail:sage
+みんなのオリキャラ巨乳ケモミミメイドかわヨなんだ🤗
+
+---
+
+[190] 2026/07/27(月) 21:29:45.63 ID:M4O+ii2A0 name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.200][UR武][SSR防][木] (ﾜｯﾁｮｲ ff59-ytPD) mail:sage
+ﾁｬｯﾋﾟｰよりClaudeのコーディング精嚢高いって言われてるけど利用料が怖くていまだにﾁｬｯﾋﾟｰつこうとる
+
+---
+
+[191] 2026/07/27(月) 21:30:26.31 ID:5bfWEzQD0 name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.132][苗] (ﾜｯﾁｮｲ 0250-x+NG) mail:
+>>186 
+ AK400はCPUクーラーやろ 
+ 指摘されてるのはケースファンやで
+
+---
+
+[192] 2026/07/27(月) 21:31:26.13 ID:h49AfNP10 name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.22] (ﾜｯﾁｮｲ 46c4-ZThi) mail:sage
+月額やなくて必要な分だけAPI課金でためしてもええんやで
+
+---
+
+[193] 2026/07/27(月) 21:31:31.96 ID:5bfWEzQD0 name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.132][苗] (ﾜｯﾁｮｲ 0250-x+NG) mail:
+と思ったら>>184がCPUクーラーの指摘をしてたんか 
+ 正直言って関係ないと思うけど
+
+---
+
+[194] 2026/07/27(月) 21:31:43.53 ID:Xgw6+bWB0 name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.16][新] (ﾜｯﾁｮｲ a785-41Xh) mail:sage
+タコ足はあかんな 
+ 髪と電気は薄くない方が良い
+
+---
+
+[195] 2026/07/27(月) 21:31:57.36 ID:Nm7sY+o70 name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.71][苗] (ﾜｯﾁｮｲ 1eaa-rotY) mail:
+皆のAI出力良い感じやね 
+ こういうのChatGPTもいけるな 
+ https://tadaup.jp/7BuqTj0M.png
+
+---
+
+[196] 2026/07/27(月) 21:32:50.22 ID:Q9lCPnPT0 name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.3][新芽] (ﾜｯﾁｮｲ 737d-LhV6) mail:sage
+タコ足が原因になってるけど 
+ タップ自体が15年選手とかってオチじゃ無いよな？
+
+---
+
+[197] 2026/07/27(月) 21:33:46.80 ID:qM2TKfMl0 name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.4][新芽] (ﾜｯﾁｮｲ 53ab-KW3r) mail:sage
+また髪の話してる...(´･ω･`)
+
+---
+
+[198] 2026/07/27(月) 21:36:28.49 ID:Nm7sY+o70 name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.71][苗] (ﾜｯﾁｮｲ 1eaa-rotY) mail:
+そういやワイは風通しとか電源容量とか雷ガードとかホコリとかかなり気を使った挙句に雷ガードタップの電圧が足りてなかったってことがあったわ 
+ といってもPCno1500Wに対して1200Wだから困ることはまずなかったろうけど
+
+---
+
+[199] 2026/07/27(月) 21:38:41.02 ID:DJ9SoL4k0 name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.161][苗] (ﾜｯﾁｮｲ e324-ZThi) mail:sage
+チャッピーThinkingにパーツ構成の相談したら 
+ 「1300w電源はやめとけ、コルセア製1200wにしとけ」ってめちゃくちゃ止められた思い出
+
+---
+
+[200] 2026/07/27(月) 21:38:52.84 ID:ks4mSWNn0 name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.5][新芽] (ﾜｯﾁｮｲ 377d-+Wbu) mail:
+>>186 
+ AK400なら問題ないと思うで
+
+---
+
+[201] 2026/07/27(月) 21:41:31.27 ID:9yWnMT5v0 name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.141][UR武限][UR防][苗] (ﾜｯﾁｮｲ 32b5-ZThi) mail:
+anima編集試したけどいまいちぱっとしなくて 
+ デフォルトプロンプト以外うまくいかなくてやめた
+
+---
+
+[202] 2026/07/27(月) 21:45:51.22 ID:ehE5OOAy0 name:警備員[Lv.6][新芽] (ﾜｯﾁｮｲ e327-+EzY) mail:sage
+https://tadaup.jp/7YywvDzE.jpg 
+ https://tadaup.jp/7komCt7S.jpg 
+ 
+ ケモっ子あんま出さないからたまに出力すると楽しいな
+
+---
+
+[203] 2026/07/27(月) 21:50:06.56 ID:9yWnMT5v0 name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.141][UR武限][UR防][苗] (ﾜｯﾁｮｲ 32b5-ZThi) mail:
+opus5がええからこれでええんちゃう使うなら 
+ フェイブルは負けられんプログラムのときだけつこてるわ
+
+---
+
+[204] 2026/07/27(月) 21:57:28.69 ID:fIhDKdXOH name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.0][新芽] (JP 0Hde-5Ubl) mail:
+ヘタしたらまだ動物電源を使ってるニキもおるんちゃうか
+
+---
+
+[205] 2026/07/27(月) 21:58:35.64 ID:FetPkS0v0 name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.51] (ﾜｯﾁｮｲ a38e-DeUy) mail:
+>>200 
+ よかったンゴサンガツ
+
+---
+
+[206] 2026/07/27(月) 22:00:28.58 ID:SBI3yS2P0 name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.12] (ﾜｯﾁｮｲ d63f-x+NG) mail:
+結果はわかりきってたことなんだよね 
+ 俺がいなかったらあらぬ方向に話が進んで余計な出費してるとこやったな 
+ >>183こういうことやね
+
+---
+
+[207] 2026/07/27(月) 22:02:26.41 ID:fgoSaHmc0 name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.4][新芽] (ﾜｯﾁｮｲ 9b46-ZThi) mail:sage
+動物電源・・・COUGARかな？
+
+---
+
+[208] 2026/07/27(月) 22:03:01.88 ID:cA2be/AA0 name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.35] (ﾜｯﾁｮｲ ff1c-+EzY) mail:
+>>186 
+ 自分が昔あったのはM2スロットにSSDを複数積むとたまにブラックアウトする現象はあったな 
+ 2枚から３枚に増やしたときにあからさまに頻度上がったから発覚した 
+ １枚にすれば全く起こらなくなった　マザボの不具合だったんだと思う 
+ 
+ タコ足が原因でそうなるって可能性は無くはないんだろうが、よっぽど大食いを複数繋がない限り原因にはならんと思うんだがな・・・ 
+ ほかの可能性も考えたほうがいいと思う 
+ 熱暴走切り分けで本体の側面あけっぱにして扇風機で風送りながら使ったら頻度がどうなるかとか試すのもいいかも
+
+---
+
+[209] 2026/07/27(月) 22:03:12.46 ID:92579Y/t0 name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.343][木] (ﾜｯﾁｮｲ af03-0M99) mail:sage
+電源タップのことをアダプターっていう人初めて見た 
+ ワイは世間知らずや
+
+---
+
+[210] 2026/07/27(月) 22:04:09.87 ID:gOlMbVRL0 name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.10] (ﾜｯﾁｮｲ b787-VKMr) mail:
+>>188 
+ しゅげー、kimi3とかもいけるんやろか?
+
+---
+
+[211] 2026/07/27(月) 22:04:15.47 ID:92579Y/t0 name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.343][木] (ﾜｯﾁｮｲ af03-0M99) mail:sage
+>>208 
+ モニター無しでスマホからやっているからブラックアウトしてても気がついてないというオチもあるかな？
+
+---
+
+[212] 2026/07/27(月) 22:05:29.11 ID:m9h7khv+0 name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.0][新芽] (ﾜｯﾁｮｲ e303-huWg) mail:sage
+設置アダプター
+
+---
+
+[213] 2026/07/27(月) 22:06:15.65 ID:n5vW2gVg0 name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.299][木] (ﾜｯﾁｮｲ de68-wOGu) mail:sage
+>>133 
+ リアル系でお手軽なおまんこだとまだリアスだと思うで 
+ 構図にこだわり出してからしょぼしょぼPCでkrea2のint4使ってるけど一歩間違えると溢れてまうし
+
+---
+
+[214] 2026/07/27(月) 22:09:46.12 ID:hE+enPJM0 name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.0][新芽] (ﾜｯﾁｮｲ 866e-2wlv) mail:sage
+今更だがveo 3とか凄いんかね
+
+---
+
+[215] 2026/07/27(月) 22:16:41.40 ID:myha57U30 name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.0][新芽] (ﾜｯﾁｮｲ b61e-+EzY) mail:
+電源タップのせいみたいになってるけど 
+ 5070tiのPC+モニタ+扇風機程度で負荷かけただけで電圧不足になるとは思えんがな 
+ このケースに付属FAN一個でやってたのが原因だと思うけど 
+ https://www.ask-corp.jp/products/thermaltake/minitower-pccase/versa-h18.html 
+ 
+ 100インチモニタとかだったら知らんけど
+
+---
+
+[216] 2026/07/27(月) 22:23:57.03 ID:QRC1TFFf0 name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.7][新] (ﾜｯﾁｮｲ 86dd-6PXk) mail:sage
+LLMとかも明らかにパラメータサイズが大きいとエロ性能も上がるから 
+ 動画系Transformerもたぶんそうなんだろうけど、VeoはGoogleの思想が強くて規制ががが
+
+---
+
+[217] 2026/07/27(月) 22:24:23.77 ID:dPtBzzZv0 name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.0][新芽] (ﾜｯﾁｮｲ a785-x+NG) mail:
+気温高いからサーマルリングなんじゃね？ 
+ 自分も5070tiだけどAnimaはファンぶん回る率高いけどSDXLはあんま回らんし
+
+---
+
+[218] 2026/07/27(月) 22:29:28.77 ID:nWnOOrz80 name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.0][新芽] (ﾜｯﾁｮｲ e356-x+NG) mail:
+>>187 
+ ふむ、よっぽどやばいプロンプトでも考えさせるんか？
+
+---
+
+[219] 2026/07/27(月) 22:42:17.01 ID:3c9Cwzmh0 name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.0][新芽] (ﾜｯﾁｮｲ 8601-y1cV) mail:sage
+サーマルスロットリングな 
+ 熱の輪って意味わからん
+
+---
+
+[220] 2026/07/27(月) 22:42:20.97 ID:U2hm3jL/0 name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.0][新芽] (ﾜｯﾁｮｲ e3dc-8h1f) mail:sage
+>>215 
+ ワイもそう思うけど、故に一周回って怪しいのは電源タップでは？って気もするんだよな 
+ もう10年以上で断線などの劣化が始まってるとか
+
+---
+
+[221] 2026/07/27(月) 22:45:30.82 ID:h49AfNP10 name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.23] (ﾜｯﾁｮｲ 46c4-ZThi) mail:sage
+wifiルーターの不調がタップ交換で治った人もおるし普通にありうると思うんやけどな
+
+---
+
+[222] 2026/07/27(月) 22:46:09.18 ID:Vl9kkort0 name:警備員[Lv.5][新] (ﾜｯﾁｮｲ 9b96-IkFD) mail:sage
+普通にパーツ毎に外していって原因詰めなきゃ分からんで
+
+---
+
+[223] 2026/07/27(月) 22:46:49.82 ID:bqf9lFME0 name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.5][新] (ﾜｯﾁｮｲ e321-+EzY) mail:
+>>219 
+ サーマルスロットリングの「リング」は指輪のRingではなく、英語の throttling（スロットリング） という言葉や。 
+ 指輪や輪っか（Ring）の意味ではないんやで。
+
+---
+
+[224] 2026/07/27(月) 22:49:49.57 ID:ks4mSWNn0 name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.6][新芽] (ﾜｯﾁｮｲ 377d-+Wbu) mail:
+タコ足やケーブル断線しかけだのモニター分負荷が減って温度下がっただの色々あるから後は本人しかわからんやね
+
+---
+
+[225] 2026/07/27(月) 22:50:46.78 ID:1YCCi/2O0 name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.5][新芽] (ﾜｯﾁｮｲ 869e-x+NG) mail:sage
+負荷かけたときに落ちるのは熱か電源か、なので電源タップを疑うのは外れてはいないけど優先順位としては低めだろう 
+ 時期的に熱をまず疑って確認していくほうがいい 
+ 電源を疑うにしてもまずはPCの電源から
+
+---
+
+[226] 2026/07/27(月) 22:52:40.06 ID:qM2TKfMl0 name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.5][新芽] (ﾜｯﾁｮｲ 53ab-KW3r) mail:sage
+原因の切り分けは大事ね
+
+---
+
+[227] 2026/07/27(月) 22:53:05.61 ID:DJ9SoL4k0 name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.161][苗] (ﾜｯﾁｮｲ e324-ZThi) mail:sage
+レス乞食でなければまともな状況把握が出来ないタイプのバケモンやろ 
+ それを掲示板経由で操縦して助けようなんて大した気骨やで 
+ 今日はこの話題が続きそうやから尾張屋根
+
+---
+
+[228] 2026/07/27(月) 22:55:01.57 ID:Q9lCPnPT0 name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.5][新芽] (ﾜｯﾁｮｲ 737d-LhV6) mail:sage
+普段全く抜き差ししないタップが 
+ 経年劣化でガバガバのゆるゆるになってることがあるな
+
+---
+
+[229] 2026/07/27(月) 22:55:22.44 ID:aQyq3Cg7H name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.0][新芽] (JP 0H6e-8h1f) mail:sage
+可能なら、どんな感じに組んでるのかPC内部の写真撮って見せてもらうのが一番かなとは思う 
+ 上位グラボでブッ飛びすぎてて感覚狂ってるご時世だけど、RTX5070tiちゃんもTDP300Wのめっちゃ高性能&高発熱なハイエンドパーツや 
+ エアフローちゃんとしてなかったらあっという間にPCアチアチは普通にあり得る
+
+---
+
+[230] 2026/07/27(月) 22:55:52.51 ID:QRC1TFFf0 name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.8][新] (ﾜｯﾁｮｲ 86dd-6PXk) mail:sage
+そう思わないこともないが、世間の人間って電源の安定性とか収納の耐荷重とか驚くほど無頓着やで 
+ なんやかんやで日本のメーカーは保証が強くて安全マージン取るからな
+
+---
+
+[231] 2026/07/27(月) 22:59:27.51 ID:dPtBzzZv0 name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.2][新芽] (ﾜｯﾁｮｲ a785-x+NG) mail:
+別ええやん。せっかくパーツ更新したのに急に不調になると不安にもなるやろ 
+ 自分も夏で落ちるようになったけどエアフロ―改善したら普通に治ったな 
+ 熱が一番怪しいからとりあえず温度モニター入れてみたら？
+
+---
+
+[232] 2026/07/27(月) 23:03:32.01 ID:SBI3yS2P0 name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.13] (ﾜｯﾁｮｲ d63f-x+NG) mail:
+まだやってて草 
+ こんだけ人数いて原因を的確に指摘できたのは俺だけなの 
+ ちょっとカッコよすぎるかｗ
+
+---
+
+[233] 2026/07/27(月) 23:05:34.71 ID:M4O+ii2A0 name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.200][UR武][SSR防][木] (ﾜｯﾁｮｲ ff59-ytPD) mail:sage
+動物電源とか久々に聞いたわ
+
+---
+
+[234] 2026/07/27(月) 23:08:29.48 ID:8eZJuFJn0 name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.0][新芽] (ﾜｯﾁｮｲ e342-+EzY) mail:
+>>34 
+ でっっっっっっっか！むほほ
+
+---
+
+[235] 2026/07/27(月) 23:08:46.15 ID:eWgZ9+yj0 name:警備員[Lv.69][SSR武][SR防][苗] (ﾜｯﾁｮｲ eb95-+EzY) mail:
+あまり文字ばかりというのも寂しいのでテスト作成のものをペタリ。 
+ これならパステルもいけるな。 
+ 
+ https://tadaup.jp/7ZgeiH6v.png 
+ https://tadaup.jp/7krFVmHK.png
+
+---
+
+[236] 2026/07/27(月) 23:09:06.25 ID:PknAfnSB0 name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.0][新芽] (ﾜｯﾁｮｲ 0237-x+NG) mail:
+シャチの激しい体当たり、マンボウが粉々に「爆発」　捕食戦略か遊びか 
+ https://www.cnn.co.jp/fringe/35250913.html 
+ krea2 
+ https://ul.h3z.jp/UPQndmc4.webp
+
+---
+
+[237] 2026/07/27(月) 23:10:20.69 ID:O9+saK2s0 name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.151][苗] (ﾜｯﾁｮｲ 9213-f70X) mail:sage
+CivitaiでヤバいLoRAが公開されてて笑った（新しいのはチェックポイントになっちゃってるけど） 
+ https://civitai.red/images/137956350 
+ 
+ 過去作見たらXL時代からやってて震えた 
+ https://civitai.red/user/Kenmokun/models
+
+---
+
+[238] 2026/07/27(月) 23:10:21.23 ID:nWnOOrz80 name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.3][新芽] (ﾜｯﾁｮｲ e356-x+NG) mail:
+>>213 
+ animaが単純にリアスの上位互換かっていうとそうじゃないわな 
+ 今までのプロンプトやLoRa使いまわせるなら全部乗り換える勢いやろけど
+
+---
+
+[239] 2026/07/27(月) 23:11:11.77 ID:5bfWEzQD0 name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.132][苗] (ﾜｯﾁｮｲ 0250-x+NG) mail:
+>>201 
+ Anima Cosmos-Referenceの面白い使い方が編み出されたらしい 
+ 通常の使い方よりもうまく編集できるとか 
+ redditとCivitaiでの反応もよさげ 
+ https://x.com/hirorohi003/status/2081373845722902936
+
+---
+
+[240] 2026/07/27(月) 23:11:25.50 ID:dPtBzzZv0 name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.3][新芽] (ﾜｯﾁｮｲ a785-x+NG) mail:
+>>238 
+ おいやめとけAnimaガーディアンが出てくるぞ！
+
+---
+
+[241] 2026/07/27(月) 23:13:11.13 ID:DJ9SoL4k0 name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.161][苗] (ﾜｯﾁｮｲ e324-ZThi) mail:sage
+(守護者の唸り声)
+
+---
+
+[242] 2026/07/27(月) 23:14:34.69 ID:5bfWEzQD0 name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.132][苗] (ﾜｯﾁｮｲ 0250-x+NG) mail:
+>>209 
+ 俺もや 
+ 俺がおかしいのかと思って「電源アダプター」でGoogle画像検索してしまった
+
+---
+
+[243] 2026/07/27(月) 23:17:37.99 ID:5bfWEzQD0 name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.132][苗] (ﾜｯﾁｮｲ 0250-x+NG) mail:
+>>223 
+ 219は>>217への指摘やで
+
+---
+
+[244] 2026/07/27(月) 23:21:04.93 ID:qM2TKfMl0 name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.6][新芽] (ﾜｯﾁｮｲ 53ab-KW3r) mail:sage
+電源アダプターと聞くとこういうの想像するけどな 
+ https://tadaup.jp/7mzNeqCl.webp
+
+---
+
+[245] 2026/07/27(月) 23:27:28.26 ID:PknAfnSB0 name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.0][新芽] (ﾜｯﾁｮｲ 0237-x+NG) mail:
+krea2 
+ https://ul.h3z.jp/FzOn5EWR.webp 
+ 涼しげな壁紙の題材を探していたところです
+
+---
+
+[246] 2026/07/27(月) 23:29:29.82 ID:fgoSaHmc0 name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.6][新芽] (ﾜｯﾁｮｲ 9b46-ZThi) mail:sage
+【動画】シャチがマンボウを一撃で粉砕、研究者が仰天 
+ 
+ にインスパイアされた優しい壁紙かな
+
+---
+
+[247] 2026/07/27(月) 23:34:09.90 ID:AiOjqT/F0 name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.24] (ﾜｯﾁｮｲ a78f-x+NG) mail:sage
+マンボウがXとかで必死にマンボウは最弱じゃない！シャチが強すぎるだけ！って書き込んでて笑ったわ
+
+---
+
+[248] 2026/07/27(月) 23:34:33.49 ID:3c9Cwzmh0 name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.0][新芽] (ﾜｯﾁｮｲ 8601-y1cV) mail:sage
+>>243 
+ フォローサンクス 
+ 文盲ガイジに絡まれてどうしてええかわからんかったわ
+
+---
+
+[249] 2026/07/27(月) 23:37:43.94 ID:KzY9Jqjs0 name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.0][新芽] (ﾜｯﾁｮｲ a785-rN4z) mail:
+また俺達の集合知が人を救ってしまったのか
+
+---
+
+[250] 2026/07/27(月) 23:41:02.15 ID:fMLIfxij0 name:警備員[Lv.8][新] (ﾜｯﾁｮｲ 5338-b6UF) mail:sage
+>>235 
+ メローラ姫かわヨ
+
+---
+
+[251] 2026/07/27(月) 23:41:43.10 ID:v7l90YvI0 name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.0][新芽] (ﾜｯﾁｮｲ 86e0-XEKp) mail:sage
+叡智の集合
+
+---
+
+[252] 2026/07/27(月) 23:45:34.65 ID:Q9lCPnPT0 name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.6][新芽] (ﾜｯﾁｮｲ 737d-LhV6) mail:sage
+スペースマンボウ
+
+---
+
+[253] 2026/07/27(月) 23:48:30.51 ID:Vl9kkort0 name:警備員[Lv.6][新] (ﾜｯﾁｮｲ 9b96-IkFD) mail:sage
+ほんま夏休みやな 
+ 今更Krea触って乞食して人を煽る様なのも出てくるし
+
+---
+
+[254] 2026/07/27(月) 23:57:54.17 ID:ccAuBYBN0 name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.10][新] (ﾜｯﾁｮｲ 127d-qcOi) mail:sage
+寂しい親切老人が丁寧に説明するノリは夏休みは勘弁してほしいやで
+
+---
+
+[255] 2026/07/27(月) 23:58:18.61 ID:DJ9SoL4k0 name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.161][苗] (ﾜｯﾁｮｲ e324-ZThi) mail:sage
+>>239 
+ https://tadaup.jp/7mHF4U3B.jpg 
+ 変なキャラデザ突っ込んでもそこそこリファレンスできてて面白いな 
+ stepや解像度上げると怪しい気がするけど
+
+---
+
+[256] 2026/07/28(火) 00:04:30.72 ID:w2jwtC1n0 name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.0][新芽] (ﾜｯﾁｮｲ 86c3-exzg) mail:
+動物電源なつすぎて草 
+ あの頃は300Wとかが主流だった気がする 
+ 1200W電源じゃないと心配になるこんな電気ドカ食いPCになるとは
+
+---
+
+[257] 2026/07/28(火) 00:13:34.84 ID:k5M3cXCT0 name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.4][新芽] (ﾜｯﾁｮｲ 276b-HCIA) mail:
+Animaで断面図表現でチンコ先端が子宮口密着じゃなく膣内の中間位置や入り口あたりの位置にある絵って可能？ 
+ 自然言語表記で色々頑張ってみたがどうやっても子宮口に亀頭がぴったりくっつく絵しかでない 
+ sdxlじゃ無理だったがAnimaならいけるかと思ったんだが
+
+---
+
+[258] 2026/07/28(火) 00:26:38.31 ID:p5BNrqZ50 name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.0][新芽] (ﾜｯﾁｮｲ e37c-zM7p) mail:sage
+夏煽りおじさんのアドバイス見たらPC解体させようとしてて面白い
+
+---
+
+[259] 2026/07/28(火) 00:31:31.09 ID:a2xwp/dx0 name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.0][新芽] (ﾜｯﾁｮｲ 86b1-XEKp) mail:sage
+静電気も怖いから服も脱ぐとええで
+
+---
+
+[260] 2026/07/28(火) 00:32:24.44 ID:gBJ99Al80 name:今、天王星のwiki見てきたら軌道傾斜角(i) が0.774°だった 警備員[Lv.0][新芽] (ﾜｯﾁｮｲ b793-z/uy) mail:sage
+>>258 
+ 頭にカビ生えてるんかワレ？
