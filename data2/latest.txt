@@ -3,8 +3,8 @@ title: 52: 【ChatGPT】AIチャット総合 47【Gemini・Claude】 (36)
 thread_id: 1757209977
 thread_url: https://krsw.5ch.io/test/read.cgi/ai/1757209977/
 response_range: 1-36
-previous_last_res: 0
-new_response_range: 1-36
+previous_last_res: 36
+new_response_range: なし
 ===== POSTS =====
 
 [1] 2025/09/07(日) 10:52:57.60 ID:8OH3jU9s0 name:ななしのAIさん mail:
@@ -466,12 +466,12 @@ Googleのデータ使えるだけあって本でまとめられてるような�
 
 
 ===== THREAD 2/2 =====
-title: 1: 【ChatGPT】AIチャット総合 59【Gemini・Claude】 (935)
+title: 1: 【ChatGPT】AIチャット総合 59【Gemini・Claude】 (944)
 thread_id: 1789836245
 thread_url: https://krsw.5ch.io/test/read.cgi/ai/1789836245/
-response_range: 1-935
-previous_last_res: 0
-new_response_range: 1-935
+response_range: 1-944
+previous_last_res: 935
+new_response_range: 936-944
 ===== POSTS =====
 
 [1] 2026/09/20(日) 01:44:05.31 ID:rmQLqOt00 name:ななしのAIさん mail:
@@ -7442,3 +7442,58 @@ Google以外の巨人はAI開発がうまくいっていないのか
  
  o、Grokbot、Muse(ゆるキャラ付き) 
  どれが勝つか言うまでもない
+
+---
+
+[936] 2026/09/26(土) 22:56:17.18 ID:IAckBGlx0 name:ななしのAIさん mail:
+o… 
+ お、おう…
+
+---
+
+[937] 2026/09/26(土) 23:07:31.37 ID:szik+ntM0 name:ななしのAIさん mail:
+THE O
+
+---
+
+[938] 2026/09/26(土) 23:42:00.23 ID:o0Pcwj/20 name:ななしのAIさん mail:sage
+>>699 
+ クズを相手にする奴もクズだ 
+ 無視しとけ
+
+---
+
+[939] 2026/09/26(土) 23:43:54.41 ID:o0Pcwj/20 name:ななしのAIさん mail:sage
+>>717 
+ クズを煽ったお前が悪い
+
+---
+
+[940] 2026/09/26(土) 23:47:33.14 ID:YXlgVlr70 name:ななしのAIさん mail:
+>>923 
+ その指示のことを言ってるんやろ
+
+---
+
+[941] 2026/09/26(土) 23:48:00.27 ID:bwOUni9p0 name:ななしのAIさん mail:sage
+なぜ動かん！
+
+---
+
+[942] 2026/09/26(土) 23:54:33.66 ID:joBt1pidd name:ななしのAIさん mail:
+>>940 
+ その指示の意味がわからん
+
+---
+
+[943] 2026/09/27(日) 00:20:49.97 ID:Wg7iWPlO0 name:ななしのAlさん mail:
+>>907 
+ AIはスーパーツールだが、あくまで道具。 
+ 一見形にはできても、複雑になるほど「一応動く物」と「目的どおり安定して使える物」の差は、AIの使い手次第で大きく異なってくる。
+
+---
+
+[944] 2026/09/27(日) 00:43:31.21 ID:fQCOkyec0 name:ななしのAIさん mail:
+>>912 
+ まだ始まったばかり…？ 
+ てか2022年からチャッピーブームでここまで変わったのか…
