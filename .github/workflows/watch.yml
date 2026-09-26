@@ -25,15 +25,19 @@ jobs:
         with:
           python-version: '3.12'
 
-      - name: Fetch and convert dat
+      - name: Fetch and convert NVA dat
         run: python watch.py
+
+      - name: Fetch and convert AI chat dat
+        if: always()
+        run: python watch_ai.py
 
       - name: Commit data files
         if: always()
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data/ || true
+          git add data/ data2/ || true
           if git diff --cached --quiet; then
             echo "No changes to commit"
           else
