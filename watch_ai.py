@@ -62,7 +62,7 @@ def clean_html(text: str) -> str:
 
 def find_threads(subback_html: str) -> list[tuple[str, str]]:
     pattern = re.compile(
-        r"href=[\"'](?:[^\"']*test/read\.cgi/liveuranus/)?(\d+)/[^\"']*[\"'][^>]*>(.*?)</a>",
+        r"href=[\"'](?:[^\"']*test/read\.cgi/ai/)?(\d+)/[^\"']*[\"'][^>]*>(.*?)</a>",
         re.IGNORECASE | re.DOTALL,
     )
 
