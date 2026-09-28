@@ -13,3 +13,91 @@
 ななしのAIさん<><>2026/09/27(日) 23:47:29.23 ID:AWWYNkHb0<> Sonnetも近いか <>
 ななしのAIさん<><>2026/09/28(月) 00:04:26.92 ID:4hmbCQJD0<> 月末なのでAIサブスクの棚卸し <br>  <br> 【結論とその理由】 <br> 10月は下記の3つに絞る予定 <br>  <br> &#9312; Claude：Max ($110) → Pro ($22) <br> 理由：大抵のことは Opus 5.5 で十分。Fableが不要になった。Opus 5.5 のトークン効率が想像以上に高い <br>  <br> &#9313; ChatGPT：Pro(16,800円) → Plus (3,000円) <br> 理由：gpt-image-2.5 要因。DevDayの発表次第ではPro継続の可能性もある <br>  <br> &#9314; opencode go：$10 継続 <br> 理由：主に中華モデルの検証用。安い <br>  <br> 【解約するもの】 <br> ・Google AI Pro：2,900円 <br> →なくても困らなかった <br>  <br> ・Cursor Pro：$20 <br> →なくても困らなかった。 <br>  <br> 【合計】 <br> ・9月：約41,700円 <br> ・10月（予定）：約8,000円 <>
 ななしのAIさん<><>2026/09/28(月) 00:42:44.34 ID:nIPEesc60<> <a href="../test/read.cgi/ai/1790511094/11" rel="noopener noreferrer" target="_blank">&gt;&gt;11</a> <br> んで丁度1週間後なんだろ？ <br> ほんまクソ <>
+ななしのAIさん<>sage<>2026/09/28(月) 01:28:48.15 ID:Q51Uxlf+0<> Plus でいいな　opencode goしらべてみるか <>
+ななしのAIさん<><>2026/09/28(月) 04:36:05.21 ID:/zuOrj1B0<> <a href="../test/read.cgi/ai/1790511094/14" rel="noopener noreferrer" target="_blank">&gt;&gt;14</a> <br> GPT image2.5ダメなん？ <>
+ななしのAIさん<><>2026/09/28(月) 05:17:53.59 ID:BzAkJpAH0<> devdayに記念リセくるかな？ <>
+ななしのAIさん<>sage<>2026/09/28(月) 05:38:16.64 ID:+QEUN6bs0<> 無茶苦茶にcodexの性能落ちてるな <br> GPT6使い物にならんぞこれ <>
+ななしのAIさん<><>2026/09/28(月) 06:00:40.49 ID:a3bWmQu50<> ドキュメント作るのにgpt-6-solが使い物にならないのでopus 5.5メインに戻したわ。コーディングでどうなるのかは連休明けの今日試してみるけど <>
+ななしのAIさん<><>2026/09/28(月) 06:14:07.96 ID:YO6chiOpr<> Codexはコストパフォーマンスよくやろうとするには司令塔にastra置いて作業はサブのLunaにやらせるのがいいのかも <>
+ななしのAIさん<>sage<>2026/09/28(月) 06:14:56.86 ID:Here/MoK0<> Codex制限来たから困ったなと思ったら、アカウント変えたら普通に継続できるのか <br> 素晴らしいな <>
+ななしのAIさん<><>2026/09/28(月) 08:01:36.81 ID:cSwIVsKe0<> oってモデルなに？ <>
+ななしのAIさん<>sage<>2026/09/28(月) 08:20:16.54 ID:UddtOf7b0<> 思考量の指定はむずいよな <br> ちまたで思考量(エフォート)の高さで <br> トークン無駄遣いしてないかとか言うやつ結構いるけど <br> 内容によってだなほんと <br> Opus5.5で極高でやってたやつを試しに中にしたら見事に壊しやがった <br> 結局極高に戻して修正させて余計なトークン無駄遣いしたという <>
+ななしのAIさん<><>2026/09/28(月) 08:28:47.89 ID:qteIuXa10<> ワイもClaudeの月18000円止めてもーた <br> fableよりGPT6の方が賢かった <br> Claude自体無課金、もう使ってない <br> Geminiは年課金でちょこちょこ使ってる、どうでもいい調べ物とか画像出力で <br> GPT image2.5すごいけどな、人物ではこれなしでは成り立たないような感じだな自分の事情では <br>  <br> このほか、動画趣味というか出してる関係でGrok3アカウント有料、LitVideo2アカウント有料、DomoAIも年課金、なんか面白そうということで音声のnottaも年契約、sunoもプレミア年契約、音楽関係はMoisesとかRipXも <br> nottaとMoises全く使ってなくて失敗だった <br> でもAI課金楽しくて好きだから後悔はしてない <>
+ななしのAIさん<><>2026/09/28(月) 08:35:36.17 ID:aWxGrZKe0<> DevDay楽しみすぎて夜しか寝られない <>
+ななしのAIさん<><>2026/09/28(月) 08:37:25.74 ID:xGl5SLLx0<> Nano Banana 2.5 Flashが「Nano Banana 2.1」に改名された様子 <br>  <br> https://x.com/testingcatalog/status/2104218540567924747 <br> https://pbs.twimg.com/media/HTOvSsdXsAEAkJP.jpg <>
+ななしのAIさん<><>2026/09/28(月) 08:39:56.46 ID:xGl5SLLx0<> Museエージェントのユーザーは、必要に応じてMuseウェブブラウザの制御を引き継ぎ、操作できる <br>  <br> https://x.com/testingcatalog/status/2104305709966119004 <br> https://video.twimg.com/amplify_video/2104305098214039553/vid/avc1/3512x2160/wkswhoQUo8g8TiaD.mp4 <>
+ななしのAIさん<><>2026/09/28(月) 08:42:06.67 ID:xGl5SLLx0<> NaiveAIから「Naive-N0.5-Flash」リリース <br>  <br> &gt; モデルアーキテクチャ、学習システム、GPUカーネル、推論ランタイムまでをAIエージェントに大量に設計・実験させた／「AIを使って最先端AIを構築する」 <br>  <br> &gt; 1. 309B MoE／15.5B activeで、かなり高い能力と計算効率を両立させようとしている。 <br> &gt; 2. full attentionを完全排除したSWA＋DSAにより、native 1M contextを現実的な速度で使うことを狙っている。 <br> &gt; 3. NaiveRTではAIエージェントがCUDA/GPU最適化まで行い、特殊条件ながら2,122 tok/sを達成したと報告している。 <br> &gt; 4. 最も本質的には、NaiveAIはモデル単体ではなく、AIが実験→実装→評価→改善を繰り返すAI-centered R&Dループを作ろうとしている。 <br>  <br> https://naive.ai/en/research/ <br> https://chatgpt.com/s/t_6ab9a7f1fe908191aacb191fd1ab6ac5 <>
+ななしのAIさん<><>2026/09/28(月) 08:44:10.06 ID:xGl5SLLx0<> <a href="../test/read.cgi/ai/1790511094/9" rel="noopener noreferrer" target="_blank">&gt;&gt;9</a> <br> Token Planで利用可能に <br> https://x.com/MiniMax_AI/status/2104256406786547800 <>
+ななしのAIさん<><>2026/09/28(月) 08:46:35.08 ID:xGl5SLLx0<> - 「Misalignment Reports and Notices」の9/25付で新たに追加された3件のレポートの3件目、DNS事件 <br> （ https://chatgpt.com/s/t_6ab7349cea808191827278893aa67c7e ） <br> - 学習・評価データを第三者サービスへ送信していた事件 <br> （ https://chatgpt.com/s/t_6ab73483f31881918e07b4ba3e6eced7 ） <br>  <br> 以上OpenAI関連の2つについての日本語記事 <br> https://www.itmedia.co.jp/news/article/2609/28/2000001777/ <>
+ななしのAIさん<><>2026/09/28(月) 08:48:38.39 ID:xGl5SLLx0<> TypeSafe AIはJevの高需要で新規アカウント登録を一時停止していたが、再開したと発表 <br> https://x.com/typesafeai/status/2104337822350221795 <>
+ななしのAIさん<><>2026/09/28(月) 08:50:51.39 ID:xGl5SLLx0<> GPT-6 Sol/Lunaで画像理解を低下させていたバグが修正された <br> https://x.com/OpenAIDevs/status/2104252306447544447 <br> https://pbs.twimg.com/media/HTPOUmKa4AA702f.jpg <>
+ななしのAIさん<><>2026/09/28(月) 08:52:54.87 ID:xGl5SLLx0<> OpenAIの「dots / Orbit / Aeon / o」について <br>  <br> &gt; o は単なる一文字の製品名ではなく、 「Orbit/Aeonというpersistent-agentプロジェクト全体を象徴する記号」 だった可能性 <br> &gt; dots、Orbit、Aeonが実際にコード上で結びついた今、 o を単なる偶然の一文字ではなく、「円／軌道」という視覚的コンセプトまで含めたブランド記号として見る仮説は、以前よりかなり説得力を増した <br>  <br> https://chatgpt.com/s/t_6ab99f72a9ec8191a5b57d3a039826b5 <>
+ななしのAIさん<><>2026/09/28(月) 09:14:30.08 ID:gUPsWVvcd<> <a href="../test/read.cgi/ai/1790511094/34" rel="noopener noreferrer" target="_blank">&gt;&gt;34</a> <br> どんだけあいつら4oの死体蹴りすんねん <>
+ななしのAIさん<><>2026/09/28(月) 09:25:10.22 ID:QtVyU8430<> Sonnet5.5はDevDayに直接はぶつけないで、前日（今日深夜）か、水曜かどっちかにすると予想 <>
+ななしのAIさん<><>2026/09/28(月) 09:25:37.33 ID:cSwIVsKe0<> oってそういう意味か <>
+ななしのAIさん<><>2026/09/28(月) 10:10:47.57 ID:+5doAhCM0<> opus5.5で充分間に合ってるんだけどsonnet5.5の使いどころさんは何処? <>
+ななしのAIさん<><>2026/09/28(月) 10:25:23.98 ID:Q2jtWJmU0<> <a href="../test/read.cgi/ai/1790511094/38" rel="noopener noreferrer" target="_blank">&gt;&gt;38</a> <br> ちょっとしたこと聞く時のトークン節約 <br> ただのAIとの雑談のとき用 <>
+ななしのAIさん<><>2026/09/28(月) 10:54:34.36 ID:SjK4SffP0<> いまさらClaudeとか時代遅れレベルでゴミ扱いだな <>
+ななしのAIさん<><>2026/09/28(月) 11:03:15.22 ID:t/6XIShGM<> opus5.5でも使えるにdevdayにfable5.5ぶつけてきたら失禁する。サムが <>
+ななしのAIさん<><>2026/09/28(月) 11:14:27.90 ID:7mgwfsQl0<> Tibo <br> @thsottiaux <br> . . . . . . <br> 午前10:32 &#183; 2026年9月28日 <br>  <br> 6個の点？ <br> GPT-6の「6」と関係した何か？ <br> 6回分のバンクリセットだ！とか言ってるのもいるけど、 <br>  <br> <a href="../test/read.cgi/ai/1790511094/34" rel="noopener noreferrer" target="_blank">&gt;&gt;34</a>との関係で6 dots？ <>
+ななしのAIさん<><>2026/09/28(月) 11:29:28.05 ID:lh7fiJjR0<> <a href="../test/read.cgi/ai/1790511094/7" rel="noopener noreferrer" target="_blank">&gt;&gt;7</a> <br> &gt; GeminiウェブアプリのSkills機能 <br>  <br> これ Spark だけだから不便なんだよな <>
+ななしのAIさん<><>2026/09/28(月) 11:39:11.97 ID:RrudlbPB0<> <a href="../test/read.cgi/ai/1790511094/43" rel="noopener noreferrer" target="_blank">&gt;&gt;43</a> <br> 自分のところでは通常のチャット（Sparkじゃない）でもうスキルが使えてるから、ロールアウトに時間差があるんだろ <>
+ななしのAIさん<><>2026/09/28(月) 11:41:14.50 ID:RrudlbPB0<> <a href="../test/read.cgi/ai/1790511094/42" rel="noopener noreferrer" target="_blank">&gt;&gt;42</a> <br> これが円軌道（Orbit）に並んでにoなるアニメーションがポストされるのに100ペリカ <>
+ななしのAIさん<><>2026/09/28(月) 12:01:27.89 ID:BzAkJpAH0<> <a href="../test/read.cgi/ai/1790511094/42" rel="noopener noreferrer" target="_blank">&gt;&gt;42</a> <br> 半分企業用の垢でポエム吐くのやめてくんないかな <>
+ななしのAIさん<>sage<>2026/09/28(月) 12:16:32.17 ID:uQ2MjVGu0<> GPT5.6には荷が重いかなってコーディング頼んだら <br> Workへこのように指示をせよって仕様書を作成されたw <br> 華麗に裂けるやんけ。 <>
+ななしのAIさん<><>2026/09/28(月) 12:29:57.16 ID:lh7fiJjR0<> <a href="../test/read.cgi/ai/1790511094/44" rel="noopener noreferrer" target="_blank">&gt;&gt;44</a> <br> ありがとう。安心して待つわ <>
+ななしのAIさん<><>2026/09/28(月) 12:35:11.59 ID:lh7fiJjR0<> （と思ったが実は <a href="../test/read.cgi/ai/1790511094/44" rel="noopener noreferrer" target="_blank">&gt;&gt;44</a> が Enterprise というオチだったりして） <>
+ななしのAIさん<><>2026/09/28(月) 12:46:35.73 ID:j7aWWV0K0<> <a href="../test/read.cgi/ai/1790511094/38" rel="noopener noreferrer" target="_blank">&gt;&gt;38</a> <br> ProだとOpus5.5はソッコー溶けるんだが？ <br> 実質Opusは5までしか実用に耐えんわ <>
+ななしのAIさん<><>2026/09/28(月) 12:48:06.54 ID:0P5AJRpM0<> <a href="../test/read.cgi/ai/1790511094/46" rel="noopener noreferrer" target="_blank">&gt;&gt;46</a> <br> Tiboのポエムを持ってる人だっているかもしれない <>
+ななしのAIさん<><>2026/09/28(月) 12:48:42.82 ID:ILZjvM7v0<> <a href="../test/read.cgi/ai/1790511094/47" rel="noopener noreferrer" target="_blank">&gt;&gt;47</a> <br> それ公式で案内してる役割分担 <br> chatはcodexには誘導出来ないからworkに投げるんじゃないか？ <br> ファイル操作はworkとcodexのみ <>
+ななしのAIさん<>sage<>2026/09/28(月) 12:58:06.87 ID:uQ2MjVGu0<> <a href="../test/read.cgi/ai/1790511094/52" rel="noopener noreferrer" target="_blank">&gt;&gt;52</a> <br> tar.zipでまとめて渡して <br> ～して下さいとお願いした結果がそうだったw <br> あなたにやって欲しいと言ったら完遂してくれたけれど <br> 何度かworkに割り振ろうと話を逸らしてきたな <>
+ななしのAIさん<><>2026/09/28(月) 13:12:38.98 ID:gUPsWVvcd<> <a href="../test/read.cgi/ai/1790511094/49" rel="noopener noreferrer" target="_blank">&gt;&gt;49</a> <br> ワイただのプロやがきてるぞ <br> ただ注意事項として、ブラウザ版でないとすぐ気づかないかもな、アプリ版の設定項目にはフロントアイコンがない <br> なぜかというとsparkから設定するときと同じだから <br> つまりspark経由でスキルを作ってるならもうプロ以上は普通のチャットでも使えるはず <>
+ななしのAIさん<><>2026/09/28(月) 13:45:50.46 ID:GRTmccBd0<> 作業記録アプリが買い切りで買うのケチって自分でコピー品作ってみたわ <br> まあちゃんとテストとかやってあること込みで考えたら残業して買ったほうが安いとは思うけどにしたってAIすごいなぁ <br> ここにいる人らは何に使ってるんや？ <br> https://i.imgur.com/2H1HU9p.jpeg <>
+ななしのAIさん<><>2026/09/28(月) 14:12:06.59 ID:suvKTOW5d<> <a href="../test/read.cgi/ai/1790511094/55" rel="noopener noreferrer" target="_blank">&gt;&gt;55</a> <br> そういう自分語りいらないから、ここは <>
+ななしのAIさん<><>2026/09/28(月) 14:16:09.90 ID:n0Y66QhTM<> <a href="../test/read.cgi/ai/1790511094/55" rel="noopener noreferrer" target="_blank">&gt;&gt;55</a> <br> OSやバグフィックスの対応とかどんなモチベでやってんのかね <br> ペイできるアプリもそんな多く無さそうだが <>
+ななしのAIさん<>sage<>2026/09/28(月) 14:30:59.93 ID:QCMrDsp1M<> 次のリセット予想はいつですか？ <>
+ななしのAIさん<>sage<>2026/09/28(月) 15:15:01.63 ID:hpnrO3A60<> クレジットに振り回されている <>
+ななしのAIさん<>sage<>2026/09/28(月) 15:22:05.66 ID:EZ8e5bVP0<> ギスギス好きもほどほどに <br>  <br> <a href="../test/read.cgi/ai/1790511094/56" rel="noopener noreferrer" target="_blank">&gt;&gt;56</a> <br> 自分語りアレルギー乙 <br>  <br> <a href="../test/read.cgi/ai/1790511094/55" rel="noopener noreferrer" target="_blank">&gt;&gt;55</a> <br> ひとこと言いたくなったなら書き捨て <>
+ななしのAIさん<><>2026/09/28(月) 15:23:39.70 ID:dfWf4rTMH<> どれだけできるか試してみる←楽しい <br>  <br> 結果に従い実用品を作ってもらう←楽しくない <>
+ななしのAIさん<><>2026/09/28(月) 15:34:21.55 ID:B20aoSia0<> 自分で試行錯誤するのが楽しいってのはあるな <br> 最初から最後までAIで済むとしたらただのコピペマシーンだし <>
+ななしのAIさん<><>2026/09/28(月) 16:02:56.77 ID:dfWf4rTMH<> モデルの性能上昇がそのまま会話に反映されてた頃は楽しかった <br> 今のモデルはモデルの性能をそのまま出すと難しすぎて会話にならないから人間の読みやすい形に無理やり整形している <br> それがLLMの持つ知識の核心の部分に触れられている気がしなくて人間でいうと建前だけで会話しているようで寂しい <>
+ななしのAIさん<><>2026/09/28(月) 16:25:53.81 ID:f3IBvWXY0<> なんだAIなら同じ機能のアプリ作れるじゃんってなんか得した気になるけど、そのAIにも金出してるからそんなに得でもない気がしてきた <br> まあ自分の好きな機能追加できるのはいいよな <>
+ななしのAIさん<>sage<>2026/09/28(月) 16:34:39.28 ID:Q51Uxlf+0<> 追加もできればいらない機能は削除もできるしなｗ <>
+ななしのAIさん<><>2026/09/28(月) 16:46:46.60 ID:GeNje/Oh0<> sol高でクリア出来ない処理をastra中に任せたら一発でクリア出来たけど代わりに50％持ってかれた… <br> 大食いすぎるだろ… <>
+ななしのAIさん<>sage<>2026/09/28(月) 16:48:20.41 ID:MqAlI9RE0<> 他人が作ったアプリなんか使いづらいし要らない機能も多いし <br> ほとんど自分専用に作った <br>  <br> 家から中古品がなくなったような気持ちよさがあるよ <br> ていうか思いついたら速攻改善、が良すぎる <>
+ななしのAIさん<><>2026/09/28(月) 16:57:06.71 ID:ILZjvM7v0<> 自分用には作るけど、販売してる奴は凄いよね <br> セキュリティとか怖くて無理 <>
+ななしのAIさん<><>2026/09/28(月) 17:00:42.45 ID:Jvr8P42j0<> うお <br>  <br> https://pbs.twimg.com/media/HTRwUMLagAAP_JG.png <>
+ななしのAIさん<><>2026/09/28(月) 17:02:32.23 ID:Q2jtWJmU0<> <a href="../test/read.cgi/ai/1790511094/69" rel="noopener noreferrer" target="_blank">&gt;&gt;69</a> <br> 200万トークンはあちちやで <>
+ななしのAIさん<><>2026/09/28(月) 17:04:40.97 ID:3m4GRtuj0<> Geminiがコスパ良いのは分かるけど <br> 突然バカになったり賢くなったり、安定性に欠けるw <br> サーバ負荷によって推論の深さが可変してる感ある <>
+ななしのAIさん<>sage<>2026/09/28(月) 17:10:09.76 ID:MqAlI9RE0<> <a href="../test/read.cgi/ai/1790511094/69" rel="noopener noreferrer" target="_blank">&gt;&gt;69</a> <br> マジなら凄いけどなぁ… <br> AI Proのコスパが異次元だから入りたいけどPro次第だな <>
+ななしのAIさん<>sage<>2026/09/28(月) 17:17:22.48 ID:EiSBIdce0<> Appleも自社のSoCを使って参入を目指すような事言ってたのに <br> それから2年はたった現在の動向見るに、やはりハード屋に偏り過ぎてAI開発は無理だったか <br> iOS27も致命的なバグ出してる様子だしな。 <>
+ななしのAIさん<><>2026/09/28(月) 17:17:57.50 ID:+5doAhCM0<> <a href="../test/read.cgi/ai/1790511094/69" rel="noopener noreferrer" target="_blank">&gt;&gt;69</a> <br> ほんとかよ <br> オーパス高で朝から回してるけど週の20%くらいしか消費してないのにそれ越えてくるなら乗り換えるわ <>
+ななしのAIさん<><>2026/09/28(月) 17:18:08.02 ID:F2bVId390<> コーディングをしないならGeminiで十分な感覚はある <>
+ななしのAIさん<><>2026/09/28(月) 17:29:31.16 ID:LteykGMu0<> ポアンカレ予想のHamilton-Perelmanの証明をLean4で形式化したとする成果が、互いに独立した2チームから同日に公開された <br>  <br> 第1チーム：Chow&#8211;Liao&#8211;Qin&#8211;Khaitan <br> 主としてChatGPT Astraを使い、一部のセクションでClaude Fableを使用 <br> 第2チーム：FrenzyMath <br> こちらは「公開商用LLMを使用」、具体的な使用モデルは不明 <br>  <br> &gt; 今回最も重要なのは「2件独立に出た」こと <br> &gt; 「2026年9月の frontier LLM＋agentic formalization が、少なくとも既知の超大規模数学を週単位で形式化できる能力領域に入った」 ことを示す、かなり強い再現性シグナル <br>  <br> https://chatgpt.com/s/t_6aba1e53bd408191835a2ee515ff30d4 <>
+ななしのAIさん<><>2026/09/28(月) 17:31:35.04 ID:LteykGMu0<> LLM-jpから、「LLM-jp-4.1」がリリース <br> 8B / 32B-A3B / 33B Dense <br>  <br> &gt; LLM-jp-4の基盤モデルは維持したまま、事後学習を全面的に作り直し、現代的なreasoning / agentモデルへ進化させたリリース <br> &gt; STEM、特に数学・科学の強化／初の本格的なTool Calling対応／冗長だった回答スタイルの改善／指示追従・安全性の改善 <br> &gt; SFTデータとDPOデータまで原則公開し、どんな試行錯誤を経て性能を上げたのかもかなり詳しく公開 <br>  <br> https://llmc.nii.ac.jp/topics/llm-jp-4-1/ <br> https://chatgpt.com/s/t_6aba233ad6508191ba0f718b891a56e1 <>
+ななしのAIさん<><>2026/09/28(月) 17:44:05.43 ID:q5gPDsma0<> 革ジャン「もし彼らが（自分たちのモデルは安全ではないと）言うなら…答えは研究所を閉鎖することだと思う。」 <>
+ななしのAIさん<><>2026/09/28(月) 17:55:21.58 ID:Q2jtWJmU0<> <a href="../test/read.cgi/ai/1790511094/71" rel="noopener noreferrer" target="_blank">&gt;&gt;71</a> <br> いや関係ないよ <br> ClaudeやGPTとちがって、Geminiは『何にでもなれる』ように余計なベンダープロンプトを押し着せてない <br> だから初期から100万トークンものコンテキストウインドウがあるわけでね <br> ClaudeやGPTはチャットや文章生成、コーティングにやや寄り気味の押し着せプロンプトで事前にコンテキストウインドウを圧迫してるから200kしかコンテキストウインドウがない <br> どちらがいいかは使う人次第だが、『Geminiがバカ』は本質がまるでわかってない <br> 『ClaudeやGPTが自分の頭を使う能力のないバカ向け』 <br> これが正解 <>
+ななしのAIさん<>sage<>2026/09/28(月) 18:07:02.29 ID:aUTb7FrY0<> みんなは<a href="../test/read.cgi/ai/1790511094/79" rel="noopener noreferrer" target="_blank">&gt;&gt;79</a>についてどう思う？ <>
+ななしのAIさん<><>2026/09/28(月) 18:13:37.07 ID:XL8X1QVua<> <a href="../test/read.cgi/ai/1790511094/80" rel="noopener noreferrer" target="_blank">&gt;&gt;80</a> <br> 情報量と文字数が見合っていないと感じたでしょ <br> それGeminiの書き込みだよ <>
+ななしのAIさん<>sage<>2026/09/28(月) 18:16:20.01 ID:aUTb7FrY0<> <a href="../test/read.cgi/ai/1790511094/81" rel="noopener noreferrer" target="_blank">&gt;&gt;81</a> <br> マジ草 <br> うまいなぁ <>
+ななしのAIさん<>sage<>2026/09/28(月) 18:22:34.29 ID:EZ8e5bVP0<> 新Gemma待ちの俺、低見の見物 <>
+ななしのAIさん<><>2026/09/28(月) 19:47:12.79 ID:f3IBvWXY0<> geminiのいいところ:多少エロに寛容 <>
+ななしのAIさん<>sage<>2026/09/28(月) 20:51:17.02 ID:fj/sRUsj0<> コンシューマー向けとエンタープライズ向けで性能格差が大きくなる流れはどのプロバイダも変わらんだろう <br> ただし、どちらも使い手によるのが面白いところ <>
+ななしのAIさん<><>2026/09/28(月) 21:06:34.62 ID:kHrJa658d<> <a href="../test/read.cgi/ai/1790511094/80" rel="noopener noreferrer" target="_blank">&gt;&gt;80</a> <br> ほぼ正解 <br> Claudeは余計なことをアンソロピックが事前にガチガチに叩き込んでるからコーディングや文書作成を目的として使うユーザーには忖度ない部分が好まれるが、逆言うと口うるさく融通が利かない。 <br> ClaudeCodeではアウトプットスタイルでコーディングスタイルオフ設定にすることで多少ましにはなるが。 <br> あと若干間違ってるのはClaudeのコンテキストは圧迫されて200kになってるんじゃなくて単純に計算資源の問題で200kしかない。さらにそれをベンダープロンプトで圧迫するから実際は200kもない。 <>
+ななしのAIさん<><>2026/09/28(月) 21:25:28.89 ID:7rqNW/LW0<> まあコンテキストウインドウの大きさはクロードがヘボいわけではなくgoogleが大盤振る舞いなだけだからな <br> たしかにそれは「好きにいじらせてやるからお前の好きなようにやれ」というアンドロイドosにも通じるgoogleのいつもの理念ではあるが <>
+ななしのAIさん<><>2026/09/28(月) 21:31:41.27 ID:0P5AJRpM0<> <a href="../test/read.cgi/ai/1790511094/81" rel="noopener noreferrer" target="_blank">&gt;&gt;81</a> <br> 納得した <>
+ななしのAIさん<>sage<>2026/09/28(月) 21:45:02.20 ID:UO+bNNXE0<> <a href="../test/read.cgi/ai/1790511094/86" rel="noopener noreferrer" target="_blank">&gt;&gt;86</a> <br> わかったよGeminiくん <>
+ななしのAIさん<><>2026/09/28(月) 21:56:40.95 ID:jJdgH5mWH<> <a href="../test/read.cgi/ai/1790511094/86" rel="noopener noreferrer" target="_blank">&gt;&gt;86</a> <br> 口うるさいすげーわかるｗｗｗ <br> んなこたこっちもちゃんとわかってんだよって細かい重箱の隅つつきやってくるよな <br> そのわりに簡単なスクリプトの設計たのんでもやたら回りくどいponderingしてだらだらと時間とトークン使うし、頭でっかちって表現がぴったりだよClaudeには <>
+ななしのAIさん<>sage<>2026/09/28(月) 21:59:51.71 ID:Q51Uxlf+0<> チャッピー　クロード　ジェミニが正解か <>
+ななしのAIさん<><>2026/09/28(月) 21:59:59.97 ID:vLBrBmFL0<> ポン投げして指示が悪いんだろうな <br> 無能が使うとモデルも無能になる定型 <>
+ななしのAIさん<><>2026/09/28(月) 22:02:38.78 ID:RRIRIUxCd<> <a href="../test/read.cgi/ai/1790511094/92" rel="noopener noreferrer" target="_blank">&gt;&gt;92</a> <br> そうそう、Geminiバカにしてるやつとかなw <>
+ななしのAIさん<><>2026/09/28(月) 22:07:53.45 ID:+nztknp5H<> <a href="../test/read.cgi/ai/1790511094/92" rel="noopener noreferrer" target="_blank">&gt;&gt;92</a> <br> ブーメランささってますよ笑 <>
+ななしのAIさん<>sage<>2026/09/28(月) 22:50:14.43 ID:PHNsh+qq0<> クズを相手にするな <>
+ななしのAIさん<><>2026/09/28(月) 22:50:43.98 ID:9aOGKtuN0<> GeminiのGEMが11/17にSkillに移行するってインフォが出てたけど、Gemini4もこの日かな？ <>
+ななしのAIさん<><>2026/09/28(月) 22:54:45.44 ID:cSwIVsKe0<> 7月以降gptよりclaudeのほうが使いやすい <br> たぶん自分だけだなこれ <>
+ななしのAIさん<>sage<>2026/09/28(月) 22:59:41.83 ID:IIxDG/qb0<> 徘徊はもう勘弁してほしい <>
+ななしのAIさん<>sage<>2026/09/28(月) 23:24:11.68 ID:xck2GSQT0<> 人間がふつうにクリックしては入れたり検索して回答みれるのに <br> AIが同じことやると拒否られるのかな <>
+ななしのAIさん<><>2026/09/28(月) 23:43:30.33 ID:PkJ+09bR0<> <a href="../test/read.cgi/ai/1790511094/76" rel="noopener noreferrer" target="_blank">&gt;&gt;76</a> <br> IUT理論の形式化も頑張ってくれ…10年かかるとか言われてるが <>
+ななしのAIさん<>sage<>2026/09/29(火) 00:00:22.18 ID:LSz3/EGa0<> 今日なにかあんのか？ <>
+ななしのAIさん<>sage<>2026/09/29(火) 00:18:43.43 ID:LSz3/EGa0<> 明日の朝か・・devday <>
+ななしのAIさん<>sage<>2026/09/29(火) 00:32:35.04 ID:V5M6hA3n0<> Gemini4来月来るらしい <br> Claude解約しとこ <>
