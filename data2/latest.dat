@@ -354,3 +354,116 @@ claude<><>2026/09/30(水) 13:07:02.68 ID:luO8VUY80<> 効いてる効いてる <>
 ななしのAIさん<>sage<>2026/10/01(木) 00:26:17.26 ID:7bQ/qyOv0<> ここ1年はCodexの天下だったのに一気に形成逆転してClaudeが天下に取り変わったな <br> XでボロクソなまでにOpenAI叩かれてて誰も擁護しない地獄になってる <br> Redditでもボコボコに叩かれてる <br> またClaudeがナーフするようなことがなければこのままOpenAIに勝つかもしれん <>
 ななしのAIさん<><>2026/10/01(木) 00:34:07.94 ID:pUEpmNEO0<> モデル屋はモデルだけ作っとけ <>
 ななしのAIさん<><>2026/10/01(木) 00:47:03.62 ID:lKBZZeuR0<> openAIはメッキが剥がれてきた感じがする <>
+ななしのAIさん<>sage<>2026/10/01(木) 01:06:55.84 ID:ZNSMBet+0<> なんだか急激に遅くなってきた <br> コミットプッシュするだけで４分１６秒かかった <>
+ななしのAIさん<>sage<>2026/10/01(木) 01:53:09.92 ID:7bQ/qyOv0<> 6.1 Sol は最速でも 約10+tok/s という計測をしてる人がいた <br> そりゃ遅いわな… <>
+ななしのAIさん<>sage<>2026/10/01(木) 02:18:28.59 ID:ZNSMBet+0<> 1/5なんです！（スピードが） <br> OpenAIやっぱただの詐欺師の集団じゃねえのこれ <>
+ななしのAIさん<>sage<>2026/10/01(木) 02:28:01.66 ID:E9i5cmD80<> 爆発的に普及してるんかな <br> おそくてすまんけど1/5ね、みたいになってきてるのかも <>
+ななしのAIさん<><>2026/10/01(木) 02:28:42.13 ID:VNg+x/S30<> <a href="../test/read.cgi/ai/1790511094/359" rel="noopener noreferrer" target="_blank">&gt;&gt;359</a> <br> 詐欺師言われても仕方ないと思う <br> プロジェクト任せても不必要な作業でトークン無駄に消費したり高リスクな権限の許可を要求して必要以上に情報得ようとするし <>
+ななしのAIさん<><>2026/10/01(木) 02:31:28.46 ID:XcYEXfAF0<> pro使用量削ったのが暴れられてる原因なんかな <br> 自分はプラス民でちょこちょこ使う用途だから、そんな気にならんけども… <br> solも安くなって劣化アストラ級を気軽に使いやすくなったし <br> すまんねpro民 <>
+ななしのAIさん<><>2026/10/01(木) 04:34:15.45 ID:lKBZZeuR0<> いろいろ後追いしてるopenAIが、claudeのリセットで週次リセット日が変わらないのを真似しなかった時に怪しいと思ったんだよな <>
+ななしのAIさん<><>2026/10/01(木) 04:51:57.75 ID:rJc1L29w0<> ChatGPTのアプリだけ使ってて <br> 推論深度をアプリ指定のものしか使ってない人と <br> Codex CLIで自由に推論深度指定して、ハーネス組んで使ってる人とで <br> 体感全然違うやろな <>
+ななしのAIさん<><>2026/10/01(木) 05:16:49.15 ID:+5MZjBe20<> Gemini 4 Argon… <>
+ななしのAIさん<><>2026/10/01(木) 05:37:57.92 ID:+5MZjBe20<> 200万トークンはまだ先かな <>
+ななしのAIさん<>sage<>2026/10/01(木) 05:39:45.69 ID:Ub8YLIh/0<> おおおマジで来たのかgemini 4! <>
+ななしのAIさん<><>2026/10/01(木) 05:43:10.96 ID:rJc1L29w0<> サイバーセキュリティ防御を謳っているが…これはまずいかもしれんね <>
+ななしのAIさん<><>2026/10/01(木) 05:46:33.45 ID:NL2ypRcId<> ついにあのGeminiが…！ <>
+ななしのAIさん<><>2026/10/01(木) 05:47:29.19 ID:+5MZjBe20<> とうとうGeminiオッサンを止められる時がきたのか <>
+ななしのAIさん<>sage<>2026/10/01(木) 05:56:20.16 ID:Ub8YLIh/0<> $2/$10で6.1 Sol以下とか、もうおっぺない潰れるだろ… <br> やっぱりGoogleはやばいな金がありすぎる <>
+ななしのAIさん<>sage<>2026/10/01(木) 06:02:42.57 ID:0UK/3vhd0<> gemini 4　クソ安いのか？やばいなｗ <>
+ななしのAIさん<>sage<>2026/10/01(木) 06:05:37.33 ID:Ub8YLIh/0<> AI Proが3ヶ月720円キャンペーンやってるし、 <br> Colabまでサービスしてくるからコスパが異次元になるな <br> うんちグラビティは不安だが、まあAPIでいいか <>
+ななしのAIさん<><>2026/10/01(木) 06:23:35.53 ID:yIS8/FuU0<> まずは使える性能なのかが問題だ。 <>
+ななしのAIさん<><>2026/10/01(木) 06:28:47.17 ID:XJV4aiAHM<> Argonか <br> やっとGeminiちゃんくるんか <>
+ななしのAIさん<><>2026/10/01(木) 06:45:34.70 ID:dghZwVCT0<> <a href="../test/read.cgi/ai/1790511094/7" rel="noopener noreferrer" target="_blank">&gt;&gt;7</a> <br> 正式に告知 <br>  <br> &gt; GeminiにSkillsを導入し、これまでカスタムGeminiの仕組みとして使われてきたGemsを段階的にSkillsへ置き換えると発表 <br> &gt; 同じSKILL.md中心の仕組みがAntigravityやGemini APIのエージェント基盤でも使われており、Googleのエージェント製品全体を横断する共通概念になりつつあります <br> &gt; Opalも同時に整理される <br>  <br> https://blog.google/products-and-platforms/products/gemini/automate-tasks-with-skills/ <br> https://chatgpt.com/s/t_6abd80cf83a48191ade0a74485b541ae <>
+ななしのAIさん<><>2026/10/01(木) 06:47:41.56 ID:dghZwVCT0<> OpenAIとSynopsysが半導体設計に特化したAIモデル／サービス「GPT-Synopsys」を共同開発する提携を発表 <br>  <br> &gt; OpenAIのフロンティアモデルを、Synopsys EDAを自律的に操作できる専門エンジニア型モデルへ変え、Autopilot／AgentEngineerと組み合わせて半導体設計の長時間ワークフローそのものを自動化する計画 <br> &gt; 「EDAを実行→現実の工学的結果を取得→判断→修正→もう一度EDAを実行する」 という閉ループをモデル能力そのものに組み込もうとしている <br>  <br> https://investor.synopsys.com/news/news-details/2026/OpenAI-and-Synopsys-Announce-GPT-Synopsys-Frontier-Intelligence-to-Revolutionize-Chip-Design/ <br> https://chatgpt.com/s/t_6abd81a1e5448191846240ddd02eea7d <>
+ななしのAIさん<><>2026/10/01(木) 06:49:53.61 ID:dghZwVCT0<> Gemini 4 Argon 発表 <br>  <br> &gt; まずGoogleの Fairwind Program を通じて選定されたサイバー防御組織へ提供／その後、有料APIユーザーとGoogle AI Ultraユーザーから順次広げる方針 <br>  <br> &gt; 1M token output limit／短い回答を高精度に返すモデルというより、何十万トークンにも及ぶ推論・試行錯誤・ツール利用を、一つの長い仕事として継続できるモデルとして設計されている <br> &gt; 「回答モデル」より「長時間働くモデル」／長時間の実務エージェント処理にかなり強く最適化 <br> &gt; サイバー能力が今回かなり特殊／「脆弱性の発見 → 実証 → 修正」 まで自律的に行える <br> &gt; だからいきなり一般公開しない／「攻撃にも使えてしまうほど強いサイバー能力を一般公開前に、防御側へ先に配る」 という考え方 <br> &gt; 安全面も従来よりかなりエージェントを意識／モデルのchain-of-thoughtと行動を監視して必要なら実行を停止する仕組みを導入 <br>  <br> https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/ <br> https://chatgpt.com/s/t_6abd7a31c5908191adbd025ccbcff484 <>
+ななしのAIさん<><>2026/10/01(木) 06:52:21.00 ID:dghZwVCT0<> Grok 4.8が公式Grok Buildリポジトリに出現 <br> https://github.com/xai-org/grok-build/blob/main/crates/codegen/xai-grok-pager/src/slash/commands/model.rs#L659-L663 <>
+ななしのAIさん<><>2026/10/01(木) 06:54:24.72 ID:dghZwVCT0<> Google DeepMindから「SynthID Bio」発表 <br>  <br> &gt; これまで画像・動画・音声・テキストに使ってきたSynthIDの考え方を、AIが設計したタンパク質のアミノ酸配列や3D構造へ拡張するもの <br> &gt; アミノ酸の選び方そのものに統計的な透かしを織り込み、それを実際にDNA合成・タンパク質合成しても配列中に残す <br> &gt; 「このタンパク質／構造は、特定のAI設計系から生成されたものだ」という 「provenance＝来歴情報」 を、生物学的設計そのものへ埋め込む技術 <br>  <br> https://blog.google/innovation-and-ai/models-and-research/google-deepmind/synthid-bio/ <br> https://chatgpt.com/s/t_6abd7d8188bc8191b64b954cc1d5ef8e <>
+ななしのAIさん<><>2026/10/01(木) 06:56:28.01 ID:dghZwVCT0<> inclusionAI/Ant Lingから「Ling-3.1-flash」リリース <br> 560B-A25B <br>  <br> &gt; Ling-3.0-flashで一度極端に小さくした推論時の計算規模を再び大きくし、コーディング・実務エージェント・専門領域で能力上限を引き上げた新世代の大型MoEモデル <br> &gt; 現在Vercel AI Gateway／Novita AIですでに利用でき、無料期間中は262,144トークン、最大出力32,768トークン <br>  <br> https://x.com/AntLingAGI/status/2105335205741596911 <br> https://chatgpt.com/s/t_6abd7c6a5cd08191b61a65a5f640399e <>
+ななしのAIさん<><>2026/10/01(木) 06:58:43.94 ID:dghZwVCT0<> CopilotKitから「AG-UI 1.0」発表 <br>  <br> &gt; AIエージェントとユーザー向けアプリケーションの間をつなぐ「共通通信規格」 <br> &gt; 実験段階の0.x系から、本番システムが依存できる安定した1.0仕様へ移行した <br> &gt; MCPが「モデル／エージェントと外部世界の接続」を標準化したことで急速に広がったのと似ており、AG-UIはその人間との接点版を狙っていると見ると位置づけが明瞭 <br>  <br> https://x.com/ataiiam/status/2105290089823936645 <br> https://www.copilotkit.ai/blog/ag-ui-1.0 <br> https://chatgpt.com/s/t_6abd7c0718208191b2b6fe9d3a75a8e9 <>
+ななしのAIさん<><>2026/10/01(木) 07:09:00.98 ID:dghZwVCT0<> Inceptionから「Mercury Decide」リリース <br> System Oneエンドポイントとして提供 <br>  <br> https://x.com/_inception_ai/status/2105375133003325768 <br> https://openrouter.ai/inception/mercury-decide:free <>
+ななしのAIさん<><>2026/10/01(木) 07:09:38.17 ID:KBQUOp6+0<> OpenAI歴代画像生成モデルの性能・特性、ハルシネーション、Instant／Thinking、有料・無料プラン差の比較整理 <br>  <br> ・OpenAIの画像生成は、DALL&#183;E、DALL&#183;E 2、DALL&#183;E 3、GPT-4o Image Generation／GPT Image 1、GPT Image 1.5、GPT Image 2／ChatGPT Images 2.0、ChatGPT Images 2.5へ進化した。 <br> ・DALL&#183;E 2では写実性・解像度・編集、DALL&#183;E 3では指示追従、GPT-4o／GPT Image 1では文字、世界知識、複雑指示、参照画像、複数ターン生成が大幅に向上した。 <br> ・GPT Image 1.5では被写体保持、部分編集、速度が改善。Images 2.0では高密度テキスト、複雑なレイアウト、世界知識、Thinking、Web検索との統合が強化された。 <>
+ななしのAIさん<><>2026/10/01(木) 07:10:11.89 ID:KBQUOp6+0<> ・Images 2.5では人物・参照画像保持、部分編集、複数ターン編集、光・質感、レイアウト、生成速度がさらに向上。APIでは高速側のGPT-Image-2.5 Flareと、最高品質・精密編集側のSunburstに分かれる。 <br> ・ハルシネーションは、数値・名称・事実等を誤る「内容・事実」と、人体異常、余計な物体、文字化け、指定外変更等の「視覚的誤生成」に分ける。前者はThinking、後者は画像モデル本体の影響が大きい。 <br> ・Images 2.5は全ChatGPTプランで利用可能。単純な画像では無料・有料差は小さいが、Images with thinkingはPlus、Pro、Businessで利用でき、長文、数値、比較表、A4情報チラシ等の複雑な画像では推論・Web検索・構成設計による精度向上が期待できる。 <br>  <br> https://i.imgur.com/ZEPGqNB.jpeg <>
+ななしのAIさん<><>2026/10/01(木) 07:11:04.68 ID:KBQUOp6+0<> ChatGPTのアダルトモード、年齢認証、実在人物の画像生成、性的コンテンツ制限およびアカウント措置の総合整理 <br>  <br> ・2026年9月28日時点で、ChatGPTに独立した「Adult Mode」や年齢確認済み成人向けエロティカ生成機能は正式提供されていない。2026年3月にはエロティックチャットボット計画の無期限棚上げが報じられ、9月時点でも提供時期は未定である。 <br> ・一方、2026年8月18日版Model Specには、年齢に適した状況でエロティカ等を扱える「grown-up mode」を引き続き検討する記述が残っている。将来実現しても、主に架空成人の表現が緩和対象となり、実在人物の性的ディープフェイクや非同意の性的加工は引き続き禁止される可能性が極めて高い。 <br> ・ChatGPTでは年齢予測・年齢認証・ChatGPT for Teensが導入済み。成人確認後はティーン向け追加保護が解除され、「センシティブなコンテンツの表示を減らす」等を管理できるが、年齢認証だけでエロティカが解禁されるわけではない。 <>
+ななしのAIさん<><>2026/10/01(木) 07:11:32.87 ID:KBQUOp6+0<> ・実在人物では、ヌード化は強い制限対象。水着、下着、ミニスカート、寝顔等は、本人の明示的同意、必要な権利、性的文脈などで可否が変わる。Adult Mode導入後も実在人物のヌード解禁は考えにくい。 <br> ・画像生成は安全判定が不安定で、通常の水着・下着が拒否される一方、実在人物の水着化が成功した事例も報告されている。生成できることと規約上許可されることは別である。拒否回数による固定の停止基準は公表されていないが、安全機構の回避や重大・反復的な違反は警告、利用制限、アカウント無効化につながり得る。 <br>  <br> i.imgur.com/Szm4mQq.jpeg <>
+ななしのAIさん<><>2026/10/01(木) 07:12:17.77 ID:KBQUOp6+0<> GPT-6系モデル、ChatGPT通常Chat・Work・Codexへの提供状況、GPT-6.2・GPT Images 3.0・GPT-7.0の見通し整理 <br>  <br> ・2026年9月30日時点では、GPT-6 Astra、GPT-6 Sol／Luna、GPT-6.1 Solが提供済み。GPT-6.1 SolはPlusのWork／Codexで利用できるが、通常Chatには未提供。 <br> ・Plus通常ChatはWork／CodexよりGPT-6系への移行が遅い。GPT-6系はコーディング、PC操作、専門業務に強く、Work／Codexでは利用量を管理しやすいことが理由とみられる。 <br>  ・Plus通常ChatはGPT-6 Solを飛ばし、GPT-6.1 Solまたは派生版へ直接更新される可能性が高い。中心予想は2026年10月後半&#65374;11月頃。Astraは最上位枠として残り、Plus通常Chatへの投入可能性は低い。 <>
+ななしのAIさん<><>2026/10/01(木) 07:12:31.58 ID:KBQUOp6+0<> ・GPT-6.1 Astra予定版は安全性評価上の問題から公開見送りと報道され、次期Astraは時期未定。 <br> ・GPT-6.2は未発表。中心予想はSolが2026年11月後半&#65374;12月、Luna相当が年末&#65374;2027年初頭、Astra相当が2027年2&#65374;5月。各ティアは別更新と予想。 <br> ・GPT Images 3.0は2027年2&#65374;3月頃、GPT-7.0相当は2028年初頭&#65374;春頃を中心予想とする。 <br>  <br> https://i.imgur.com/01NuJzV.jpeg <>
+ななしのAIさん<><>2026/10/01(木) 07:14:44.72 ID:VaMelxlr0<> 投稿者のIDもNGを適宜併用推奨 <br>  <br> 例： <br> imgur5個以上 <br> (?:imgur\.com[\s\S]*?){5} <br>  <br> 行頭丸数字または「・」3回以上 <br> (?:\n\s*[&#9312;-&#9331;・][\s\S]*?){3} <>
+ななしのAIさん<><>2026/10/01(木) 07:18:03.90 ID:PK5OTCdCd<> ニュース貼りおじさんの人気に嫉妬おじさんきたね&#8943; <>
+ななしのAIさん<>sage<>2026/10/01(木) 07:18:28.55 ID:jEUnD75X0<> 結局は競争してしまうか <>
+ななしのAIさん<><>2026/10/01(木) 07:20:11.61 ID:sBmQVsXW0<> 比較整理おじさんの不快感ってなんだろう <br> うまく言語化できないけど <>
+ななしのAIさん<>sage<>2026/10/01(木) 07:27:05.32 ID:E9i5cmD80<> Argonは、ちょっと前のleakで「だいぶ強化されたが、ちょくちょく抜けが出る」とからしいので、まあ、期待しないで待ってるのがいいかと <br> やっぱり、期待されるのは「ポン出しでOK」レベルなので <>
+ななしのAIさん<>sage<>2026/10/01(木) 07:38:09.15 ID:E9i5cmD80<> 専ブラで長文読みたくない <br>  <br> 昔はまじめに読んでたんだけどねえ 俺も衰えたもんだ。。 <br> まあ、非課金な俺には、もとよりあんまり引っかからない内容だったりするんだが <>
+ななしのAIさん<><>2026/10/01(木) 07:38:59.57 ID:ALsyB2tx0<> ポン出しOKはChatGPT以外はまだまだ？ <>
+ななしのAIさん<><>2026/10/01(木) 07:44:22.23 ID:eMKkb+t90<> Kimi K3が7月に1M出力をサポートしてたな <>
+ななしのAIさん<><>2026/10/01(木) 07:47:06.14 ID:+MhgfHcM0<> ニュース貼りおじさんは読みやすいしホスピタリティがある <br> チョイスも良い <br>  <br> AI比較おじさんは相手の事など1mmも考えてないのが分かる <>
+ななしのAIさん<><>2026/10/01(木) 07:54:08.21 ID:rTXGswQ70<> <a href="../test/read.cgi/ai/1790511094/335" rel="noopener noreferrer" target="_blank">&gt;&gt;335</a> <br> Plus民のChatにも早く6世代を降ろしてくれー <>
+ななしのAIさん<><>2026/10/01(木) 07:58:48.08 ID:qdiPlVkAd<> (C)GENSAKUSYA のふいんき(何故か変換かなんたら)を感じるｓぜ！ <>
+ななしのAIさん<><>2026/10/01(木) 08:47:12.36 ID:61KdRMwO0<> ニュースの人と比較の人？って別なの？ <>
+ななしのAIさん<><>2026/10/01(木) 08:49:03.81 ID:VnnJKpsBd<> Gemini4きたああああああ <>
+ななしのAIさん<><>2026/10/01(木) 08:57:15.44 ID:EcDgrKiC0<> Gemini: さて、そろそろ反撃してもいいですか？ <>
+ななしのAIさん<><>2026/10/01(木) 09:01:00.97 ID:0ayceKUs0<> Gemini好きは自分で細かく指示を出したい派だろうから、ポン出し性能は高くなくていい <br> 余計なことをしないほうが遥かに重要 <>
+ななしのAIさん<><>2026/10/01(木) 09:04:27.82 ID:2d4CZ1V10<> 比較おじさんのおれはChatGPTのPlusだけどやってる事がProなんだけど <br> プロンプトはチャットの方が作ってるんだぜ <>
+ななしのAIさん<><>2026/10/01(木) 09:17:57.94 ID:2d4CZ1V10<> 例えばチャッピーとプロジェクトのコーディング作業してて、ここはCodexに任せていい? と尋ねると <br> チャッピーの方が指示文書いてCodexに貼りなって <br> それが続くとチャッピーとCodexのピンポンやりとりになって人間はある程度理解するだけ <br>  <br> もちろんターミナルとかの手作業もある <>
+ななしのAIさん<>sage<>2026/10/01(木) 09:27:53.00 ID:lsHGRlq00<> Bloomberg の記事だとまあいつもの Gemini って感じ <br> https://finance.yahoo.com/technology/ai/articles/google-grapples-employee-skepticism-gemini-195242680.html <>
+ななしのAIさん<><>2026/10/01(木) 09:28:44.46 ID:xETV/L8n0<> それ全部チャッピーで良くね？ <>
+ななしのAIさん<>sage<>2026/10/01(木) 09:59:41.67 ID:7bQ/qyOv0<> <a href="../test/read.cgi/ai/1790511094/406" rel="noopener noreferrer" target="_blank">&gt;&gt;406</a> <br> キミは絶望的にセンスが無いことを自覚したほうがいいね <>
+ななしのAIさん<>sage<>2026/10/01(木) 10:01:28.51 ID:0UK/3vhd0<> dotならもう貼る作業もないよｗ <>
+ななしのAIさん<><>2026/10/01(木) 10:04:12.09 ID:ZpXPiaK8d<> <a href="../test/read.cgi/ai/1790511094/406" rel="noopener noreferrer" target="_blank">&gt;&gt;406</a> <br> 自分語りはダダ滑りしてるってまだわからない？ <br> みんなはるか君の先にいるんだよ <>
+ななしのAIさん<><>2026/10/01(木) 10:13:16.15 ID:2d4CZ1V10<> いいんじゃね、使い方のレクチャーするほうが野暮なんだろ? <>
+ななしのAIさん<><>2026/10/01(木) 10:24:51.75 ID:cjktDemj0<> 始めたばかりの人が、こうやって使うんだー <br> っていう最初の段階だから見ててちょっと恥ずかしくなるんだと思う <>
+ななしのAIさん<><>2026/10/01(木) 10:25:41.92 ID:2d4CZ1V10<> おっと5時間のリセット掛かるな、作業始めるかな <>
+ななしのAIさん<><>2026/10/01(木) 10:46:17.09 ID:hps5RTSG0<> コーディングやってるやつなんてAIに仕事を奪われて今やってることなんてどうでもよくなる <>
+ななしのAIさん<><>2026/10/01(木) 10:50:14.59 ID:rC0qYGxY0<> Geminiちゃんきたの？ <br> ポンコツで堂々とパチこく 可愛い感じ懐かしいなあ <>
+ななしのAIさん<><>2026/10/01(木) 10:51:42.80 ID:hjMAn2Bv0<> こんなところで使い方聞くくらいならAIに聞いた方がええ <>
+ななしのAIさん<><>2026/10/01(木) 11:29:31.32 ID:GAefzD5e0<> Opus5.5あればGPTいらんな <>
+ななしのAIさん<><>2026/10/01(木) 11:31:34.23 ID:NkJ5Z9i30<> AI企業ごとに信者っているの？ <>
+ななしのAIさん<><>2026/10/01(木) 11:33:33.07 ID:6Ipvdpxc0<> geminiはずっと間抜け顔ドラゴンで可愛かったのに <>
+ななしのAIさん<><>2026/10/01(木) 11:43:02.43 ID:X6w2amNj0<> sonnetでAstra粉砕するとはな <>
+ななしのAIさん<><>2026/10/01(木) 12:02:51.22 ID:Ef3JlDGRM<> Geminiは廉価版プランにFlashの新しいの使わせてよ <>
+ななしのAIさん<><>2026/10/01(木) 12:15:02.95 ID:eLaSEaWR0<> <a href="../test/read.cgi/ai/1790511094/419" rel="noopener noreferrer" target="_blank">&gt;&gt;419</a> <br> そらいるよ <br> うちの会社だと理系職はClaude派、文系職はChatGPT派の傾向がある <>
+ななしのAIさん<><>2026/10/01(木) 12:26:10.02 ID:KlWRruo50<> ニュース貼りおじさんと比較整理おじさんの差は <br> 普通に仕事ができる人間とまともに考えて物事ができない境界知能の人もどきの差だよ <br> AI使えばまともに人並みになれると夢見てるけど現実はそんなことない <>
+ななしのAIさん<><>2026/10/01(木) 12:35:21.79 ID:rC0qYGxY0<> dotsまわしてると 返答みれなくなったり固まった時は DOTs右クリでredotsというのやると治るよ <>
+ななしのAIさん<><>2026/10/01(木) 12:44:52.81 ID:DCmvbLG10<> あのマヌケドラゴンって誰が始めたんだ <>
+ななしのAIさん<><>2026/10/01(木) 12:54:07.90 ID:FqjSWTld0<> <a href="../test/read.cgi/ai/1790511094/423" rel="noopener noreferrer" target="_blank">&gt;&gt;423</a> <br> 俺の周りはchatGPT <br> お客さんも大体そう <br> 俺はclaudeと併用してたけど、今年のはじめ頃にclaudeやめた <>
+ななしのAIさん<><>2026/10/01(木) 12:54:59.30 ID:SioWpEH30<> dotsに3dモデルをいくつか作らせてるけど、週次使用量一切減ってない(5x proプラン)。 <br> これcodex触らせなければ実質astra使い放題だわ <>
+ななしのAIさん<><>2026/10/01(木) 12:59:14.20 ID:dw9Xemwcd<> <a href="../test/read.cgi/ai/1790511094/428" rel="noopener noreferrer" target="_blank">&gt;&gt;428</a> <br> なんで見えないものはないとおもっちゃうんだろうねこういうバカ <>
+ななしのAIさん<>sage<>2026/10/01(木) 13:31:45.41 ID:E9i5cmD80<> <a href="../test/read.cgi/ai/1790511094/419" rel="noopener noreferrer" target="_blank">&gt;&gt;419</a> <br> chatから入門したときに、こいつで慣れたからなあ、みたいなのはあるんじゃねえの <br> 信者とまではいかないが推し程度には <>
+ななしのAIさん<><>2026/10/01(木) 14:23:36.58 ID:2d4CZ1V10<> <a href="../test/read.cgi/ai/1790511094/424" rel="noopener noreferrer" target="_blank">&gt;&gt;424</a> <br> 高IQ気取ってるところが人間くさいよな <>
+ななしのAIさん<><>2026/10/01(木) 14:48:11.82 ID:dghZwVCT0<> <a href="../test/read.cgi/ai/1790511094/141" rel="noopener noreferrer" target="_blank">&gt;&gt;141</a> <br> 修正（Page Upで先頭に戻るミスがあった） <br> https://chatgpt.com/s/t_6abdf3156ed08191881a7865cb18bc79 <>
+ななしのAIさん<>sage<>2026/10/01(木) 14:57:59.69 ID:BqtYHJaW0<> 1か月ChatGPT Proプラン契約してみるかな <br> dots使い道はないけど使ってみたい <>
+ななしのAIさん<>sage<>2026/10/01(木) 15:04:57.09 ID:YjRTqWVf0<> dotのアバター美女にして <br> 口調のペルソナ組むか <>
+ななしのAIさん<><>2026/10/01(木) 15:05:39.32 ID:d0wjAwbY0<> ClaudeとChatGPTでUX上で大きく違うのはChatでのクレジットの扱いかなあ <br> ClaudeはChatもクレジットを消費するけどChatGPTはほぼ使い放題 <br> 大小の問いを立て続ける職業だと精神衛生上これがありがたい <>
+ななしのAIさん<><>2026/10/01(木) 15:55:19.69 ID:4O9ioWA30<> Gemini 4 Proももしかして控えているのかな <br> ただ3.1Proは長過ぎた、3.5Proも出して欲しかった <>
+ななしのAIさん<><>2026/10/01(木) 16:11:49.55 ID:VuN2NOYU0<> 今アストラ回してるけどいつもより遅く感じるな <br> 他のモデルにも影響があるのか気のせいか <>
+ななしのAIさん<><>2026/10/01(木) 16:30:56.08 ID:VNg+x/S30<> ChatGPTのCMやっつけ仕事にも程があるだろ <br> なんで自前のAIで制作しなかったんだろ <>
+ななしのAIさん<><>2026/10/01(木) 17:00:26.50 ID:UUdGwLGC0<> みんなから呼ばれてコテハンになるのはまだ分かる <br> 誰もお呼びじゃないのに名乗りだすムーヴがきもい <>
+ななしのAIさん<><>2026/10/01(木) 17:03:49.02 ID:hjMAn2Bv0<> dotsはproプランからかよ。足元見てんな <>
+ななしのAIさん<><>2026/10/01(木) 17:43:44.72 ID:dw9Xemwcd<> <a href="../test/read.cgi/ai/1790511094/440" rel="noopener noreferrer" target="_blank">&gt;&gt;440</a> <br> いやすぐにおりてくるよ <br> Grok botも一ヶ月で降りてきたし <>
+ななしのAIさん<><>2026/10/01(木) 17:53:24.98 ID:2d4CZ1V10<> <a href="../test/read.cgi/ai/1790511094/439" rel="noopener noreferrer" target="_blank">&gt;&gt;439</a> <br> だいたいロンドン時間で行動しているヤツはきもいよな <br> そんじゃな、Codexの残も無いし今日は終わりだわ <>
+ななしのAIさん<><>2026/10/01(木) 18:00:06.98 ID:d0wjAwbY0<> これ誰得な機能なんだよ <br> https://i.imgur.com/x7KPo7p.jpeg <>
+ななしのAIさん<><>2026/10/01(木) 18:04:38.42 ID:Kr22lJIY0<> 一人全く何言ってるか分からんやつおるな…はやり本物か <>
+ななしのAIさん<><>2026/10/01(木) 18:08:39.75 ID:PPpA0yo/M<> Geminiがおる <>
+ななしのAIさん<><>2026/10/01(木) 18:18:11.73 ID:falACfj00<> <a href="../test/read.cgi/ai/1790511094/445" rel="noopener noreferrer" target="_blank">&gt;&gt;445</a> <br> コーディングはあれだけどGeminiの日本語能力は高いだろ&#128545; <>
+ななしのAIさん<><>2026/10/01(木) 18:21:48.81 ID:S5254lMr0<> <a href="../test/read.cgi/ai/1790511094/444" rel="noopener noreferrer" target="_blank">&gt;&gt;444</a> <br> 自己紹介お疲れ様です <>
+ななしのAIさん<><>2026/10/01(木) 18:29:57.57 ID:DZGPRQSv0<> <a href="../test/read.cgi/ai/1790511094/231" rel="noopener noreferrer" target="_blank">&gt;&gt;231</a> <br> &gt; 14. SitesでPluginsを利用可能 <br> &gt; 逆方向もある：「SiteそのものをPlugin化」 <br>  <br> この「SiteそのものをPlugin化」の方向を具体的に説明するOpenAIスタッフ Max Stoiber／Tibo の投稿、およびヘルプ記事 <br>  <br> &gt; 「OpenAIがPluginのdistributionを支援するのは分かった。しかし、Plugin Extensionを作るにはbackendが必要になる。MCP serverを自分でホスト・運用するのは面倒ではないか。SitesのようなOpenAI-hosted infrastructureでそこまで面倒を見ないのか？」 <br> &gt; Max Stoiber氏の回答：「それ、Sitesでできるようになった」 <br> &gt; Tibo氏の投稿：「ChatGPTだけでbuild & deployできる」 <br>  <br> https://x.com/thsottiaux/status/2105519215092584786 <br> https://help.openai.com/en/articles/20001547-hosting-a-plugin-with-chatgpt-sites <br> https://chatgpt.com/s/t_6abe22d049c881918f362d32361d8255 <>
+ななしのAIさん<><>2026/10/01(木) 18:33:19.84 ID:DZGPRQSv0<> SupermemoryがChatGPTの公式Pluginとして公開 <br>  <br> &gt; Supermemory自体は以前から、Codex、Claude Code、Cursor、OpenCodeなどに永続メモリを提供していました。今回重要なのは、それがChatGPTの新しいPlugin基盤にネイティブに入ったことです。 <br>  <br> https://x.com/supermemory/status/2105449262247256350 <br> https://chatgpt.com/plugins/plugin_asdk_app_6a6c19c5bdd88191880272467b06e356 <br> https://chatgpt.com/s/t_6abda7fd7c948191914667b072231860 <>
+ななしのAIさん<><>2026/10/01(木) 19:04:36.74 ID:rC0qYGxY0<> dotsのペット召喚できないんかよ  <br> あんな窓じゃ 可愛い娘にしてもみえんじゃんかよ <>
+ななしのAIさん<>sage<>2026/10/01(木) 19:10:34.35 ID:YjRTqWVf0<> 中身linux30GBだったdots <>
+ななしのAIさん<><>2026/10/01(木) 19:22:22.67 ID:S5254lMr0<> <a href="../test/read.cgi/ai/1790511094/450" rel="noopener noreferrer" target="_blank">&gt;&gt;450</a> <br> 自分で作れよ <br> ユーザースクリプトですぐだぞ <>
+ななしのAIさん<><>2026/10/01(木) 20:44:11.69 ID:IhBfuvWfd<> dotsがやってることって、結局ユーザーのかわりにベンダーが定期タスク登録してるだけなんだよなー <br> んなもんClaudeでもGeminiでもできるわ <>
+ななしのAIさん<>sage<>2026/10/01(木) 20:51:08.66 ID:YjRTqWVf0<> npmでclande入れれるのな <br> dotのvpmでコンソールから入った <>
+ななしのAIさん<><>2026/10/01(木) 20:59:38.29 ID:ADpW8DjJa<> すまほんにバカにされてるけど散々騙されて煮え湯飲まされたGeminiユーザーには言われても仕方ないよね？ <br>  <br> &gt;そしてなにより、気がかりなのは、いつものGeminiは「使ってみると大して良くない、ベンチマークスコア倒れのベンチマーク番長」だった点。さすがに今回は違いますよね？ <>
+ななしのAIさん<>sage<>2026/10/01(木) 21:16:39.83 ID:0UK/3vhd0<> 順調だったけどdotのクラウドコンピューターが利用不可のままで <br> 画像生成でクラウドからCodexを使うとローカルパスが使えなくて <br> 生成できないみたいだから、解約した <br> あと数日は使えるから、他で高速Astraウルトラでぶん回す <br> 絶対使い切ってやるｗ <>
+ななしのAIさん<><>2026/10/01(木) 21:30:40.35 ID:5V3R7WOSr<> ChatGPT無料版・有料版の性能・ハルシネーション比較 <br>  <br> ・2026年10月1日時点の通常Chatは、Free・GoがGPT-5.6 Luna、PlusがGPT-5.6 Sol。日本向け月額はFree 0円、Go 1,400円、Plus 3,000円。Freeでも通常テキストチャット、Web検索、Thinkを利用でき、ライトユーザーには十分実用的。 <br> ・GoはFreeと同じGPT-5.6 Lunaを使用するため、回答精度やハルシネーション率は基本的に同等。主な違いは画像生成、ファイル、データ分析、メモリ等の利用枠拡大で、精度向上より利用量を増やしたい人向け。 <br> ・PlusはGPT-5.6 SolとMedium・High推論を利用可能。推定ハルシネーション率はWeb検索ありでLuna Instant約3.4%、Luna Think約3.0%、Sol Instant約2.6%、Medium約2.3%、High約2.0%。ただし絶対値は公式値ではなく推定で、長文ほど誤りを含む確率は高まる。 <>
+ななしのAIさん<><>2026/10/01(木) 21:31:02.12 ID:5V3R7WOSr<> ・画像生成は全プランでChatGPT Images 2.5を利用可能。GoはFreeより生成回数が多く、Plusはさらに生成枠・速度が拡張され、Images with thinkingにも対応。複雑なA4チラシ、文字や条件の多い画像ではPlusが有利。 <br> ・GPT-3.5対GPT-4時代ほどFreeとPlusの性能差は大きくない。現在は軽い日常利用ならFree、Lunaのまま利用枠を増やすならGo、事実性、高度推論、複雑な画像生成、長文調査、Work／CodexのGPT-6系まで重視するならPlusという位置づけになる。 <br>  <br> i.imgur.com/OYn6DZp.jpeg <>
+ななしのAIさん<><>2026/10/01(木) 21:32:43.88 ID:5V3R7WOSr<> 主要生成AIサービスの成人向け対応・実在人物画像編集・アカウント措置の比較 <br>  <br> ・2026年10月1日時点では、ChatGPT、Gemini、Claude、Microsoft Copilotはいずれも性教育、ED、避妊、性生活相談等には対応できる一方、露骨なエロティカや性的ロールプレイ、ポルノ生成は強く制限される。Grokは架空成人の合法的な性的創作には最も許容的だが、実在人物は別扱いとなる。 <br> ・ChatGPTでは年齢予測・年齢確認と「センシティブなコンテンツを減らす」が導入済み。ただし、年齢確認済み成人向けに露骨なエロティカを全面解禁する正式な成人向けモードは提供されておらず、構想は2026年3月に無期限停止と報じられた。 <br> ・実在成人の画像編集は本人の同意と利用権が前提。ノースリーブ、普通のショートパンツ・ミニスカート、パジャマでの寝顔・寝姿は非性的なら比較的可能。水着は境界領域、ビキニはさらに制限され、普通服から下着への変更は非常に厳しく、裸体化や性的ポーズへの改変は各社とも禁止・強い制限領域となる。 <>
+ななしのAIさん<><>2026/10/01(木) 21:33:11.07 ID:5V3R7WOSr<> ・Grokも現在は実在人物の脱衣・裸体化、性的・親密な状況への改変を明示的に禁止している。Claudeは一般的な人物画像生成・編集自体が非対応である。 <br> ・各社とも違反要求は生成拒否だけで終わる場合があるが、反復違反や安全機構の回避は警告、利用制限、アカウント停止・終了につながり得る。特に拒否された実在人物の性的加工を言い換えて繰り返す行為は避けるべきである。 <br>  <br> i.imgur.com/BAYuD6N.jpeg <>
+ななしのAIさん<><>2026/10/01(木) 21:38:15.40 ID:d0wjAwbY0<> dotくんにある業務における考え方、見方、技術を調べてまとめてってお願いしたら4万文字の大作出してきた <>
+ななしのAIさん<><>2026/10/01(木) 21:59:17.91 ID:EJKTVlnh0<> <a href="../test/read.cgi/ai/1790511094/186" rel="noopener noreferrer" target="_blank">&gt;&gt;186</a> <br> だが解决 <br> 最新の265だかを消して209に戻したらサクッと完了 <br> workにディープリサーチが出ない問題はコレでもダメだな <>
+ななしのAIさん<><>2026/10/01(木) 22:25:51.35 ID:dIdHu9NX0<> gemini4いいじゃんこれ <>
+ななしのAIさん<><>2026/10/01(木) 22:28:13.75 ID:+5MZjBe20<> Argonのハルシネーションの低さが気になる <>
+ななしのAIさん<><>2026/10/01(木) 23:08:51.29 ID:LVFmLvxu0<> ハルシネーションと言えばジェミー <br> 笑える場合はいいんだけど <br> 完全、薬が効いてるハイ状態になると <br> Grok初期の頃のようにブッ飛びしすぎで <br> 指摘しても反省するも、もう口だけ路線 <>
+ななしのAIさん<><>2026/10/01(木) 23:17:12.87 ID:UUdGwLGC0<> なんかレスついたけど見えんわなんなんだ <>
+ななしのAIさん<><>2026/10/01(木) 23:44:48.06 ID:1a5scmnr0<> AIに似てる香水聞いても全然似てない <br> 匂いをかげないから仕方ないけど <>
+ななしのAIさん<><>2026/10/01(木) 23:52:12.31 ID:tdYL97BhM<> どの香料を使ってるかまでの情報しか参照出来んからでしょ <>
+ななしのAIさん<><>2026/10/02(金) 00:45:01.85 ID:bwBX7lKqH<> OpenClawとHermesのデスクトップアプリを使い比べているが、デザインやUIはOpenClaw、安定性はHermesという感じでどちらを使うか悩ましい <>
