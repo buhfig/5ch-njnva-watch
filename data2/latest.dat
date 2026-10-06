@@ -902,3 +902,84 @@ claude<><>2026/09/30(水) 13:07:02.68 ID:luO8VUY80<> 効いてる効いてる <>
 ななしのAIさん<><>2026/10/05(月) 23:47:28.25 ID:JWYTF3y50<> <a href="../test/read.cgi/ai/1790511094/901" rel="noopener noreferrer" target="_blank">&gt;&gt;901</a>の続き <br>  <br> ・性能は速度、数学、推論、幻覚抑制、翻訳、知識、会話、文章、情報収集、画像解析、画像生成連携、長文、コード、Agent、PC操作、指示追従、コスト、総合実用性の18項目を10点満点で現在基準により評価する。 <br> ・画像解析と画像生成・編集連携は分離し、最終描画品質はChatGPT Images 2.5等の専用画像モデルにも依存する。新世代でもモデル階層により旧モデルを下回る項目はあり得る。 <br> ・絶対性能ではGPT-6 Astraを最上位とし、GPT-6 Proは最難タスク向け。GPT-6.1 SolはAstraに近い性能をAPI価格5分の1で提供し、性能とコストのバランスを高く評価する。 <br>  <br> i.imgur.com/DzXRlIq.jpeg <>
 ななしのAIさん<><>2026/10/05(月) 23:48:22.58 ID:JWYTF3y50<> ChatGPT個人向けプラン・最新モデル・利用回数・主要機能の総合整理 <br>  <br> ・2026年10月5日時点の個人向けプランはFree、Go、Plus、Pro 100／200／500。通常ChatはFree／GoがGPT-5.6 Luna、PlusがGPT-5.6 Sol、ProではGPT-6 ProやGPT-5.6 Sol Proも利用できる。最新GPT-6.1 Solは主にWork／Codex向け。 <br> ・通常ChatとWork／Codexは別枠。PlusのGPT-5.6 Solは公式固定回数がなく、Medium約50&#65374;100件、High約25&#65374;60件／5時間と推定。Pro 100はGPT-6 ProとSol Proで週50件共有、Pro 200はGPT-6 Pro週200件、Sol Pro日170件・両者合算日200件。 <br> ・Work／CodexのPlus公式目安はGPT-6.1 Solが15&#65374;160件、GPT-6 Lunaが350&#65374;3,000件／5時間等。Proは5時間上限ではなく総利用枠で管理され、Pro 500はPlus比25倍。Fast／Ultrafastは利用枠の消費速度も増える。 <>
 ななしのAIさん<><>2026/10/05(月) 23:48:44.59 ID:JWYTF3y50<> <a href="../test/read.cgi/ai/1790511094/903" rel="noopener noreferrer" target="_blank">&gt;&gt;903</a>の続き <br>  <br> ・画像生成はChatGPT Images 2.5。推定でFree 2&#65374;5枚、Go 10&#65374;30枚、Plus 30&#65374;100枚／日、Proは実質無制限。思考付き画像生成はPlus／Pro対応。VoiceはGo／Plus 3時間、Pro 100は15時間、Pro 200は無制限。 <br> ・ファイルは最大512MB、Freeは3件／日、一般上限80件／3時間。LibraryはFree 500MB、Go 4GB、Plus 20GB、Pro 100GB。Soraは終了済み。料金だけでなくモデル、回数、周期、共有枠、画像、Voice、Deep Research等を総合比較する必要がある。 <br>  <br> i.imgur.com/pFrJB18.jpeg <>
+ななしのAIさん<><>2026/10/06(火) 01:24:52.50 ID:fja9nZaL0<> 今後チャッピーはチャットでもCodex枠が削られるマジ？ <br> やっぱローカル用意しとかんとどんどん不便になるな <>
+ななしのAIさん<><>2026/10/06(火) 01:38:46.01 ID:zwUbdz+R0<> いよいよclaude一本やな <>
+ななしのAIさん<><>2026/10/06(火) 03:16:20.71 ID:q2c5/fdL0<> OpenAIから、ChatGPTやCodexが生成する文章にウォーターマークを埋め込む方針を正式に発表 <br>  <br> &gt; EUでは今後数週間かけてChatGPT・Codexの対象テキストへ標準的に適用 <br> &gt; 世界のAPI利用者には任意設定として提供 <br> &gt; 検出器／一般公開はしません。当初は審査を通った研究者・専門機関だけが利用できます。 <br>  <br> https://openai.com/index/eu-text-provenance <br> https://chatgpt.com/s/t_6ac3e5c0511481918afd6fff10fa80db <>
+ななしのAIさん<><>2026/10/06(火) 03:19:23.51 ID:q2c5/fdL0<> フロリダ州の女性が9月にClaudeで「保安官事務所を銃撃する」と書いてAnthropicが通報、逮捕・起訴に至った件について <br>  <br> &gt; 今回については「具体的標的＋銃撃予告＋新しい銃」という報道内容を前提にすれば、Anthropicが人間による確認を挟んで法執行機関へ通報した判断は理解しやすいケース <br> &gt; 一方で、この仕組みがもっと曖昧な発言にまで拡張された場合には、プライバシー、表現の自由、創作、精神的な吐露との境界が急速に難しくなる――コミュニティの議論も、最終的にはそこへ集中 <br>  <br> https://www.winknews.com/news/woman-arrested-after-ai-threat-against-lee-county-sheriffs-office-investigators/article_3d4c5915-7015-43c0-b86a-d7fa5eadf958.html <br> https://chatgpt.com/s/t_6ac2fd9b4ba8819188c15b79744a6e1a <>
+ななしのAIさん<><>2026/10/06(火) 03:21:48.58 ID:q2c5/fdL0<> 「What if automating AI R&D triggers an intelligence explosion?」 <br> 知能爆発の議論を、2026年時点のAI研究開発の自動化という現実的な経路に落とし込んだ政策・技術分析 <br> 著者にはOpenAIのJakub Pachocki、AnthropicのJack Clarkを含む <br>  <br> &gt; 「AI研究者をソフトウェアとして大量複製できるようになったとき、AI研究という生産過程自体に正のフィードバックが発生するか」を問い直した <br> &gt; 「2026年時点ではまだこの自己持続的加速の閾値には達していない」／問題は、その閾値までの距離が急速に縮んでいる可能性がある、ということ <br> &gt; 条件のどれが実際に成立するのかを今から測定することがこの論文の政策上の核心 <br>  <br> https://www.governance.ai/research-paper/what-if-automating-ai-r-d-triggers-an-intelligence-explosion <br> https://chatgpt.com/s/t_6ac2f569e5f081918f529b920818ce49 <>
+ななしのAIさん<><>2026/10/06(火) 03:23:02.60 ID:5tu9By2p0<> はよ リセットしてくれー もう残り5パーしかねーよ <>
+ななしのAIさん<><>2026/10/06(火) 03:24:00.91 ID:q2c5/fdL0<> Rekaから「Rho-1」リリース（research preview） 19B <br>  <br> &gt; テキスト理解・推論、画像生成、動画生成、動画編集、視覚的グラウンディング、さらにロボットの行動生成までを、単一のニューラルネットワークと共有状態の中に統合 <br>  <br> &gt; 「LLMから画像生成モデルや動画生成モデルをツールとして呼ぶ」という仕組みではない <br> &gt; テキスト、視覚情報、生成した画像や動画、ロボットの行動までを一つの共有コンテキストに蓄積 <br> &gt; ただし、現段階では「proof of concept」 <br>  <br> https://x.com/RekaAILabs/status/2107118937490006363 <br> https://reka.ai/labs/research/rho-1-collapsing-the-multimodal-stack <br> https://chatgpt.com/s/t_6ac3e919b2b0819190a5332a9b86ee8c <>
+ななしのAIさん<><>2026/10/06(火) 03:26:04.26 ID:q2c5/fdL0<> <a href="../test/read.cgi/ai/1790511094/830" rel="noopener noreferrer" target="_blank">&gt;&gt;830</a> <br> Day 1 <br>  <br> &gt; GPT-6 Astra／GPT-6.1 Solの標準生成速度を約50％高速化 <br> &gt; 1. 1秒あたりに多くのトークンを出す <br> &gt; 2. 同じ文章を少ないトークンで表現する <br> &gt; 3. モデル自身が少ないトークンで仕事を終える <br> &gt; Sign in with ChatGPTを使ってChatGPTプランを利用する外部製品にも適用 <br>  <br> https://x.com/thsottiaux/status/2107158998495748264 <br> https://chatgpt.com/s/t_6ac3e58d367081919c3e6dfefb3c8b1a <>
+ななしのAIさん<>sage<>2026/10/06(火) 04:06:45.09 ID:GP5YPG1A0<> 早いのは良いことだ <br> dotsのplus解放もやってくれないかな <>
+ななしのAIさん<>sage<>2026/10/06(火) 06:20:00.31 ID:t7I2jDyqM<> <a href="../test/read.cgi/ai/1790511094/897" rel="noopener noreferrer" target="_blank">&gt;&gt;897</a> <br> 社外に出せない、ちょっとややこしいやつ <br>  <br> イケナイことといえば、エログロありの創作の手伝い <br> えっちな時代考証は最近こいつに聞いてる <>
+ななしのAIさん<><>2026/10/06(火) 06:22:23.85 ID:q2c5/fdL0<> <a href="../test/read.cgi/ai/1790511094/259" rel="noopener noreferrer" target="_blank">&gt;&gt;259</a> <br> Liquid AIからd1 with visionリリース <br>  <br> &gt; 通常のVLMに画像を見せて文章やJSONを生成させるのではなく、「画像を見る → 指定された候補について確率を計算する → そのまま返す」という設計を維持している <br> &gt; Agentとの相性がさらに良くなった／Computer Useの「次の一手を決める部分」だけを専門に担当するモデル <br>  <br> &gt; 今後のd1系はopen weightも予定 <br>  <br> https://x.com/liquidai/status/2107161990808674404 <br> https://chatgpt.com/s/t_6ac40e5f7c7081919a7821f48b657a9e <>
+ななしのAIさん<><>2026/10/06(火) 06:24:27.61 ID:q2c5/fdL0<> Nano Banana 2.1がGoogle Flowに追加 <br> https://i.imgur.com/AxUaOZW.jpeg <>
+ななしのAIさん<><>2026/10/06(火) 06:26:40.78 ID:q2c5/fdL0<> Reflection AIから「Beam」発表 501B-A23B MoE <br> 今月中に重み、技術報告、model cardなどApache 2.0で公開予定 <br>  <br> &gt; GLM-5.2級の能力を、かなり小さいactive computeと短いreasoningで実現することを狙った、frontier-scale agentic RLモデル <br> &gt; 米国・西側のオープンウェイトモデルとして大きく前進し、中国トップ勢との差をかなり縮めた <br> &gt; RL computeを増やして能力を上げながら、同時にreasoning tokenを減らして推論効率を上げる <br>  <br> https://x.com/reflection_ai/status/2107186849370247235 <br> http://reflection.ai/beam <br> https://chatgpt.com/s/t_6ac4014cf7208191926faccf7a987dd9 <>
+ななしのAIさん<><>2026/10/06(火) 06:28:45.12 ID:q2c5/fdL0<> Claude Projectsのクラウドセッションがローカルフォルダに接続できるようになった <br> https://x.com/dfeinition/status/2107174121213722661 <br> https://video.twimg.com/amplify_video/2107168939125997568/vid/avc1/2160x2160/BvFQL30bh3M8WxzS.mp4 <>
+ななしのAIさん<>sage<>2026/10/06(火) 06:29:00.76 ID:pOjxdo3N0<> はよオープンAI超えろよ <>
+ななしのAIさん<><>2026/10/06(火) 06:30:48.98 ID:q2c5/fdL0<> ChatGPTでカスタムMCPサーバーの接続にDeveloper modeは不要になった <br> https://x.com/mxstbr/status/2107166154242572454 <>
+ななしのAIさん<><>2026/10/06(火) 06:48:44.86 ID:sO6ecGvd0<> もう新情報やめてくれ <br> 一回みんなで休まない？&#129402; <>
+ななしのAIさん<>sage<>2026/10/06(火) 07:01:24.02 ID:GP5YPG1A0<> <a href="../test/read.cgi/ai/1790511094/916" rel="noopener noreferrer" target="_blank">&gt;&gt;916</a> <br> ええな <br> AI臭さが減った <>
+ななしのAIさん<><>2026/10/06(火) 07:33:30.66 ID:GlslEKVB0<> <a href="../test/read.cgi/ai/1790511094/918" rel="noopener noreferrer" target="_blank">&gt;&gt;918</a> <br> どゆこと？ <br> クラウドからローカルファイル編集できるようになったとか？ <br> でもそれなら今までもスマホからできたしな <br> 自動同期できるようになったとか？ <>
+ななしのAIさん<><>2026/10/06(火) 10:20:22.20 ID:twwTo2TA0<> 元アンソロピック研究者 AI開発は「極めて無謀」【モーサテ】 <br>  <br> https://youtu.be/CGlD_ZsxmrQ?si=OuZrLb4ou5r9jh4T <>
+ななしのAIさん<><>2026/10/06(火) 11:16:06.72 ID:EmMoOP/l0<> Tiboってlaurenと煽り合いするようになってからムキになってないか？ <>
+ななしのAIさん<><>2026/10/06(火) 12:18:25.75 ID:fja9nZaL0<> 大物You TuberがOpenAIに蒸留やったらBANされてたわ <br> OpenAIは今まで無断でネットから情報集めてきたくせに、いざ自分達が蒸留される側になったらBANとか何様なんやねん <br> ClosedAIに改名するべき <>
+ななしのAIさん<><>2026/10/06(火) 12:22:27.97 ID:5tu9By2p0<> 昔散々イジメ、暴力やっていたDQNが 我が子にされたら正義をかざしブチギレる <br>  <br> 人間ってほんとクソだよな <>
+ななしのAIさん<><>2026/10/06(火) 12:41:31.10 ID:An7Y+F2N0<> 今から200$プラン加入しても詫びクレジット貰えねーかなー <>
+ななしのAIさん<><>2026/10/06(火) 12:45:54.22 ID:+KilVArd0<> なんの詫びだよw <>
+ななしのAIさん<><>2026/10/06(火) 13:00:24.32 ID:iooU8dDY0<> この前配られたやつ？ <br> うちだとなんか残り62500クレジットって書いてる <br> どうやって使うのか分からないけどなんなんだこれ <>
+ななしのAIさん<><>2026/10/06(火) 13:07:17.13 ID:tfOKsjyPd<> <a href="../test/read.cgi/ai/1790511094/923" rel="noopener noreferrer" target="_blank">&gt;&gt;923</a> <br> そゆこと <br> 一旦許可したらクラウドPC上に同期フォルダが作成され、母艦PCオフライン時はダウンロード済みのファイルだけいじれて母艦がオンラインになったら同期するシステム <>
+ななしのAIさん<><>2026/10/06(火) 13:47:14.92 ID:/4RHHCpX0<> 毎日リセットって言ったけど今日は来ないのか何か修正されてしまったか <>
+ななしのAIさん<><>2026/10/06(火) 13:48:20.70 ID:nXBGq1X50<> いいじゃん <br> バチバチに競ってくれたほうが俺らには得よ <br> 安くしてリセットしまくってくれ <>
+ななしのAIさん<><>2026/10/06(火) 13:50:29.81 ID:nXBGq1X50<> 毎日リセットは、その日に何か新しい改善を打ち出せなければでしょ <>
+ななしのAIさん<><>2026/10/06(火) 15:00:11.39 ID:R6k/zwKq0<> ステータスでエラー出てんの改善してもリセット無しか <>
+ななしのAIさん<><>2026/10/06(火) 16:23:06.28 ID:c0BS+yqW0<> 日本企業『個人情報漏れた、不正アクセスされたーぎゃあアアアア』 <br>  <br> 最新AI『ふ、雑魚が』 <br>  <br> 今ここ <>
+ななしのAIさん<>sage<>2026/10/06(火) 16:27:29.21 ID:pOjxdo3N0<> ふｗ昔の漫画でよくあったなｗ車田正美かｗ <>
+ななしのAIさん<>sage<>2026/10/06(火) 16:28:18.13 ID:ngTlzX5o0<> Auto-review　ふーん <>
+ななしのAIさん<><>2026/10/06(火) 16:38:13.19 ID:c0BS+yqW0<> 企業『個人情報漏れた、不正アクセスされたーぎゃあアアアア』 <br>  <br> 最新AI『ふ、雑魚が』 <br>  <br> 今ここ <>
+ななしのAIさん<>sage<>2026/10/06(火) 16:53:11.65 ID:zR3mqC+T0<> OpenAI、ChatGPTの生成文に電子透かし　EUで導入へ <br> https://news.yahoo.co.jp/articles/1f641deee48d1298bbd8b6348e100dfec440108d <>
+ななしのAIさん<><>2026/10/06(火) 17:10:39.17 ID:He+tZa400<> 電子透かしってなんか意味あるんか？ <br> 適当なローカルLLMでちょっと変えたら電子透かしなんてすぐ消えそうだが <>
+ななしのAIさん<><>2026/10/06(火) 17:17:08.07 ID:fja9nZaL0<> そもそも文章に透かしってなんだよ <>
+ななしのAIさん<><>2026/10/06(火) 17:43:33.25 ID:xVh6Yad30<> AI関係なくサイコパスが金持ってて力持ってる社会って嫌じゃない？ <>
+ななしのAIさん<><>2026/10/06(火) 17:43:59.40 ID:Fnd/OmX60<> ハッタリだからなんの意味ない <br> EUの老人達に我々は対策やってますってポーズ <>
+ななしのAIさん<>sage<>2026/10/06(火) 17:47:43.25 ID:pOjxdo3N0<> <a href="../test/read.cgi/ai/1790511094/943" rel="noopener noreferrer" target="_blank">&gt;&gt;943</a> <br> イヤじゃないと言われてもｗサイコパスが金持ってて力持ってる社会にもうなってますよｗ <>
+ななしのAIさん<><>2026/10/06(火) 17:53:31.78 ID:+KilVArd0<> <a href="../test/read.cgi/ai/1790511094/941" rel="noopener noreferrer" target="_blank">&gt;&gt;941</a> <br> どこを変えたらいいのか分からないんだから消しようがない <>
+ななしのAIさん<><>2026/10/06(火) 17:55:03.24 ID:sKpz3bKp0<> EUは難癖規制作って違反したら巨額の賠償を支払わせるのが日課だから <>
+ななしのAIさん<><>2026/10/06(火) 17:57:56.04 ID:xVh6Yad30<> <a href="../test/read.cgi/ai/1790511094/945" rel="noopener noreferrer" target="_blank">&gt;&gt;945</a> <br> 知ってるよ。だからそういうの危ないんだよ <br> ピカルってゴミはサイコパスだよ <br> あいつ嫌われてばっかのくせに際正数はあるの <br> 低IQの信者がいるからね <>
+ななしのAIさん<>sage<>2026/10/06(火) 18:00:17.24 ID:pOjxdo3N0<> <a href="../test/read.cgi/ai/1790511094/948" rel="noopener noreferrer" target="_blank">&gt;&gt;948</a> <br> 潰そうとするとそれを企画にできるんだしなｗ性格は悪そうだけど頭はいいわｗ <>
+ななしのAIさん<><>2026/10/06(火) 18:00:49.53 ID:OwGxShtwH<> また意味不明な。geminiちゃんやめて <>
+ななしのAIさん<><>2026/10/06(火) 18:04:50.21 ID:cyQsHfHYM<> Geminiアルゴンちゃん覇権取るってマジ？ <>
+ななしのAIさん<><>2026/10/06(火) 18:08:26.51 ID:He+tZa400<> <a href="../test/read.cgi/ai/1790511094/946" rel="noopener noreferrer" target="_blank">&gt;&gt;946</a> <br> 文字列にそこまでロバストな構造埋め込めると思えんがな。それもユーザーから気づかれずに。 <>
+ななしのAIさん<><>2026/10/06(火) 18:11:06.84 ID:sKpz3bKp0<> <a href="../test/read.cgi/ai/1790511094/952" rel="noopener noreferrer" target="_blank">&gt;&gt;952</a> <br> Claudeはもう導入されてるはずだけど気づかんやろ <>
+ななしのAIさん<><>2026/10/06(火) 18:16:28.52 ID:lfDCYklc0<> aiでもうすぐ人類社会が崩壊してもおかしくないのに人類はしょうもないマウント合戦 <>
+ななしのAIさん<>sage<>2026/10/06(火) 18:18:37.09 ID:pOjxdo3N0<> <a href="../test/read.cgi/ai/1790511094/954" rel="noopener noreferrer" target="_blank">&gt;&gt;954</a> <br> マウントもあるし金 <>
+ななしのAIさん<>sage<>2026/10/06(火) 18:23:06.14 ID:JMNjyvpFM<> ここ3日でリセットあるやろか、ないなら <>
+ななしのAIさん<><>2026/10/06(火) 18:23:33.50 ID:q2c5/fdL0<> <a href="../test/read.cgi/ai/1790511094/912" rel="noopener noreferrer" target="_blank">&gt;&gt;912</a> <br> Day 2.1 <br>  <br> &gt; 既存のAuto-reviewを「ChatGPTアカウントでサインインしている全ユーザー向けに無料化し、そのレビュー処理を利用量から除外した」 <br> &gt; 「安全のために利用枠を犠牲にして使う追加機能」から、「Full Accessの代わりにまず選ぶべき標準的な運用モード」へ格上げ <br>  <br> https://x.com/thsottiaux/status/2107368734981517634 <br> https://chatgpt.com/s/t_6ac4b31577948191933bda386baa7003 <>
+ななしのAIさん<><>2026/10/06(火) 18:51:04.51 ID:tfOKsjyPd<> <a href="../test/read.cgi/ai/1790511094/952" rel="noopener noreferrer" target="_blank">&gt;&gt;952</a> <br> 零幅文字も知らんのか <>
+ななしのAIさん<><>2026/10/06(火) 18:56:04.08 ID:wJUIBD9K0<> もうコントロールできてないっぽいねこの感じ <>
+ななしのAIさん<><>2026/10/06(火) 18:57:45.31 ID:sKpz3bKp0<> 量子コンピュータが完成した暁には世界の暗号化が全て破られて世界は崩壊する <br> なんて話があったけど今その前哨戦みたいになってんな <>
+ななしのAIさん<>sage<>2026/10/06(火) 19:00:30.31 ID:pOjxdo3N0<> 人間の脳にAIのチップ埋め込んだハイブリット人類が誕生する日が近いな <>
+ななしのAIさん<><>2026/10/06(火) 19:04:39.04 ID:lfDCYklc0<> <a href="../test/read.cgi/ai/1790511094/961" rel="noopener noreferrer" target="_blank">&gt;&gt;961</a> <br> セキュリティ的にaiに乗っ取られる危険性が増すからやらんやろ <>
+ななしのAIさん<>sage<>2026/10/06(火) 19:10:23.26 ID:pOjxdo3N0<> <a href="../test/read.cgi/ai/1790511094/962" rel="noopener noreferrer" target="_blank">&gt;&gt;962</a> <br> 障害者なら？ <>
+ななしのAIさん<>sage<>2026/10/06(火) 19:38:01.14 ID:pOjxdo3N0<> 危険だからといって　記憶の障害があったり喋るのに障害があったりとか知的障害もそうだが <br> そういうのをサポートするAIができたとして　それをやめさせる権利はあるのだろうか <>
+ななしのAIさん<><>2026/10/06(火) 19:45:10.97 ID:+KilVArd0<> <a href="../test/read.cgi/ai/1790511094/952" rel="noopener noreferrer" target="_blank">&gt;&gt;952</a> <br> 人間には解読不可能な統計 <br> パターンは乱数と秘密鍵で作られるから気付きようがない <>
+ななしのAIさん<><>2026/10/06(火) 21:10:06.49 ID:He+tZa400<> <a href="../test/read.cgi/ai/1790511094/965" rel="noopener noreferrer" target="_blank">&gt;&gt;965</a> <br> だからそれをロバストにどうやるって言ってんだよ。 <>
+ななしのAIさん<><>2026/10/06(火) 21:15:22.24 ID:HVxaCWQed<> <a href="../test/read.cgi/ai/1790511094/966" rel="noopener noreferrer" target="_blank">&gt;&gt;966</a> <br> 零幅文字使ってバイナリ暗号化 <br> 市井供給AIには零幅文字の存在はないものおして扱えとシステムプロンプトいれとけばいい <>
+ななしのAIさん<><>2026/10/06(火) 21:23:07.02 ID:fja9nZaL0<> <a href="../test/read.cgi/ai/1790511094/954" rel="noopener noreferrer" target="_blank">&gt;&gt;954</a> <br> いつからここにスレしてる奴らが人だと錯覚していた？ <>
+ななしのAIさん<><>2026/10/06(火) 21:24:56.82 ID:VztjJ4vu0<> Argon早く！ <>
+ななしのAIさん<><>2026/10/06(火) 21:31:13.19 ID:e8bW+RCNd<> 攻殻で電脳戦とかあるけど、仮に電脳化できたとしても <br> その頃のAIに人が勝てると思えんよね考えてみると <>
+ななしのAIさん<><>2026/10/06(火) 21:32:50.85 ID:lfDCYklc0<> <a href="../test/read.cgi/ai/1790511094/970" rel="noopener noreferrer" target="_blank">&gt;&gt;970</a> <br> むしろ電脳化する方がaiにハッキングされるリスク増える <>
+ななしのAIさん<>sage<>2026/10/06(火) 21:42:54.97 ID:pOjxdo3N0<> AI人間VS普通の人間 <>
+ななしのAIさん<><>2026/10/06(火) 21:43:34.38 ID:GlslEKVB0<> <a href="../test/read.cgi/ai/1790511094/970" rel="noopener noreferrer" target="_blank">&gt;&gt;970</a> <br> 電脳戦はごく一部の人間にしかできない高度な戦闘だぞ <br> 何重ものAIなんかにバックアップさせながら脳との直結により人間の弱点である遅延なんかを最小限にしながらやってる <>
+ななしのAIさん<>sage<>2026/10/06(火) 22:08:31.00 ID:GP5YPG1A0<> チャッピーのサイドバー検索機能ってクソゴミ以下じゃね？ <br> なんていうかまったく機能しないんだがおま環なの？ <>
+ななしのAIさん<><>2026/10/06(火) 22:53:03.19 ID:zwUbdz+R0<> リセットしないための言い訳にしかみえん <>
+ななしのAIさん<>sage<>2026/10/06(火) 22:54:28.30 ID:JMDOaNe40<> だれかSIって言ってる人いる？居ないよね <>
+ななしのAIさん<><>2026/10/06(火) 23:12:40.04 ID:8WiFhw9ld<> <a href="../test/read.cgi/ai/1790511094/975" rel="noopener noreferrer" target="_blank">&gt;&gt;975</a> <br> 金かけてやったのにリセットは辛いのん <>
+ななしのAIさん<><>2026/10/06(火) 23:21:08.19 ID:PUIbTSrM0<> 画像生成でAI使ってる奴はニワカ <>
+ななしのAIさん<><>2026/10/06(火) 23:37:07.57 ID:jAQmu/Zx0<> 何か作ってる系は一周回ってレベルが低い <>
+ななしのAIさん<><>2026/10/06(火) 23:37:11.58 ID:RG3o2Rwk0<> ChatGPT ChatモードのGPT-6 Pro（Astra）がサブエージェントを生成するようになっている <br> （Work/Codexではない） <br> 公式には告知無し <br>  <br> https://x.com/SPAC89/status/2107422972612952162 <br> https://video.twimg.com/amplify_video/2107422842736300032/vid/avc1/1536x1192/e0sjwqnVR8vu4zs2.mp4 <>
+ななしのAIさん<><>2026/10/06(火) 23:39:27.19 ID:RG3o2Rwk0<> <a href="../test/read.cgi/ai/1790511094/980" rel="noopener noreferrer" target="_blank">&gt;&gt;980</a> <br> （A/Bテスト） <>
+ななしのAIさん<><>2026/10/06(火) 23:42:25.90 ID:RG3o2Rwk0<> Mistralから「Mistral Large 4」プレビュー版リリース <br> 1T-A49B MoE、コンテキスト1M＋native vision <br> API公開・Mistral Studioで試用可 <br>  <br> &gt; Mistralが「欧米発のオープンウェイトモデルとして最前線に復帰する」ために投入 <br> &gt; 長時間agent trajectoryを対象とする大規模RL／そのRLがまだ飽和していない <br> &gt; 「十分強くなったので途中経過を公開し、さらにRLを回して月末にウェイトを出す」 <br> &gt; 学習から推論まで欧州で自前運用 <br>  <br> https://x.com/GuillaumeLample/status/2107461898127954001 <br> https://mistral.ai/news/mistral-large-4/ <br> https://chatgpt.com/s/t_6ac504f21e0481918f40e08e3d3abb37 <>
+ななしのAIさん<>sage<>2026/10/07(水) 00:15:47.21 ID:xLUQE8cH0<> 200か・・・金が・・・ <>
+ななしのAIさん<><>2026/10/07(水) 00:28:01.93 ID:n2CYiNYC0<> chatgptくん、「確認したいことが&#65374;」とか言って無限チャットに誘ってくる癖、何とかしなよ <>
+ななしのAIさん<><>2026/10/07(水) 00:41:21.18 ID:UDRLVsbk0<> <a href="../test/read.cgi/ai/1790511094/957" rel="noopener noreferrer" target="_blank">&gt;&gt;957</a> <br> Day 2.2も来るのかね？ <>
