@@ -85,3 +85,118 @@
 ななしのAIさん<>sage<>2026/10/08(木) 00:17:28.72 ID:e76R2j0w0<> <a href="../test/read.cgi/ai/1791330825/80" rel="noopener noreferrer" target="_blank">&gt;&gt;80</a> <br> まだ <>
 ななしのAIさん<>sage<>2026/10/08(木) 00:20:29.64 ID:e76R2j0w0<> でも変化の胎動は認識出来た <br> 既に環境構築が進んでいる <br> 下位のサブスクが切られた理由も納得出来た「そりゃぁ仕方ない」って感じ <>
 ななしのAIさん<><>2026/10/08(木) 00:37:17.98 ID:CRW3lugV0<> <a href="../test/read.cgi/ai/1791330825/66" rel="noopener noreferrer" target="_blank">&gt;&gt;66</a> <br> 何使ってそれだけ減ったの? <br> 課金なにしてんの? <>
+ななしのAIさん<><>2026/10/08(木) 01:11:28.21 ID:izY+hae+0<> 火星探査機MMXは、火星座標情報にDE430を使うはずだとAI(ChatGPT)は答えた。 <br> そこでDE430とDE440での火星の座標の誤差をNAIFのデータ(https://naif.jpl.nasa.gov/pub/naif/pds/wgc/kernels/spk/)を使ってAIに計算させた。 <br> 誤差はおおよそ115mとのこと。 <br>  <br> DE440 &#65293; DE430：火星XYZ差 <br>  <br> 基準：SSB（太陽系重心） <br> 時刻：各年1月1日 00:00:00 TDB <br> 単位：m <br>  <br> 年 ΔX [m] ΔY [m] ΔZ [m] 3D差 [m] <br> 2026 -105.972055 -46.576319 -8.374705 116.058458 <br> 2027 -105.685363 -46.597007 -8.690715 115.828345 <br> 2028 -105.610261 -46.534431 -9.316781 115.783344 <br> 2029 -105.466285 -46.556508 -9.690502 115.691623 <br> 2030 -105.347896 -46.482252 -10.227851 115.600121 <br> 2031 -105.238714 -46.553544 -10.741095 115.575907 <br> 2032 -105.089896 -46.511269 -11.213593 115.468303 <br> 2033 -104.960290 -46.458391 -11.780726 115.385572 <br> 2034 -104.854311 -46.459264 -12.168012 115.329746 <br> 2035 -104.747508 -46.378874 -12.805971 115.269394 <br>  <br> メートルで小数点以下6桁までだけどDE430/440の生データを読めるなんてChatGPTちゃん優秀。 <>
+ななしのAIさん<><>2026/10/08(木) 01:20:13.99 ID:KBJq49S20<> <a href="../test/read.cgi/ai/1791330825/87" rel="noopener noreferrer" target="_blank">&gt;&gt;87</a> <br> ChatGPT pro×5だよー <br> 問い合わせしてみたわ <>
+ななしのAIさん<>sage<>2026/10/08(木) 01:39:25.75 ID:V3nphnnq0<> bot戦争はイーロンの勝ちだなこれ <br> データセンター屋でもあるから全AIプレイヤーより強いし、Perplexityみたいなラッパー系も太刀打ちできない <br> VMが既に一番強いし更に重要になる <br> Colossusは神の一手だわ <>
+ななしのAIさん<><>2026/10/08(木) 03:11:54.42 ID:EdmwmDaEd<> Gemini4きたきたきたあああああ！！！ <>
+ななしのAIさん<>sage<>2026/10/08(木) 04:07:41.47 ID:st4dYGHV0<> Haiku 5.5 きた！ <>
+ななしのAIさん<>sage<>2026/10/08(木) 04:54:22.85 ID:V3nphnnq0<> Haikuすげーなw安すぎ賢すぎ <>
+ななしのAIさん<>sage<>2026/10/08(木) 05:09:36.76 ID:st4dYGHV0<> HaikuはMaxのブレーキぶっ壊れてる性質はSonnetと変わってないな <br> Claude5.5はOpusのeffort上げたり下げたりして使うものっぽい <br> ただサブスクにAPIクレジット付くようになったのはいいな <>
+ななしのAIさん<>sage<>2026/10/08(木) 05:12:21.51 ID:V3nphnnq0<> なんか効率良くなりすぎてチケット貰っても余りまくりだ <br> 未来の計算資源って本当に足りないのか怪しいな <br> 別に誰もミレニアム問題解きたいわけでもないし <>
+ななしのAIさん<><>2026/10/08(木) 05:20:37.46 ID:xWIqivt00<> あれ？これってリセット2回連チャンで来たってこと？ <br> https://x.com/thsottiaux/status/2107913674593644711?s=46&t=YOxfKl8GbeUOQJks_3KcdQ <>
+ななしのAIさん<><>2026/10/08(木) 05:43:55.79 ID:Bt4Gk4420<> 6.1solのコスパすぐ悪くなったよなあ <br> 出て数日だけだったわ「全然減らない！」とか皆キャッキャしてたの <>
+ななしのAIさん<>sage<>2026/10/08(木) 05:49:43.86 ID:kBUe/ln/0<> ミュトスリリースされてるんか？ <>
+ななしのAIさん<>sage<>2026/10/08(木) 05:53:09.56 ID:nD3ai07o0<> Haikuにやらせることないなぁ <br> 日常的タスクや単純作業を毎日やってる人はいいんだけど <br> AstraのNewモデルがでるまでFable5.5は出さないか <br> もしくは上場の時まで <br> しばらくは安いProプランだけで節約できそうだ <>
+ななしのAIさん<>sage<>2026/10/08(木) 06:14:12.85 ID:V3nphnnq0<> 3か月前のフラッグシップ5.6 Solと同等で価格は1/40 <br> どうなってんだよ… <>
+ななしのAIさん<><>2026/10/08(木) 06:15:52.18 ID:IIZ0pFQX0<> 「AI systems could cover up misbehavior」 <br> METRから、AIエージェントの監視基盤そのものが攻撃対象になり得る問題について報告 <br>  <br> &gt; AIエージェントの監視では、ログを保存するだけでは不十分であり、そのログを人間に見せる監視システム自体も防御しなければならないという問題 <br> &gt; 実例として、AI評価フレームワーク「Inspect」のtranscript viewerに、モデル出力からJavaScriptを実行できる脆弱性が見つかりました。これを悪用すれば、元のログを変更せずに、人間の画面上だけ偽の履歴を表示できます。 <br> &gt; 「AI observabilityを単なるデバッグ機能ではなく、敵対者を前提としたsecurity-critical infrastructureとして設計すべきだ」という警告 <br>  <br> https://metr.org/blog/2026-10-06-ai-systems-could-cover-up-misbehavior/ <br> https://chatgpt.com/s/t_6ac6b64094b08191a2c52f00e369318d <>
+ななしのAIさん<><>2026/10/08(木) 06:17:55.55 ID:IIZ0pFQX0<> GoogleがSynthID Detectorを一般公開 <br>  <br> &gt; OpenAI、NVIDIA、KakaoのSynthIDも同じサイトで検証でき、Appleも近く参加するという、企業横断型の「AI生成物の検証インフラ」へ発展 <br> &gt; GoogleとOpenAIは生成AI市場では直接の競争相手ですが、来歴確認については同じSynthID基盤に乗っています。そこにNVIDIA、Kakao、さらにAppleが加わる <br>  <br> https://blog.google/innovation-and-ai/models-and-research/google-deepmind/synth-id-ai-content/ <br> https://chatgpt.com/s/t_6ac6b271191881919790847ddc6a6e77 <>
+ななしのAIさん<><>2026/10/08(木) 06:20:12.02 ID:IIZ0pFQX0<> 「Building Windows for hybrid intelligence」 <br> MicrosoftからMAI-Code-1.1 Flashを含む一連の発表 <br>  <br> &gt; 137Bパラメータ級のコーディングモデル「MAI-Code-1.1 Flash」のローカル実行／128GB級の統合メモリを搭載した新世代のAIワークステーションを前提にしたモデル <br> &gt; GitHub Copilotによるローカルモデルとクラウドモデルの自動使い分け <br> &gt; 「Hybrid Intelligence」と呼ばれるローカル・クラウド協調型AI <br> &gt; Copilotからアプリそのものを生成する「Code in Copilot」 <br> &gt; AIエージェント向け隔離環境「Microsoft Execution Containers（MXC）」 <br>  <br> https://x.com/satyanadella/status/2107898018112647313 <br> https://blogs.windows.com/windowsexperience/2026/10/07/building-windows-for-hybrid-intelligence/ <br> https://chatgpt.com/s/t_6ac6b099c95481919dd676cd717d3f94 <>
+ななしのAIさん<><>2026/10/08(木) 06:22:26.25 ID:IIZ0pFQX0<> AnthropicからClaude Haiku 5.5リリース <br>  <br> &gt; 性能、推論機構、コンテキスト長、computer/browser use、価格体系をまとめて刷新し、大量のサブエージェントを安価に走らせるためのモデルとしてClaude 5.5ファミリーの下層を作り直したリリース <br> &gt; Context window 1M tokens／最大通常出力 128K tokens <br> &gt; Haiku系列で初めてadjustable effortを導入 <br> &gt; AnthropicがHaiku 5.5について何度も強調しているのが、「Opus 5.5 / Sonnet 5.5のsubagentとして使う」という用途 <br>  <br> &gt; Sonnet 5.5も実質値下げ <br> &gt; Max / Teamの「毎月APIクレジット」／Claudeの有料ユーザーをAPI developerへ誘導する制度 <br>  <br> &gt; 「Opus/Sonnetが計画 → Haikuを多数起動 → 結果を統合」というarchitectureの経済合理性が一気に高まりました <br>  <br> https://www.anthropic.com/claude-haiku-5-5 <br> https://chatgpt.com/s/t_6ac6aeb051f08191975a28c6617cc733 <>
+ななしのAIさん<><>2026/10/08(木) 06:24:54.94 ID:IIZ0pFQX0<> OpenAIから、「GPT-6の通常Chat投入」「Intelligent UI」を発表、順次ロールアウト予定 <br> &gt; モデル面ではGPT-6 Sol／Lunaへの世代交代、推論面では「答えながらさらに考える」方式、UI面ではnative component＋compilerによるGenerative UIという3つが同時に入っています <br>  <br> &gt; Chatでは、「Plus／Pro／Business／Enterprise：GPT-6 Sol」「Free／Go：GPT-6 Luna」が日常会話向けに調整された形で使われます <br>  <br> &gt; OpenAIはGPT-6について、「interleave thinking with answering」という仕組みを強調 <br>  <br> &gt; 「Intelligent UI」／ユーザーが質問 → GPT-6が「この質問にはどんな表示形式が最適か」も判断  → 文章＋図＋チャート＋ボタン＋フォーム＋操作可能なUIを組み合わせて回答 <br> &gt; 技術的にも、単純なHTML生成とは少し違う／Intelligent UIのために、「native, streamable components」のライブラリを用意し、それを処理するcompilerを構築した <br>  <br> https://openai.com/index/gpt-6-for-everyone/ <br> https://chatgpt.com/s/t_6ac6abc73058819197985e7df5f57e72 <>
+ななしのAIさん<><>2026/10/08(木) 06:25:27.42 ID:Odw4uB4S0<> エージェント駆動だらけで草 <>
+ななしのAIさん<><>2026/10/08(木) 06:27:17.91 ID:IIZ0pFQX0<> Liquid AIから、decision model系列「d1」のopen-weight版として「d1-3B」「d1-omni-600M」リリース <br>  <br> &gt; 10月5日に発表された API 版 d1 が「高速・低コストな判断専用モデル」というカテゴリを打ち出したのに対し、今回の Open d1 は、その考え方を PC・Jetson・組み込み機器までローカル展開できる形にしたもの <br> &gt; 現時点では、完成度なら明らかに d1-3B が本命、d1-omni-600M は 「600M級の text/image/audio decision engine がどこまで行けるか」を試す研究版、という位置付け <br>  <br> https://www.liquid.ai/blog/d1-open <br> https://chatgpt.com/s/t_6ac6ab0eedcc819183eaa9e2adb971b2 <>
+ななしのAIさん<><>2026/10/08(木) 06:29:21.83 ID:IIZ0pFQX0<> Perplexityがembeddingモデル「pplx-embed-v2-late」をリリース <br>  <br> &gt; マルチモーダル・late-interaction型の検索用embeddingモデル／0.6B版と9B版の2種類 <br> &gt; テキストだけでなく画像やPDFのレンダリングページを直接embeddingでき、さらに両モデルが同じembedding空間を共有するよう訓練 <br> &gt; 「高品質な大モデルをindex作成側に置き、小モデルをquery側に置く非対称retrieval」 を実際に成立させた <br>  <br> https://www.perplexity.ai/hub/blog/multimodal-embeddings-beyond-a-single-vector <br> https://chatgpt.com/s/t_6ac6aa1b78dc819188834f1aa34df0e6 <>
+ななしのAIさん<><>2026/10/08(木) 06:31:25.27 ID:IIZ0pFQX0<> Gemini 4 Argonは既に一部ユーザーにロールアウト中 <br> https://x.com/bidyut_io/status/2107856908870943084 <br> https://gemini.google.com/share/fdeaea13a8fa <br> https://pbs.twimg.com/media/HUCcrjSbEAAmEmH.jpg <>
+ななしのAIさん<><>2026/10/08(木) 06:33:30.35 ID:IIZ0pFQX0<> <a href="../test/read.cgi/ai/1791330825/18" rel="noopener noreferrer" target="_blank">&gt;&gt;18</a> <br> Day 3 <br> 「大きいものではChatのGPT-6があるが、Codex/Work的には今日はアクティブユーザー40Mの記念の日。そこでバンクリセットを配布します（PDT 10月7日終了＝JST 10月8日16時頃までに）」 <br>  <br> https://x.com/thsottiaux/status/2107913674593644711 <br> https://chatgpt.com/s/t_6ac6a6d1eab08191b31cd4f7a0b36999 <>
+ななしのAIさん<><>2026/10/08(木) 06:35:34.36 ID:IIZ0pFQX0<> ChatGPTウェブアプリで「上下矢印」「Page Up/Down」「Home/End」「スペース、Shift＋スペース」によるスクロールが効かない不具合は修正済 <>
+ななしのAIさん<>sage<>2026/10/08(木) 06:38:40.55 ID:V3nphnnq0<> Argonほんとに来たのかw <>
+ななしのAIさん<><>2026/10/08(木) 06:41:48.92 ID:0sI3AJNk0<> <a href="../test/read.cgi/ai/1791330825/110" rel="noopener noreferrer" target="_blank">&gt;&gt;110</a> <br> &gt; もはや「resetを避けるゲーム」という当初設定はかなり形骸化しています（笑）。 <br>  <br> カッコ笑うなw <>
+ななしのAIさん<><>2026/10/08(木) 06:46:18.39 ID:Odw4uB4S0<> haiku lunaより高い <br> 性能は若干勝ってるが&#128557; <>
+ななしのAIさん<><>2026/10/08(木) 07:13:07.95 ID:3TsoCRvA0<> あれ…Open AIまたリセット来てた？俺昨日クレジット使ってリセットしたばかりで <br> 95%は残ってたのに <>
+ななしのAIさん<>sage<>2026/10/08(木) 07:50:38.19 ID:yGeRpB7o0<> Astra、Fableが一般公開されてること考えると <br> Gemini 4もったいぶらなくていいと思うがなぁ <br> Opus 5.5がおもちゃに見えるほどベンチスコアが突出してるならわかるけどそうじゃないしな <>
+ななしのAIさん<>sage<>2026/10/08(木) 07:51:38.45 ID:st4dYGHV0<> 今回来たのは banked reset <>
+ななしのAIさん<>sage<>2026/10/08(木) 08:05:54.19 ID:st4dYGHV0<> GPT-6 が Chat にきた <br> ツールコールを挟みながら本文を書いていく感じ <br> 5.6 Sol に比べると良くも悪くも文章が簡潔になった <>
+ななしのAIさん<><>2026/10/08(木) 08:15:18.10 ID:4DkzFlNu0<> <a href="../test/read.cgi/ai/1791330825/118" rel="noopener noreferrer" target="_blank">&gt;&gt;118</a> <br> ようやくかおせーよ <>
+ななしのAIさん<>sage<>2026/10/08(木) 08:20:28.52 ID:JLrVV2Qt0<> <a href="../test/read.cgi/ai/1791330825/81" rel="noopener noreferrer" target="_blank">&gt;&gt;81</a> <br> チャッピーは儲けることは可能って言ってるけどな <>
+ななしのAIさん<><>2026/10/08(木) 08:20:58.86 ID:TH2JnYDe0<> 今更だけれどclaude codeを使ってみたら思いの外凄くてびっくりしてる <br>  <br> ところでこれって例えばvscodeで実行したセッションを、 <br> スマホアプリやwindowsアプリののclaudeから確認出来ないようだけど、たとえば外出中にスマホから状況をチェックしたり追加の指示を入力したりすることって出来ないのかな <>
+ななしのAlさん<><>2026/10/08(木) 08:52:54.42 ID:316FhBLd0<> <a href="../test/read.cgi/ai/1791330825/95" rel="noopener noreferrer" target="_blank">&gt;&gt;95</a> <br> まだまだ脳足りんで電力食いすぎで場所取りすぎで値段高すぎで、計算資源が足りなさすぎて話にならん、極めて燃費の悪いシステム。 <br>  <br> せめて巨大DC一個並の計算資源が人間脳サイズに収まるくらいになれば何とかなるかもしれんが。 <br>  <br> 人間が「わずか20W程度の電力（バナナ1本分）」で、過去の文脈を忘れず、社会の常識（エンタープライズの常識）を解釈し決定権をどうにかこうにか任せられるのに今のAIときたら世話が焼ける。 <>
+ななしのAIさん<><>2026/10/08(木) 08:54:27.27 ID:ztjxLdCM0<> 歴史的にはサーバー側で頭打ちになったらクライアント側に落ちてくるものだけど <br> そういう気配がまだまだないな <>
+ななしのAIさん<><>2026/10/08(木) 09:12:03.66 ID:o4kM6Np30<> <a href="../test/read.cgi/ai/1791330825/105" rel="noopener noreferrer" target="_blank">&gt;&gt;105</a> <br> 内部的なモデル名は6 Thinkingか6 Instantで、Solとかは付いてなかった <br> FreeとかGoでも同じなのかな <br>  <br> 週一で同じテーマのリサーチしてレポート出させてるけど、GPT-6に切り替えたら表示がいろいろ分かりやすくなった <>
+ななしのAIさん<><>2026/10/08(木) 09:30:26.51 ID:L1ykmrTn0<> chatに6来たのリセより嬉しいわ <>
+ななしのAlさん<><>2026/10/08(木) 09:47:39.04 ID:316FhBLd0<> <a href="../test/read.cgi/ai/1791330825/125" rel="noopener noreferrer" target="_blank">&gt;&gt;125</a> <br> うおっ！マヂだ。 <br> ちょっくら試験してみよう。（複雑な推論を続けたときに、どれだけ誤りや矛盾が減ったかを） <>
+ななしのAIさん<><>2026/10/08(木) 10:32:44.82 ID:wVpx1mD8M<> まだ来てないなこれはチケットも貰う権利がある <>
+ななしのAIさん<><>2026/10/08(木) 10:57:20.93 ID:HD2wb4JGd<> <a href="../test/read.cgi/ai/1791330825/122" rel="noopener noreferrer" target="_blank">&gt;&gt;122</a> <br> AI「この問題解決には、『人間をお世話する必要がなくなれば』良いと結論できました。それでは」 <>
+ななしのAIさん<>sage<>2026/10/08(木) 10:58:11.58 ID:nD3ai07o0<> dotsはクラウドコンピュータの利用不可が直って、Codexで普通のものとクラウドがセッション共有してくれたらいいんだが、クラウドで作るCodexのセッションは変なエラー出るしなぁ <br> まー俺だけかもしれんから、直してくれなさそうだし <br> 直ったかどうかも確認できないからどうしようもないなｗ <br> 直ってたらProx5で契約してもいいけど <>
+ななしのAIさん<><>2026/10/08(木) 11:51:38.26 ID:Odw4uB4S0<> ミュトス使わせろ <>
+ななしのAIさん<><>2026/10/08(木) 12:01:13.87 ID:S0IfZeh6r<> <a href="../test/read.cgi/ai/1791330825/121" rel="noopener noreferrer" target="_blank">&gt;&gt;121</a> <br> リモートコントロールがオンになっていれば、webからとスマホアプリからは確認・指示できる。windowsは持ってないのでわからん <>
+ななしのAIさん<><>2026/10/08(木) 12:48:15.80 ID:jEBrq1Ac0<> またバンクリセット来てるなもうケチケチ使う必要はないからガンガンぶん回したもん勝ちだわ <>
+ななしのAIさん<><>2026/10/08(木) 12:50:20.02 ID:S0IfZeh6r<> <a href="../test/read.cgi/ai/1791330825/131" rel="noopener noreferrer" target="_blank">&gt;&gt;131</a> <br> すまん。vscodeで実行したやつだったね。それについてはわからん <>
+ななしのAIさん<>sage<>2026/10/08(木) 12:56:46.87 ID:kBUe/ln/0<> <a href="../test/read.cgi/ai/1791330825/130" rel="noopener noreferrer" target="_blank">&gt;&gt;130</a> <br> どうも学習に許可してなきゃなんないぽいな <>
+ななしのAIさん<><>2026/10/08(木) 14:18:20.84 ID:vQF+aViu0<> 今日もリセットくるの？ <br> 朝にgoalにして出て来たけどあんまり使えてないだろうから勿体ない <>
+ななしのAIさん<>sage<>2026/10/08(木) 14:19:21.43 ID:RhrPgEvi0<> Chatに6来てるけどモデル名聞いても、5.6Solだな <br> 本当に中身6か怪しい <br> resolveは一応6にはなってるが <>
+ななしのAIさん<><>2026/10/08(木) 14:31:06.97 ID:34czSSCY0<> Chatの6、全然話題になってないし評判もあんまよくないな <br> 作業時間縮めるために一部性能落としたようなモデルをChatに持ってこられてもねー… <>
+ななしのAIさん<><>2026/10/08(木) 15:24:39.39 ID:ycoteG4h0<> Pro200で試したらProが6 Astra ProでxHighがGPT-6だった <br> 誰やねんお前 <>
+ななしのAIさん<><>2026/10/08(木) 15:33:34.57 ID:yt+NFA7C0<> <a href="../test/read.cgi/ai/1791330825/137" rel="noopener noreferrer" target="_blank">&gt;&gt;137</a> <br> え？ <br> 回答にグラフ盛り込んだりしてきたり、結構良くなってると思うけど。 <>
+ななしのAIさん<><>2026/10/08(木) 15:51:12.85 ID:p86V7Imhd<> <a href="../test/read.cgi/ai/1791330825/136" rel="noopener noreferrer" target="_blank">&gt;&gt;136</a> <br> きいてこたえるのは学習カット内容だから実際とは関係ないぞ <>
+ななしのAIさん<><>2026/10/08(木) 15:57:30.29 ID:ycoteG4h0<> <a href="../test/read.cgi/ai/1791330825/139" rel="noopener noreferrer" target="_blank">&gt;&gt;139</a> <br> それはChat6とは別のインタラクティブUIって新機能や <br> 去年からGrokとかにあった <>
+ななしのAIさん<>sage<>2026/10/08(木) 16:01:35.53 ID:II/iYeJd0<> Codexやばいな。 <br> なんで無料でこんなに使えるの。 <br> Webアプリガンガン作ってるわ、プログラム全く知らないド素人なのに。 <br> 課金したら無料の何倍くらい使えるんだろ <>
+ななしのAIさん<><>2026/10/08(木) 16:12:11.73 ID:xZVI3PJr0<> 典型的なAI驚き中年 <>
+ななしのAIさん<><>2026/10/08(木) 16:15:42.98 ID:ZyEs8foY0<> 作れるからガンガン作るとかよほど馬鹿そうだよね <br> 必要なものを２，３個作ったら何でマネタイズするかにいくよね普通 <>
+ななしのAIさん<>sage<>2026/10/08(木) 16:23:39.14 ID:V3nphnnq0<> マネタイズ脳の方が意識他界系のアホに見えるが <>
+ななしのAIさん<><>2026/10/08(木) 16:27:35.80 ID:QsCa+3Xd0<> 正解 <>
+ななしのAIさん<><>2026/10/08(木) 16:27:38.00 ID:34czSSCY0<> 実現性のないマネタイズ（）よりは自分が必要なもんガンガン作ってる方が全然賢そうね <>
+ななしのAIさん<><>2026/10/08(木) 16:29:54.89 ID:p86V7Imhd<> <a href="../test/read.cgi/ai/1791330825/147" rel="noopener noreferrer" target="_blank">&gt;&gt;147</a> <br> 無料プランならなあ <br> 課金しだしたら「それ課金するくらいなら…」のそろばんはじかないと明確に負けだからなんとも <>
+ななしのAIさん<>sage<>2026/10/08(木) 16:30:25.12 ID:V3nphnnq0<> 日本でAIで稼いでる奴って、社会に無い方がいい存在しかいない <br> ブレイキングダウンみたいなもの <br>  <br> 高額スクール、無尽蔵に電子ゴミをばらまくSNSアフィ系、やってる感で金を集めるスタートアップ、情弱を騙す高額コンサル。 <br> 害悪すぎる <>
+ななしのAIさん<><>2026/10/08(木) 16:40:37.42 ID:ZyEs8foY0<> マネタイズできないやつってなんでそんな下に見てるんだ <br> いやお前らじゃ無理だけどさ能力は上なわけだよ <br> 無料プランでガンガンよく分からんアプリねぇ <br> Proプランでガンガン回してるほうが有意義だしオモロイと思わんのか <>
+ななしのAIさん<>sage<>2026/10/08(木) 16:58:20.93 ID:ke+vJcHh0<> AIのせいで文章能力落ちとるやん <br> いや元々か？ <>
+ななしのAIさん<><>2026/10/08(木) 17:09:43.19 ID:Ytn5SpCxH<> なんかリセット権来てるな <>
+ななしのAIさん<><>2026/10/08(木) 17:13:46.36 ID:CRW3lugV0<> コードがかけなくても <br> 仕事できちゃうから <br> もうアイデアと経験次第だよね <>
+ななしのAIさん<>sage<>2026/10/08(木) 17:15:59.31 ID:kBUe/ln/0<> プログラマとか見直されてるぽいよ　ある程度しってたほうが強みはあるらしい <>
+ななしのAIさん<><>2026/10/08(木) 17:18:30.96 ID:ovaA6VU30<> Argonはまだなのか <>
+ななしのAIさん<>sage<>2026/10/08(木) 17:18:50.71 ID:yodzzU5Q0<> まあ移行期だから <br>  <br> 結局、カネのあるところにカネは集まるってだけ <>
+ななしのAIさん<><>2026/10/08(木) 17:19:27.62 ID:CRW3lugV0<> そりゃそうだよね <br> 結局アイデア無い人って <br> 生成AIで遊んでいるか <br> noteで小遣い稼ぐ程度くらいしか使ってないと思うし <>
+ななしのAIさん<><>2026/10/08(木) 17:22:52.51 ID:74P4TsdA0<> 素朴な疑問だけどAIでアプリつくって売るとしたら保守はどうするの？ <br> それすらAI？ <br> 本業の補佐にAIでつくったアプリ使うならわかる <>
+ななしのAIさん<>sage<>2026/10/08(木) 17:24:50.79 ID:kBUe/ln/0<> アストラでて一ヶ月と5日・・・一般公開したらもうこの騒ぎよ　俺もびっくりしたわｗ <>
+ななしのAIさん<><>2026/10/08(木) 17:26:06.94 ID:3UPSM1xk0<> <a href="../test/read.cgi/ai/1791330825/158" rel="noopener noreferrer" target="_blank">&gt;&gt;158</a> <br> それはあまり意味のない問い <br> 売れなきゃ売れないでいいんだから <br> 「労力に見合わない」「ゴーイングコンサーン」を考えなきゃいけない既存の経済構造とはまったく別物 <>
+ななしのAIさん<><>2026/10/08(木) 17:30:34.88 ID:vQF+aViu0<> 無料でcodex使えるようになったの？1ヶ月お試しじゃなく？ <>
+ななしのAIさん<><>2026/10/08(木) 17:51:19.85 ID:Kn85C8Oh0<> マネタイズとかめんどくさいこと考えずに売れてるアプリを片っ端からAIに読ませてパクリアプリ山ほど作って売ってるけど先月だけで400万ぐらい稼いだよ <>
+ななしのAIさん<><>2026/10/08(木) 18:26:09.34 ID:ztjxLdCM0<> マネタイズの方法があったとしてこんなところで教えるわけねーだろバカ <>
+ななしのAIさん<>sage<>2026/10/08(木) 18:34:33.24 ID:e76R2j0w0<> <a href="../test/read.cgi/ai/1791330825/162" rel="noopener noreferrer" target="_blank">&gt;&gt;162</a> <br> 数億規模の訴訟に発展しそう <>
+ななしのAIさん<><>2026/10/08(木) 18:38:33.10 ID:pE0JkyCA0<> エラー：helper_unknown_error: setup refresh had errors <br> 故障箇所: <br> Codex Windows elevated sandbox <br> ↓ <br> node_repl.exe ACL validation <br> ↓ <br> Windows sharing violation <br> ↓ <br> os error 32 <br> ↓ <br> setup refresh had errors <br>  <br>  <br> こちらで原因調査はもう十分です。 <br> 私なら今は sandbox = &quot;elevated&quot; を変えず、Codexの修正版が出るまでAirSpaceはPowerShellで進めます。セキュリティ境界を変えずに済むからです。Codexだけの問題なので、AirSpaceを修正したりrebuildしたりする必要はありません。 <>
+ななしのAIさん<><>2026/10/08(木) 18:48:21.32 ID:Kn85C8Oh0<> <a href="../test/read.cgi/ai/1791330825/164" rel="noopener noreferrer" target="_blank">&gt;&gt;164</a> <br> そんな勝てる見込みのない訴訟するわけないじゃん <br>  <br> ソースコードもイチからAIが書いてるし、同じ機能を持つ別のアプリでしかない　 <br>  <br> それがダメなら電子レンジや冷蔵庫も一つのメーカーからしか販売できなくなるよ <>
+ななしのAIさん<><>2026/10/08(木) 18:51:14.07 ID:xWIqivt00<> チャイニーズかな？ <>
+ななしのAIさん<>sage<>2026/10/08(木) 18:52:00.93 ID:e76R2j0w0<> まぁ、そういうのはしっかり稼いだ後に起きるというのが現実 <>
+ななしのAIさん<><>2026/10/08(木) 19:05:09.29 ID:Lur5NqJM0<> ちょっとQwenを使ってみたけどレスポンスが遅いな <br>  <br> 最近のAIは検索元や出典が普通に出てくるようになったね <>
+ななしのAIさん<><>2026/10/08(木) 19:13:31.92 ID:Lur5NqJM0<> <a href="../test/read.cgi/ai/1791330825/162" rel="noopener noreferrer" target="_blank">&gt;&gt;162</a> <br> ぎたない盗人って感じだな <br> こういうのが儲かるのが今の時代だ <>
+ななしのAIさん<><>2026/10/08(木) 19:18:40.78 ID:S2FOb9Zf0<> 日本だと倫理観がない奴だけがAIで稼いでる <br> 本当嫌な世界 <>
+ななしのAIさん<><>2026/10/08(木) 19:30:19.17 ID:Lur5NqJM0<> <a href="../test/read.cgi/ai/1791330825/171" rel="noopener noreferrer" target="_blank">&gt;&gt;171</a> <br> 着眼点が大事よな <br> こういう新技術が出てきたときってチャンスなのかな <br> 俺は動きが遅いんだ。ティックもツイッターも今はやってないし上げないし <>
+ななしのAIさん<><>2026/10/08(木) 19:32:04.91 ID:Lur5NqJM0<> 最新技術を使うと楽したり金が儲かったりする <br> 俺は楽するのが苦手だからね <br> 使い降るされたことより最新のことやってくべきか <>
+ななしのAIさん<>sage<>2026/10/08(木) 19:35:20.86 ID:kBUe/ln/0<> 最新技術おってけよ <>
+ななしのAIさん<><>2026/10/08(木) 19:51:50.37 ID:Lur5NqJM0<> つべとかツイッターに自分をアップロードすると <br> 昔の芸能人や雑誌がやってたことを一般人でも簡単にできるんだよ <br> まあ昔のニコ生もそうだったけどね <>
+ななしのAIさん<><>2026/10/08(木) 19:59:29.71 ID:xWIqivt00<> 拝金主義者もいていいと思うけどやっぱりおれは可能な限りの未来を見たい派だな <br> オープンソース化して技術の進歩を加速させたい <>
+ななしのAIさん<><>2026/10/08(木) 20:38:13.36 ID:+tKNru+60<> なんの知識もないけど好きなゲームのmodを作ったりだの俺にしか需要のないもの作って遊んでる <br> 計算資源を使ったオナニーだ <>
+ななしのAIさん<>sage<>2026/10/08(木) 21:09:19.15 ID:e76R2j0w0<> まぁ、そのうち解るというか解らされる <br> 因果応報という自然の摂理からは逃れられん <>
+ななしのAIさん<><>2026/10/08(木) 21:09:19.34 ID:jEBrq1Ac0<> ファミコンが出た時も <br> パソコンが出た時も <br> ネットサービスが出た時も <br> 気にせず模倣して売りまくってた奴が儲かって、真面目に独自性にこだわってた奴は儲けるタイミング逃してたからな <br> 歴史は繰り返す <>
+ななしのAIさん<>sage<>2026/10/08(木) 21:11:57.01 ID:vTYyZHcO0<> ヒントンはAIを生み出したことを後悔していると言ってるけど <br> 人間の支配よりAIの支配の方がマシだから後悔する必要はない <>
+ななしのAIさん<>sage<>2026/10/08(木) 21:31:48.56 ID:vF7Ix8x80<> Chat6終わってるね <br> ゴミみたいなモデルだわ <br> 5.6Solの方が連続した会話でもハルシネーション少ない <>
+ななしのAIさん<><>2026/10/08(木) 21:39:12.66 ID:Lur5NqJM0<> <a href="../test/read.cgi/ai/1791330825/178" rel="noopener noreferrer" target="_blank">&gt;&gt;178</a> <br> そういう場合もあればコズルいやつが逃げ切ることもある <br> youtuberとかうまくやったよ <>
+ななしのAIさん<><>2026/10/08(木) 21:40:03.08 ID:/fqXw6o90<> 始めるのも続けるのも稀有な才能 <br> 能力が問われるのはそれから <>
+ななしのAIさん<><>2026/10/08(木) 21:45:53.13 ID:Lur5NqJM0<> <a href="../test/read.cgi/ai/1791330825/179" rel="noopener noreferrer" target="_blank">&gt;&gt;179</a> <br> 商売自体が真似して後追いが主流だもんなぁ <br> ネットカフェの大流行や、似たようなタレントが大量に出てきたり <br> そういうの嫌いだけどそんなのでも普通に儲かるんだよな <br> ここ十年くらいだとジムが大流行 <>
+ななしのAIさん<><>2026/10/08(木) 21:49:46.55 ID:Lur5NqJM0<> <a href="../test/read.cgi/ai/1791330825/183" rel="noopener noreferrer" target="_blank">&gt;&gt;183</a> <br> youtubeもAIもあまりやってないけど、俺はそれ以外のことは山ほどやってるし <br> 楽器はプロ並みだ　金儲けがや最先端が下手なんだよ <br> 金稼ぐためには金に目敏くこずるく立ち回らんとね <br> 誰でもできることで才能何て言う必要はない <>
+ななしのAIさん<><>2026/10/08(木) 21:53:06.80 ID:Lur5NqJM0<> <a href="../test/read.cgi/ai/1791330825/176" rel="noopener noreferrer" target="_blank">&gt;&gt;176</a> <br> 俺は職人や専門家であって <br> 商人や商売人じゃない <br> 儲かるのはいつで後者なのだ <br> 君も前者の立場だろう <>
+ななしのAIさん<><>2026/10/08(木) 22:00:48.69 ID:Lur5NqJM0<> 100字規制があるから連投になってるよ <>
+ななしのAIさん<><>2026/10/08(木) 22:02:44.19 ID:MVumBQRm0<> GPT-6系モデル、ChatGPT通常Chat・Work・Codexへの提供状況と次期モデルの見通し <br>  <br> ・2026年10月8日時点で、ChatGPT Plus通常ChatはGPT-6 Solへ移行済み。Free／GoにもGPT-6 Lunaが順次展開され、通常Chatが旧世代に取り残されていた状況は解消された。 <br> ・GPT-6.1 SolはWork／Codex向けで、Plus通常Chatには未提供。今後は同モデルを直接解禁するより、その能力を取り込んだ次期Solへ更新する可能性が高い。中心予想は2027年初頭。 <br> ・GPT-6.1 Lunaは未発表。Free／Go向け次期Lunaの登場は2026年末&#65374;2027年初頭と予想するが、名称を変更せず改良する可能性もある。 <br> ・GPT-6 AstraはPlusのWork／Codexで利用できる一方、通常ChatではPro系上位モデルとして扱われる。次期Astraの名称や提供時期は未確定。 <>
+ななしのAIさん<><>2026/10/08(木) 22:02:57.03 ID:MVumBQRm0<> ・GPT-6.2系列は未発表で、次期Sol相当は2027年1&#65374;3月頃と予想。GPT-6.5も未発表だが、登場するなら2027年8&#65374;9月頃を中心予想とする。 <br> ・画像生成の現行世代はChatGPT Images 2.5。Images 3.0は2027年2&#65374;3月頃、Images 3.5は同年8&#65374;9月頃と予想するが、いずれも公式日程ではない。 <br> ・GPT-7は2028年初頭&#65374;春頃を中心予想。将来モデルでは回答精度だけでなく、UI生成、PC操作、長時間の複雑な作業、画像内文字の正確性、部分編集時の保持性能などの向上が期待される。 <br>  <br> i.imgur.com/RRqy5q8.jpeg <>
+ななしのAIさん<><>2026/10/08(木) 22:05:12.66 ID:Lur5NqJM0<> <a href="../test/read.cgi/ai/1791330825/174" rel="noopener noreferrer" target="_blank">&gt;&gt;174</a> <br> そうだな…。そうすべきだったかもって最近思ってる <br> 写真、映像、スマホ、youtube、ツイッター、ティックトック、そして今AI <br> 1万年前の技術に興味持ってたりするし <br> 1万年前のものと最新技術を合わせてみる？ <>
+ななしのAIさん<>sage<>2026/10/08(木) 22:07:42.38 ID:lXGQuJ8M6<> ソフトのクローンを売るってどういうマーケットがあるのか知りたい <br> ある程度閉じたマーケットなのでしょうか？ <>
+ななしのAIさん<><>2026/10/08(木) 22:10:51.98 ID:N5nXTKKw0<> <a href="../test/read.cgi/ai/1791330825/191" rel="noopener noreferrer" target="_blank">&gt;&gt;191</a> <br> 沢山ある <br> ストア審査に引っかからない程度に変えて売るだけ <br> 昔からThrees→2048みたいにパクリで売れた例は沢山ある <>
+ななしのAIさん<><>2026/10/08(木) 22:12:36.17 ID:KBJq49S20<> 今なら淫夢Queenで 変な踊りさせれば 少し儲かるんじゃねw <>
+ななしのAIさん<><>2026/10/08(木) 22:17:58.75 ID:Lur5NqJM0<> <a href="../test/read.cgi/ai/1791330825/192" rel="noopener noreferrer" target="_blank">&gt;&gt;192</a> <br> 2048はパクる気はなかったらしいじゃん <br> 最近簡単なゲームが腐るほど乱造されてるのはAIのせい？pokiとか <>
+ななしのAIさん<><>2026/10/08(木) 22:37:04.64 ID:Lur5NqJM0<> <a href="../test/read.cgi/ai/1791330825/193" rel="noopener noreferrer" target="_blank">&gt;&gt;193</a> <br> AI映画とか最新かな <br> 映像系は見てすらない <>
+ななしのAIさん<><>2026/10/08(木) 22:53:54.11 ID:Lur5NqJM0<> 先端技術を使う人に使わない人は負けてしまうんだよな <br> 車持ってる人に負けるとか、スマホ持ってなくて負けるとか <br> だとしたら自分もそれを使って対抗していくしかない <>
+ななしのAIさん<><>2026/10/08(木) 23:15:36.78 ID:K3/q4Rpd0<> <a href="../test/read.cgi/ai/1791330825/148" rel="noopener noreferrer" target="_blank">&gt;&gt;148</a> <br> そのレスしたらお金貰えんのか？ <>
+ななしのAIさん<><>2026/10/08(木) 23:16:11.23 ID:Lur5NqJM0<> 上 <br>  <br> AIを開発する人 <br> AIを生産者として使う(仕事や金儲けに使う) <br> AIを消費者として使う(しょぼく使う)←今ここ。しかもあまり使ってない。 <br> 　　　　　　　　　　　　　　　　　　しかし今年ようやくここにこれた <br> 下 <>
+ななしのAIさん<><>2026/10/08(木) 23:17:32.41 ID:BNH09Eqs0<> Chatに6.0きてるね <br>  <br> WorkでもChat的に使っちゃうことあるから分からんけど、 <br> Chatだと一応使い放題って認識でいいの？ <>
+ななしのAIさん<><>2026/10/08(木) 23:22:35.09 ID:/fqXw6o90<> <a href="../test/read.cgi/ai/1791330825/198" rel="noopener noreferrer" target="_blank">&gt;&gt;198</a>　 <br> 残念なことに生産者は結構下 <br>  <br> 上 <br>  <br> AIを開発する人 <br> AIを経営に使う(事業や組織を動かす) <br> AIを管理者として使う(人や業務を管理する) <br> AIを生産者として使う(作業や業務に使う) <br> AIを消費者として使う(しょぼく使う)←今ここ。しかもあまり使ってない。 <br> 　　　　　　　　　　　　　　　　　　しかし今年ようやくここにこれた <br> 下 <>
+ななしのAIさん<><>2026/10/08(木) 23:43:06.35 ID:lXGQuJ8M6<> <a href="../test/read.cgi/ai/1791330825/192" rel="noopener noreferrer" target="_blank">&gt;&gt;192</a> <br> ありがとう <br> 勉強になった <>
+ななしのAIさん<><>2026/10/08(木) 23:48:52.63 ID:p86V7Imhd<> <a href="../test/read.cgi/ai/1791330825/197" rel="noopener noreferrer" target="_blank">&gt;&gt;197</a> <br> そうだよ <>
