@@ -1,31 +1,31 @@
 {
   "target": "AIチャット総合",
   "subback_url": "https://krsw.5ch.io/ai/subback.html",
-  "fetched_at_utc": "2026-10-21T15:50:12+00:00",
+  "fetched_at_utc": "2026-10-22T15:50:11+00:00",
   "thread_count": 2,
   "threads": [
     {
-      "title": "3: 【ChatGPT】AIチャット総合 61【Gemini・Claude】 (32)",
+      "title": "5: 【ChatGPT】AIチャット総合 61【Gemini・Claude】 (44)",
       "thread_id": "1791324527",
       "thread_url": "https://krsw.5ch.io/test/read.cgi/ai/1791324527/",
       "dat_url": "https://krsw.5ch.io/ai/dat/1791324527.dat",
-      "last_res": 32,
-      "previous_last_res": 22,
-      "new_res_start": 23,
-      "new_res_end": 32,
-      "new_res_count": 10
+      "last_res": 44,
+      "previous_last_res": 32,
+      "new_res_start": 33,
+      "new_res_end": 44,
+      "new_res_count": 12
     },
     {
-      "title": "1: 【ChatGPT】AIチャット総合 62【Gemini・Claude】 (468)",
+      "title": "1: 【ChatGPT】AIチャット総合 62【Gemini・Claude】 (539)",
       "thread_id": "1792112203",
       "thread_url": "https://krsw.5ch.io/test/read.cgi/ai/1792112203/",
       "dat_url": "https://krsw.5ch.io/ai/dat/1792112203.dat",
-      "last_res": 468,
-      "previous_last_res": 394,
-      "new_res_start": 395,
-      "new_res_end": 468,
-      "new_res_count": 74
+      "last_res": 539,
+      "previous_last_res": 468,
+      "new_res_start": 469,
+      "new_res_end": 539,
+      "new_res_count": 71
     }
   ],
-  "new_res_count_total": 84
+  "new_res_count_total": 83
 }
