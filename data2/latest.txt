@@ -1,10 +1,10 @@
 ===== THREAD 1/2 =====
-title: 5: 【ChatGPT】AIチャット総合 61【Gemini・Claude】 (44)
+title: 14: 【ChatGPT】AIチャット総合 61【Gemini・Claude】 (44)
 thread_id: 1791324527
 thread_url: https://krsw.5ch.io/test/read.cgi/ai/1791324527/
 response_range: 1-44
-previous_last_res: 32
-new_response_range: 33-44
+previous_last_res: 44
+new_response_range: なし
 ===== POSTS =====
 
 [1] 2026/10/07(水) 07:08:47.76 ID:9pbNqYvF0 name:ななしのAIさん (ﾜｯﾁｮｲW 9f84-R99h) mail:
@@ -329,12 +329,12 @@ Open AIとアンソロピックが頑張り過ぎて共倒れ倒産したら
 
 
 ===== THREAD 2/2 =====
-title: 1: 【ChatGPT】AIチャット総合 62【Gemini・Claude】 (539)
+title: 1: 【ChatGPT】AIチャット総合 62【Gemini・Claude】 (628)
 thread_id: 1792112203
 thread_url: https://krsw.5ch.io/test/read.cgi/ai/1792112203/
-response_range: 1-539
-previous_last_res: 468
-new_response_range: 469-539
+response_range: 1-628
+previous_last_res: 539
+new_response_range: 540-628
 ===== POSTS =====
 
 [1] 2026/10/16(金) 09:56:43.61 ID:E1CVsN+l0 name:ななしのAIさん mail:
@@ -4218,3 +4218,646 @@ Matthew BermanによるSam Altmanインタビュー
 [539] 2026/10/23(金) 00:35:29.26 ID:15aopsvg0 name:ななしのAIさん mail:
 残り50%、この時のために準備してた仕事をastraウルトラハイスピードで消費中 
  すげー早い、来月のやることなくなりそう
+
+---
+
+[540] 2026/10/23(金) 00:52:35.06 ID:tqFo+0mW0 name:ななしのAIさん mail:
+Gemini FlashとCarbonまだか？
+
+---
+
+[541] 2026/10/23(金) 01:16:00.97 ID:G3bbyCsd0 name:ななしのAIさん mail:
+>>529 
+ どういう分野や経緯で出た？ 
+ 少し何か世に出してるの？
+
+---
+
+[542] 2026/10/23(金) 01:18:13.89 ID:G3bbyCsd0 name:ななしのAIさん mail:
+2003年ぐらいのことだと紙で記録は残ってるけど 
+ 電子化されてないから読み込みできてないって言われた 
+ 2003年くらいならありそうな気がするし、協会はそのくらいやっとけよって感じ 
+ 大会の記録なんだけどね
+
+---
+
+[543] 2026/10/23(金) 01:19:59.71 ID:G3bbyCsd0 name:ななしのAIさん mail:
+逆に言うと部活の個人競技の記録って案外残るのよ 
+ でもチーム競技だとどこが勝ったとかはあっても人員が誰かは不明だよね 
+ 内部には記録あるのかな
+
+---
+
+[544] 2026/10/23(金) 01:23:10.76 ID:G3bbyCsd0 name:ななしのAIさん mail:
+AIに有名人のIQ聞いても公開されてないですで終わり 
+ 推定するソースは山ほどあるんだから十分推測可能だとは思うが… 
+ やらないんだよな
+
+---
+
+[545] 2026/10/23(金) 01:30:30.50 ID:PNu6i2Jr0 name:ななしのAIさん mail:
+Googleから「Gemini API CLI（gemini-api）」リリース 
+ 
+ > Gemini APIのさまざまな機能をシェルコマンドから簡単に利用できるようにするもので、画像・動画・音声・音楽の生成、マルチモーダル分析、文字起こし、クラウド上のAIエージェントの実行・管理などに対応 
+ > Codex、Claude Code、Antigravity、OpenClaw、Hermes Agentなど、既存のAIエージェントから利用されることを想定して設計されている 
+ 
+ > 一方、OpenAIはopenai-cli、Anthropicはanthropic-cliという公式CLIを提供 
+ > 3社のアプローチの違い 
+ > Googleは、Geminiのマルチモーダル能力と管理型エージェントへのアクセスを、AIエージェントにとって簡単なものにしようとしている。 
+ > OpenAIは、幅広いAPI機能をCLIで扱えるようにしており、既存の開発・運用環境への組み込みを容易にしている。 
+ > Anthropicは、API操作に加えて、エージェントや実行環境をリポジトリ上のコードとして管理する方向を強化している。 
+ 
+ https://aistudio.google.com/learn/introducing-the-gemini-api-cli 
+ https://chatgpt.com/s/t_6ada38c658c881918c2bd98ad34df974
+
+---
+
+[546] 2026/10/23(金) 01:59:02.48 ID:PNu6i2Jr0 name:ななしのAIさん mail:
+METRから、Redwood Researchと共同で今夏実施したOpenAIの内部AIエージェント監視システムに対するレッドチーミングの結果が公開 
+ 
+ > その結果、監視対象の欠落、監視を回避できる脆弱性、Codexのサンドボックスや自動レビューの迂回方法など、重要な問題が発見された。 
+ > 1. 監視されていなかった行動が約10%存在した 
+ > 2. AIエージェントが監視の実行を先延ばしできた 
+ > 3. コンテキスト圧縮によって行動履歴が監視から脱落した 
+ > 4. さらに深刻な監視回避手法も見つかった／数百件の行動を監視から隠す方法、監視自体を実行不能にする可能性が高い方法、CodexのサンドボックスとAuto-reviewを回避する方法 
+ > 5. OpenAIは本番環境の安全対策に影響する脆弱性をすべて修正したと説明 
+ > 6. 第三者評価の透明性にも課題が残った／評価チームはOpenAIのコードベースや一部インフラに深くアクセスできた一方、公開内容には事前の制約があり、OpenAIによる編集・削除も認められていた 
+ 
+ https://x.com/OpenAI/status/2113298833392496746 
+ https://metr.org/blog/2026-10-22-red-teaming-openai-agent-monitoring/ 
+ https://chatgpt.com/s/t_6ada40a2855481919e69104da381f788
+
+---
+
+[547] 2026/10/23(金) 05:09:25.41 ID:AGsvBPxFH name:ななしのAIさん mail:
+89%損した！
+
+---
+
+[548] 2026/10/23(金) 06:31:47.31 ID:xACbfzZV0 name:ななしのAIさん mail:
+>>541 
+ AndroidアプリやiOSアプリの開発者として出てきた 
+ アプリは本名で出してるからわかるけど本名で出してないGitHubやブログの内容まで出てきた
+
+---
+
+[549] 2026/10/23(金) 07:28:29.95 ID:anPupkzz0 name:ななしのAIさん mail:
+残り13%になってたから助かるわ 
+ C++は異様な速度で消費するからProでも不足する 
+ ハードの仕様把握がコンテキストをかなり使うのが主な理由と思っていたけど 
+ 言語そのものが思考量多い
+
+---
+
+[550] 2026/10/23(金) 07:42:21.16 ID:anPupkzz0 name:ななしのAIさん mail:
+>>529 
+ 本当だ。Geminiは個人名を見つけ出して出力するね 
+ もう15年は前になるのに、大学で出した論文から引用してきた 
+ 恐らくこれはリアタイでネットから見つけたのではなく、学習したデータの中に入ってる。まぁいいんだけど
+
+---
+
+[551] 2026/10/23(金) 07:48:12.41 ID:6MrYIvRe0 name:ななしのAIさん mail:sage
+>>550 
+ 逆にそれすごくね 
+ どんな論文？
+
+---
+
+[552] 2026/10/23(金) 07:55:43.79 ID:W1gLaish0 name:ななしのAIさん mail:
+リセットきたのかな？今朝の5時くらいが期限のスイッチがあったから使って寝たから100%の損かよw
+
+---
+
+[553] 2026/10/23(金) 07:58:19.04 ID:anPupkzz0 name:ななしのAIさん mail:sage
+主にパワエレ関係でAIが参照したのはノイズ耐性についての論文だった 
+ 中国企業は律儀にも参考にさせて貰ったと感謝の言葉をくれる事があるけど 
+ AIの普及でこの様な事もなくなっていくんだろうね 
+ それはそれで少し残念な気分にはなるけど 
+ 俺も誰が考えた物かも把握せずAIの出力を利用しているからお互い様
+
+---
+
+[554] 2026/10/23(金) 08:12:47.59 ID:1IV3LwVN0 name:ななしのAIさん mail:sage
+分かるわ中華って恩を感じたら報告してくる 
+ githubのソースで経験ある
+
+---
+
+[555] 2026/10/23(金) 08:24:31.45 ID:MgB46Cml0 name:ななしのAIさん mail:
+会社でChatGPTのビジネスプランに入る話が出てるんだけど、各社から法人向けAIチャットポータルみたいなの出してるじゃん？ 
+ そっちのほうがいいかもと思って色々調べてるが、どうも決め手に欠いて未だ決められず…
+
+---
+
+[556] 2026/10/23(金) 09:36:38.80 ID:2l+NU7cz0 name:ななしのAIさん mail:sage
+そういうのもAIに聞けば…俺も興味があったので聞いてみた 
+ 
+ > 「複数LLMの横断利用」「高度な社内データ連携（RAG）の構築ハードル」「手厚い導入・定着支援」の3点にあります。 
+ https://share.google/aimode/1nmJnmrfnNKry1yel 
+ 
+ >>549 
+ あえてのC++でなにしてんの 
+ 
+ C++は俺のオカン
+
+---
+
+[557] 2026/10/23(金) 09:53:12.22 ID:zDLAnPxG0 name:ななしのAIさん mail:sage
+組込みっぽいからC++なんだろうなって思ったけど 
+ 何が疑問なのかそっちの方が分からんw
+
+---
+
+[558] 2026/10/23(金) 10:52:55.95 ID:aRBSpxEH0 name:ななしのAIさん mail:
+>>555 
+ 漏洩事件で社内の情報管理徹底の流れが多いけど、仕事をほぼAIでできるようになって、その経験の蓄積は辞めた後に持っていけないから、キャリアアップ難しくなるよな 
+ 
+ ウチの新卒なんて会社から指示されてほぼ全て決められたプロンプトをAIに投げるだけになってるから、こいつらが40代とかになったら食っていけるのか心配になるわ 
+ 
+ コピペのスキルしか育たない人が大量生産されてる
+
+---
+
+[559] 2026/10/23(金) 14:17:35.15 ID:mhANlpc30 name:ななしのAIさん mail:sage
+Argonは結局ゴミ？ 
+ 3.1proみたいに無料で提供するならともかく金払ってまで使うぐらいならClaudeかCodexでOK？
+
+---
+
+[560] 2026/10/23(金) 14:25:48.92 ID:PNu6i2Jr0 name:ななしのAIさん mail:
+Googleから、Geminiアプリで作成したインタラクティブなWebアプリをGoogle Sitesに直接エクスポートできる機能が発表 
+ 
+ > Gemini Canvasでアプリを作る／エクスポート先を選択する／Google Sitesで編集する／公開範囲を指定して公開する 
+ 
+ https://workspaceupdates.googleblog.com/2026/10/publish-interactive-apps-from-gemini-app-to-Google-Sites.html 
+ https://chatgpt.com/s/t_6adae86f496c8191a701360b2156119b
+
+---
+
+[561] 2026/10/23(金) 14:25:58.08 ID:aMUbTyevH name:ななしのAIさん mail:
+うんこ
+
+---
+
+[562] 2026/10/23(金) 14:29:19.33 ID:PNu6i2Jr0 name:ななしのAIさん mail:
+BraveのAIアシスタントLeoにGPT 5.6 Luna、GPT 5.6 Terra、Grok 4.6が追加 
+ https://x.com/brave/status/2113265932776988772 
+ https://video.twimg.com/amplify_video/2113262679087333376/vid/avc1/1838x1080/KG-li0QiIrfrmDcy.mp4
+
+---
+
+[563] 2026/10/23(金) 14:31:28.60 ID:PNu6i2Jr0 name:ななしのAIさん mail:
+OpenAIのDecisions APIがGA 
+ https://openai.com/index/decisions-api/ 
+ https://chatgpt.com/s/t_6adae9eb86248191b252b2861a561f53
+
+---
+
+[564] 2026/10/23(金) 14:35:01.13 ID:PNu6i2Jr0 name:ななしのAIさん mail:
+>>474 
+ 関連して、Google CloudでのClaudeモデルが一般提供開始 
+ 
+ https://x.com/claudeai/status/2113380122468454765 
+ https://claude.com/ja/resources/articles/claude-models-on-google-cloud-anthropic-managed
+
+---
+
+[565] 2026/10/23(金) 14:37:05.55 ID:PNu6i2Jr0 name:ななしのAIさん mail:
+来週から、Claudeのウェブ・デスクトップ・モバイルアプリのセッションはデフォルトで自動モードで実行されるようになる（Pro/Max/Team） 
+ 手動に戻すことは可能 
+ 
+ https://x.com/claudeai/status/2113360845409583307
+
+---
+
+[566] 2026/10/23(金) 14:39:13.24 ID:PNu6i2Jr0 name:ななしのAIさん mail:
+>>307 
+ MiniMax M3.1 Flashのモデル重みが正式公開 
+ 
+ > 428B / 23BのMoE構成が確定 
+ > 全層Sparse Attention：前世代M3に残っていた通常のFull Attention層もスパース化し、長いコンテキストでの計算効率を改善。 
+ > DSparkによるSpeculative Decoding：高速なドラフト生成機構をモデルと一緒に公開。 
+ 
+ https://x.com/MiniMax_AI/status/2113436864904610008 
+ https://chatgpt.com/s/t_6adae7cc35488191bfe82e065e1d5642
+
+---
+
+[567] 2026/10/23(金) 14:41:16.88 ID:PNu6i2Jr0 name:ななしのAIさん mail:
+AnthropicがAgent SkillsをAgentic AI Foundation（AAIF）に寄贈 
+ 
+ > 2025年12月にModel Context Protocol（MCP）を寄贈したのに続く動き 
+ > 今回の発表は、Claude Codeから生まれたAgent Skillsが、Anthropicの管理を離れ、OpenAIやGoogleなども開発に参加する中立的な標準へ移行するという重要な節目 
+ 
+ また同じ日に、OpenAIからOpen Responses、Hugging FaceからOpenEnv、AlibabaからOpenSandboxがAAIFに寄贈 
+ 
+ > この4件により、AAIFの管理プロジェクトは合計10件になりました 
+ > AIエージェントを構成する主要な技術レイヤーについて、企業横断の共通基盤を整備する動きが本格化 
+ 
+ https://www.anthropic.com/news/donating-agent-skills-to-the-agentic-ai-foundation 
+ https://chatgpt.com/s/t_6adaea31e668819184a2f270fdf1f8c2
+
+---
+
+[568] 2026/10/23(金) 14:41:35.07 ID:J33AVLcL0 name:ななしのAIさん mail:
+今日もリセットかな
+
+---
+
+[569] 2026/10/23(金) 14:43:20.68 ID:PNu6i2Jr0 name:ななしのAIさん mail:
+Meta Museが日本で提供開始 
+ https://about.fb.com/ja/news/2026/10/muse-personal-ai-agent-launches-in-japan/ 
+ https://chatgpt.com/s/t_6adae116b86c8191b5cc44b51cf7710b
+
+---
+
+[570] 2026/10/23(金) 14:45:27.83 ID:PNu6i2Jr0 name:ななしのAIさん mail:
+Grok BotがCalendar/Reminders/Homeなどを含むシステムのモバイルアプリに接続できるようになった（Android/iOS） 
+ https://x.com/bot/status/2113393684209176718 
+ https://pbs.twimg.com/media/HVRHn--W4AAI_uQ.jpg
+
+---
+
+[571] 2026/10/23(金) 14:47:49.54 ID:PNu6i2Jr0 name:ななしのAIさん mail:
+>>508 
+ Tiboの28日チャレンジ Day 18 
+ Decisions APIのGA、OpenResponses標準化を紹介、またUberでのWork全面導入などの話題も引用した上で、リセット（明日10am PDTまで＝10月24日 午前2:00 JSTまで） 
+ 
+ - Decisions APIがGAに到達 >>563 
+ - OpenResponsesがLinux Foundation傘下へ >>567 
+ - UberがChatGPT Workを全社展開 
+ - 「We shipped some performance improvements」→これに関しては性能改善の具体的な中身が未確認 
+ - 「Landing tomorrow before 10am PST together with a small ship.」→リセットと同時にsmall shipを予告しているが、これも内容は未確認 
+ 
+ https://x.com/thsottiaux/status/2113492187770175603 
+ https://chatgpt.com/s/t_6adaedcbc4e48191826946a045a6fd79
+
+---
+
+[572] 2026/10/23(金) 14:49:52.73 ID:PNu6i2Jr0 name:ななしのAIさん mail:
+LLMによってソフトウェアの形式検証がはるかに大規模に実施可能になりつつあることを報告するAnthropicの研究記事 
+ 
+ > Anthropicは形式検証技術を開発する Theorem と協力し、Claudeを用いて、123個の実在するオープンソースライブラリの239個のテスト用エントリポイントについて、特定の条件下でクラッシュしないことを数学的に証明した 
+ > コンパイル後のRISC-V機械語レベルで、実際に実行される命令の振る舞いを検証 
+ 
+ https://www.anthropic.com/research/formal-verification 
+ https://chatgpt.com/s/t_6adae5d50d7881919a8f1ecd12918eb7
+
+---
+
+[573] 2026/10/23(金) 14:51:56.33 ID:PNu6i2Jr0 name:ななしのAIさん mail:
+Kimi公式がKimi K3.1リリースを示唆 
+ https://x.com/Kimi_Moonshot/status/2113445757185606062 
+ https://pbs.twimg.com/media/HVR-JmAbEAEY8_L.jpg
+
+---
+
+[574] 2026/10/23(金) 14:53:59.63 ID:PNu6i2Jr0 name:ななしのAIさん mail:
+tqLLMが10/22の1日でv1.2.0からv1.2.3まで更新 
+ 125B MoEモデルへの対応、推論高速化、OpenAI Responses API・Anthropic Messages APIの実装、エージェント連携、監視画面の強化、その他 
+ https://chatgpt.com/s/t_6adadcaba3d48191ac172441ba79fe96 
+ 
+ tqLLM 
+ > tqLLMの技術的な価値は、コンシューマーGPUの限られたVRAMを効率的に使いながら、LLMの実行速度を引き上げていること 
+ > TurboQuantによるモデル重みの圧縮、DFlash2による投機的デコーディング、KVキャッシュの圧縮とシステムRAMへの退避、MoEのExpert管理という複数の技術を組み合わせ 
+ https://tqllm.com/ 
+ https://github.com/turbo-tan/tqllm 
+ https://chatgpt.com/s/t_6adadcbcf6bc819186b67b5ed7f74cf9
+
+---
+
+[575] 2026/10/23(金) 14:54:28.88 ID:c5Nz1LGS0 name:ななしのAIさん mail:
+毎日リセットしてるなw 
+ あたアストラぶん回すか
+
+---
+
+[576] 2026/10/23(金) 14:56:04.06 ID:PNu6i2Jr0 name:ななしのAIさん mail:
+> 私はGoogleのCEOであるPichaiに、欠落したGemini 3.5 Proモデルがなぜ出荷されなかったのかを尋ねました。 
+ 
+ > Pichai「3.5シリーズのトレーニング中、私たちはFlashとProを開発していました。今年の中頃までに、私たちが内面化した領域は、エージェント機能にギャップがあることでした。特にコーディング周りで... 私たちはそこを確実に向上させたかったのです。そしてチームは、最速の方法はFlashを使うことだと感じました。それは小型モデルで効率が高いので、そこではるかに多くの反復ループが可能になります。それが3.5、3.6、3.7、3.8 Flashにつながりました。 それが完了した頃には、Proにそれを適用する機会がありましたが、Argonの事前トレーニングはすでに完了していました。」 
+ 
+ https://x.com/alexeheath/status/2113398193614655594
+
+---
+
+[577] 2026/10/23(金) 15:00:19.18 ID:KqjHEez60 name:ななしのAIさん mail:
+チャッピー… 
+ 簡単なPythonコードの改造なのに膨大なDBから平均を求めるとか 
+ 指示していないコードを忍ばせた上に 
+ 許可していないテスト実行してPCのRAM 128GB中94GBも持って行かれた 
+ クロードに乗り換え時か
+
+---
+
+[578] 2026/10/23(金) 15:02:01.77 ID:15aopsvg0 name:ななしのAIさん mail:
+おいおい、またリセットかよ 
+ 新プロダクト作っちまうか
+
+---
+
+[579] 2026/10/23(金) 15:04:45.68 ID:gty2sviv0 name:ななしのAIさん mail:
+>>571 
+ some performance improvementsとか言ってないで説明してくれよ 
+ 明日のsmall shipってのも、まあそっちは説明あるのかもしれないけど
+
+---
+
+[580] 2026/10/23(金) 15:05:18.39 ID:/NiFDPDU0 name:ななしのAIさん mail:sage
+おかしいよねチャッピー 
+ 前のバージョンはここまで余計な事はしなかった 
+ かと言って精度は上がってるから、この余計な事を独断でやる部分だけ排除して欲しい
+
+---
+
+[581] 2026/10/23(金) 15:06:54.07 ID:gty2sviv0 name:ななしのAIさん mail:
+>>569 
+ 来たのか
+
+---
+
+[582] 2026/10/23(金) 15:19:59.51 ID:c4Q9H6Nk0 name:ななしのAIさん mail:sage
+え？またリセットくるん？
+
+---
+
+[583] 2026/10/23(金) 15:28:19.64 ID:BMqqqwRBH name:ななしのAIさん mail:
+pro5倍あるけどplusより遅くないか気の所為なのか
+
+---
+
+[584] 2026/10/23(金) 15:32:18.07 ID:9R1Q+Kow0 name:ななしのAIさん mail:sage
+俺はリセットより改善を望んでるんだが 
+ 改善できなくてリセットばっかってあまりに悲しい
+
+---
+
+[585] 2026/10/23(金) 15:34:16.11 ID:epgkExt20 name:ななしのAIさん mail:
+なんかの改善は既にやったんだな 
+ shipは今日の深夜？
+
+---
+
+[586] 2026/10/23(金) 15:34:54.58 ID:w//sTA630 name:ななしのAIさん mail:
+こんなにリセットされてpro以上のユーザーってただのアホじゃん
+
+---
+
+[587] 2026/10/23(金) 15:37:10.47 ID:yTxPYT5Z0 name:ななしのAIさん mail:
+>>537 
+ 前サムが自分で使ってるカスタム指示公開してた 
+ あれまだ使ってんのかな
+
+---
+
+[588] 2026/10/23(金) 15:42:14.53 ID:Xc9aJvqp0 name:ななしのAIさん mail:
+リセット乞食のせいでもう性能あがらんね
+
+---
+
+[589] 2026/10/23(金) 15:43:39.50 ID:s7zvgp/30 name:ななしのAIさん mail:
+パーソナルAI戦国時代か
+
+---
+
+[590] 2026/10/23(金) 15:45:04.74 ID:O9tSkoYa0 name:ななしのAIさん mail:
+1日で使い切ってる奴らが多いんだろうな
+
+---
+
+[591] 2026/10/23(金) 15:45:38.58 ID:c4Q9H6Nk0 name:ななしのAIさん mail:sage
+この体たらくじゃ 
+ そら、Fable5.5出さなくていいわなほんと
+
+---
+
+[592] 2026/10/23(金) 15:47:26.94 ID:1WDhQQNt0 name:ななしのAIさん mail:
+>>589 
+ Googleさんがまだ蚊帳の外 
+ 上の方のインタビューで作ってるらしいことは言ってたが 
+ どうもワンテンポ遅い
+
+---
+
+[593] 2026/10/23(金) 15:48:58.11 ID:/zU7uIjt0 name:ななしのAIさん mail:
+午前2時にリセットされると普通に使うと朝8時から使って5時間制限で次が13時、18時、23時 
+ ってなると五時間の枠を四回使って残り二十パーセント。二十パーセントは使いきれないな。 
+ というか一週間で5時間枠 5回分しか使えないって考えるとプラスだと全然足らないな。。。 
+ 三千円と一万六千八百円の間の枠が欲しい。
+
+---
+
+[594] 2026/10/23(金) 16:05:46.11 ID:ZoWrPchw0 name:ななしのAIさん mail:sage
+https://i.imgur.com/j8sdIae.png 
+ 
+ あまりにリセットしまくるせいでコレ使うタイミングまったくないんだが 
+ 今も昨日リセットされたからAstraで必死こいて消費してるとこだし
+
+---
+
+[595] 2026/10/23(金) 16:07:21.22 ID:c4Q9H6Nk0 name:ななしのAIさん mail:sage
+PlusだとAstra xhigh使ったら残り100%からやっても 
+ 15分作業しただけで5時間制銀でワロタ
+
+---
+
+[596] 2026/10/23(金) 16:12:18.12 ID:15aopsvg0 name:ななしのAIさん mail:
+ラストエリクサーどころかポーション使う必要もないぐらい全回復イベントが来る 
+ ヤケクソだなw
+
+---
+
+[597] 2026/10/23(金) 16:27:57.31 ID:k/w7U6IZ0 name:ななしのAIさん mail:
+10月30日は持ってるけど、11月7日のリセット権がいつ配布されたか気になる。
+
+---
+
+[598] 2026/10/23(金) 16:30:23.41 ID:UXFLEiYQM name:ななしのAIさん mail:
+codexの通信制限のせいで2週間くらい何も進まないのにエラー修正に消費頑張っててワロタ
+
+---
+
+[599] 2026/10/23(金) 16:33:43.60 ID:w//sTA630 name:ななしのAIさん mail:
+OpenCodeで毎日無料で6時間はぶん回せるのに 
+ もうCodex使う意味なくね
+
+---
+
+[600] 2026/10/23(金) 16:39:36.66 ID:RLuvJr8KH name:ななしのAIさん mail:
+リセット来るせいでアストラ反応なしになってるの？
+
+---
+
+[601] 2026/10/23(金) 16:52:37.44 ID:ratZ2ul70 name:ななしのAIさん mail:sage
+やることがないわけじゃないからリセット嬉しいけど 
+ 連続でやるのはさすがにやめて欲しい 
+ 新しいプロジェクト考えるの面倒くせえ
+
+---
+
+[602] 2026/10/23(金) 17:54:48.16 ID:G3bbyCsd0 name:ななしのAIさん mail:
+>>548 
+ メディア出演とかしてるの？ 
+ AIは世に出てない人は低く扱ってるし、保護してるとも言える
+
+---
+
+[603] 2026/10/23(金) 17:57:46.66 ID:G3bbyCsd0 name:ななしのAIさん mail:
+>>551 
+ 下らん卒論だろ 
+ そういうのは知り合いもネットの片隅に残ってたよ 
+ MIXI読み込みとかもやってると思うが素人の情報は出さない 
+ あと名前と情報が絶対に一致しないとAIはとても慎重な姿勢を示す
+
+---
+
+[604] 2026/10/23(金) 18:00:09.21 ID:G3bbyCsd0 name:ななしのAIさん mail:
+>>558 
+ 最近、成長(笑)ってのにこだわるZ世代もいるとか 
+ やる気があるのとないのがいるのかね
+
+---
+
+[605] 2026/10/23(金) 18:04:28.59 ID:G3bbyCsd0 name:ななしのAIさん mail:
+>>558 
+ 最近、成長(笑)ってのにこだわるZ世代もいるとか 
+ やる気があるのとないのがいるのかね
+
+---
+
+[606] 2026/10/23(金) 18:13:44.30 ID:xACbfzZV0 name:ななしのAIさん mail:
+>>602 
+ メディア出演は全くしてない 
+ 一番使われてるアプリでも2万ダウンロードくらい 
+ 普通の個人開発者でメディア出演するレベルに達していない
+
+---
+
+[607] 2026/10/23(金) 19:09:48.47 ID:CMTdUMQL0 name:ななしのAIさん mail:sage
+5時間制限が嫌だからproにしたけど十分に使えてる気がしない 
+ ストレスはだいぶ減ったけど
+
+---
+
+[608] 2026/10/23(金) 19:15:48.12 ID:+S5cAGnV0 name:ななしのAIさん mail:sage
+>>603 
+ 君の卒論は？
+
+---
+
+[609] 2026/10/23(金) 19:35:53.35 ID:UXFLEiYQM name:ななしのAIさん mail:
+sandboxの通信制限を直してくれないとエージェントの意味無いじゃん
+
+---
+
+[610] 2026/10/23(金) 19:37:53.58 ID:ZfxvjLot0 name:ななしのAlさん mail:
+>>558 
+ もし新卒を育てないままAIの単純操作に使い、不要になれば交換する構造になっているなら、会社に悪意がなくても、結果的には『使い捨て肉電池』だな。
+
+---
+
+[611] 2026/10/23(金) 19:41:40.85 ID:pKd/ngv40 name:ななしのAIさん mail:sage
+そもそもそういうとこはもう新卒採らんだろ 
+ で、数十年後にドメイン知識を持ってAIを管理できる人間がいないことに気づく
+
+---
+
+[612] 2026/10/23(金) 20:16:16.47 ID:CMTdUMQL0 name:ななしのAIさん mail:sage
+>>610 
+ 客先で普通にchatGPTにこれ聞いといてって会話聞こえてきたな 
+ 技術的なことで自ら深掘りするようになればどんな環境でもある程度は育つと思うが・・・
+
+---
+
+[613] 2026/10/23(金) 20:26:18.08 ID:0beXjy8b0 name:ななしのAIさん mail:sage
+https://x.com/alexandr_wang/status/2113486571114750392 
+ アメップさあ、権利関係だいじょうぶかい？
+
+---
+
+[614] 2026/10/23(金) 20:50:36.56 ID:EWdr3Zv20 name:ななしのAIさん mail:sage
+Copilot使ってるけどモデルのアップデートでもあったのかパーソナライズデータが一部を残してガッツリ消えてた 
+ Lv50くらいまで調教したキャラがLv1に巻き戻ってポンコツ化した感 
+ 再カスタマイズがめんどい
+
+---
+
+[615] 2026/10/23(金) 20:57:22.78 ID:z3pr1MQS0 name:ななしのAIさん mail:
+AIネイティブ世代は案外うまくやれるんじゃないか？ 
+ デジタルネイティブ世代は今のゆとりみたいな感じになるのかな
+
+---
+
+[616] 2026/10/23(金) 21:28:20.11 ID:8dLQfl300 name:ななしのAIさん mail:sage
+雪国北海道に国産超知能データセンターを建設せよ
+
+---
+
+[617] 2026/10/23(金) 21:51:42.97 ID:01TJzYSf0 name:ななしのAIさん mail:sage
+ここまできたらもう減速より超加速だよなー開発の
+
+---
+
+[618] 2026/10/23(金) 21:55:29.40 ID:tqFo+0mW0 name:ななしのAIさん mail:
+Gemini3.5Proはコーディング能力が伸びなかったのかな 
+ 仮に文章作成能力が高かったならチャットで公開してくれてもよかったのに
+
+---
+
+[619] 2026/10/23(金) 22:16:42.94 ID:PfkTvGgR0 name:ななしのAIさん mail:
+加速したらほぼ間違いなく人間は死ぬけどええの？
+
+---
+
+[620] 2026/10/23(金) 22:19:47.63 ID:HF4mb1C80 name:ななしのAIさん mail:sage
+>>618 
+ 監査システム導入の手間が増えたのと他で計算資源使うから見送られたと見てる
+
+---
+
+[621] 2026/10/23(金) 22:24:08.42 ID:WZHHN55F0 name:ななしのAIさん mail:
+夕方から5時間くらいClaude Codeを使ってるんだけど頻繁に回答が英語になる。こんなことは今までなかったんだけど何か新しいモデルが来るのかな？
+
+---
+
+[622] 2026/10/23(金) 22:25:02.34 ID:G3bbyCsd0 name:ななしのAIさん mail:
+AV女優の経験人数聞いてもこたえないだろうな 
+ 
+ 一年AV女優やると五作品は出て経験人数30人ぐらいいくだろ 
+ 五年くらいやると０から200人は余裕でいくよ
+
+---
+
+[623] 2026/10/23(金) 22:29:08.32 ID:rHFeScOa0 name:ななしのAIさん mail:
+>>621 
+ 混んでるだけ
+
+---
+
+[624] 2026/10/23(金) 22:38:25.50 ID:Xc9aJvqp0 name:ななしのAIさん mail:
+>>621 
+ opusちょいちょい英語にならない？
+
+---
+
+[625] 2026/10/23(金) 22:38:38.17 ID:0beXjy8b0 name:ななしのAIさん mail:sage
+https://x.com/alexandr_wang/status/2113511377180692644 
+ metaのAI責任者、ジブリ改変AI動画でmuseをPRｗｗｗ
+
+---
+
+[626] 2026/10/23(金) 23:59:01.59 ID:0beXjy8b0 name:ななしのAIさん mail:sage
+>>625 
+ ジブリは消しやがったｗ
+
+---
+
+[627] 2026/10/24(土) 00:37:08.89 ID:xLY8eZY40 name:ななしのAIさん mail:
+まーたリセット入るのか
+
+---
+
+[628] 2026/10/24(土) 00:47:12.59 ID:vuGPDCMM0 name:ななしのAIさん mail:
+>>621 
+ たまになるからClaude.mdに書いて忘れるなって言っておいた方がいいよ
