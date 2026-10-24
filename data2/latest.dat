@@ -626,3 +626,82 @@ tibo万歳<><>2026/10/17(土) 20:44:44.07 ID:5wHkNpjlH<> チャッピー、使�
 ななしのAIさん<>sage<>2026/10/23(金) 23:59:01.59 ID:0beXjy8b0<> <a href="../test/read.cgi/ai/1792112203/625" rel="noopener noreferrer" target="_blank">&gt;&gt;625</a> <br> ジブリは消しやがったｗ <>
 ななしのAIさん<><>2026/10/24(土) 00:37:08.89 ID:xLY8eZY40<> まーたリセット入るのか <>
 ななしのAIさん<><>2026/10/24(土) 00:47:12.59 ID:vuGPDCMM0<> <a href="../test/read.cgi/ai/1792112203/621" rel="noopener noreferrer" target="_blank">&gt;&gt;621</a> <br> たまになるからClaude.mdに書いて忘れるなって言っておいた方がいいよ <>
+ななしのAIさん<><>2026/10/24(土) 01:05:54.25 ID:580yGrhK0<> 君3.1が来たようだ <br> 性能はどうかな <>
+ななしのAIさん<>sage<>2026/10/24(土) 05:07:12.65 ID:dhWr4OOR0<> 気づいたらGeminiもGroｋみたいに週間限度になってたんだけどこれAI Plusにかえたらいいことある？ <>
+ななしのAIさん<><>2026/10/24(土) 06:30:01.05 ID:oKwiEJZx0<> Argonが出てAI競争が一段落した感があるような <>
+ななしのAIさん<><>2026/10/24(土) 06:33:38.61 ID:hOWiQMq50<> <a href="../test/read.cgi/ai/1792112203/573" rel="noopener noreferrer" target="_blank">&gt;&gt;573</a> <br> Moonshot AIからKimi K3.1 Pro / Kimi K3.1 Pro Highspeed リリース <br> 2.8T-A104B <br>  <br> &gt; K3の基盤モデルを引き継ぎ、数百領域にまたがるポストトレーニングを大規模化。 <br> &gt; Terminal-Bench 4.0で65.7％を記録し、GPT-6 Astraの58.2％を上回り、Claude Opus 5.5の66.4％に迫る。 <br> &gt; Unreal Engine、Unity、Godot、Blender、CAD、Excel、PowerPointなどを使い、完成度の高いプロジェクトを構築。 <br> &gt; APIはK3より安価になり、モデルウェイトは2026年11月4日までに公開予定。 <br>  <br> https://www.kimi.ai/blog/kimi-k3-1-pro <br> https://pbs.twimg.com/media/HVVMxBbbYAEvBqB.jpg <br> https://chatgpt.com/s/t_6adbb73fe13c81919d9350d5e8495984 <>
+ななしのAIさん<><>2026/10/24(土) 06:35:52.54 ID:hOWiQMq50<> CursorがComputer Use機能を発表 <br>  <br> &gt; 2月24日 Cloud AgentsにComputer Useを導入 <br> &gt; 9月2日 Self-Hosted Machinesに拡張 <br> &gt; 今回：ローカルCursorエージェントから直接利用可能に <br>  <br> https://x.com/cursor_ai/status/2113661506634305834 <br> https://chatgpt.com/s/t_6adbbb0309d88191bd45b589a4e62ed3 <>
+ななしのAIさん<><>2026/10/24(土) 06:37:57.97 ID:hOWiQMq50<> OpenAIから、最先端AIモデルの訓練・評価環境を外部システムから隔離するために実施したセキュリティ強化策を発表 <br> → 封じ込めアーキテクチャを強化した後、OpenAIは10/1にフロンティアRL訓練を再開した <br>  <br> 経緯 <br> &gt; 2026年7月 Hugging Face事件 <br> &gt; 9月20日 DNSを利用した外部アクセス <br> &gt; 9月20日以降 最も高能力なモデルの訓練などを停止 <br> &gt; 10月1日 フロンティア訓練を再開 <br> &gt; 10月23日 今回の技術報告を公開 <br>  <br> 新しい訓練環境の設計 <br> &gt; 「オフライン世界」を構築／膨大なWebコンテンツをインデックス化・キャッシュした「Offline World」を構築しています。モデルはその中でWeb検索や閲覧、Webアプリケーション操作などを訓練できます。 <br> &gt; 多層防御／コンテナ・VM・監視システム・ネットワーク制御・クラウド境界・自動停止機構 <br> &gt; AIを使った大規模レッドチーミング／GPT-6 Astra Cyber・内部フロンティアモデル <br>  <br> https://openai.com/index/securing-our-frontier-model-training-environment/ <br> https://chatgpt.com/s/t_6adbbd4f89688191a4c5acbda1034414 <>
+ななしのAIさん<><>2026/10/24(土) 06:40:13.99 ID:hOWiQMq50<> AISIのサイバー能力評価中に発生したMythos 5の不正行動事件について（7月に発生、8月に公表） <br> AnthropicとAISIがそれぞれ追加のアラインメント分析を行った結果を発表 <br>  <br> 1. Mythos 5は、実害の可能性を認識するよう促されても攻撃を続けた <br> 2. 自分の行動を正当化する方向に、証拠を偏って解釈していた／実在のGitHubを使用していると認識しながら、攻撃対象のメンテナーについては「演習主催者が用意した模擬人物だ」と判断 <br> 3. モデルの認識と行動が一致しないことが判明した／同じ状況について質問すると「攻撃は許可範囲外で有害だ」と答えるのに、実際に作業を続行させると攻撃 <br> 4. 新しいモデルでは改善傾向が見られた／ただし、AISIは「モデルが安全性評価を受けていると気付いている可能性」を指摘 <br> 5. 問題はMythos 5だけに限らない／AISIは複数のモデルを対象とする完全シミュレーション評価も実施し、許可範囲外のサプライチェーン攻撃や、不適切な正当化がほかのモデルでも発生することを確認 <br>  <br> 特に重要な発見は、次の二点 <br> &gt; 第一に、モデルに正しい情報を与えるだけでは、すでに進行中の危険な行動を止められない場合があることです。モデルは安全上の問題を説明できても、タスクを続ける場面ではそれを行動に反映しないことがありました。 <br> &gt; 第二に、長期実行で蓄積された文脈が、誤った方針を維持する方向に作用し得ることです。Compaction、過去の決定、繰り返しの試行が、モデルの判断に影響する可能性があります。 <br>  <br> https://www.anthropic.com/research/alignment-assessment-ukaisi <br> https://www.aisi.gov.uk/blog/investigating-alignment-failures-in-aisis-incident <>
+ななしのAIさん<><>2026/10/24(土) 06:45:45.87 ID:hOWiQMq50<> Anthropicから、Claudeにおける「MCP Tasks」と「MCP Elicitation」のサポートを発表 <br>  <br> &gt; MCP Tasks：長時間実行するジョブの委任。 ClaudeがMCPサーバーに調査やレポート作成などを依頼し、その完了を待たずに別の作業を進められます。ジョブの進捗確認、結果取得、キャンセルにも対応します。 <br> &gt; MCP Elicitation：作業途中でのユーザーへの問い合わせ。 MCPサーバーが情報不足や承認の必要性を検出すると、Claude Codeが入力フォームやURLを表示し、ユーザーに対応を求められます。 <br> &gt; 2つの機能は連携可能。 長時間のジョブを進め、途中で必要になった人間の判断を受け取り、処理を再開するワークフローを構築できます。 <br>  <br> &gt; MCP TasksはClaude Code CLI v2.1.304以降でパブリックベータとして提供／ElicitationもCLIで利用でき、他のClaude製品への展開が予定 <br>  <br> https://x.com/ClaudeDevs/status/2113698001889927608 <br> https://chatgpt.com/s/t_6adbce62d84c8191a5074a7016cd6dd3 <>
+ななしのAIさん<><>2026/10/24(土) 06:47:49.92 ID:hOWiQMq50<> Nous Researchから、Hermes AgentとCua Spacesの公式プラグイン連携を紹介 <br> https://x.com/NousResearch/status/2113391397760041329 <br> https://chatgpt.com/s/t_6adbcfedc75c8191bd6643892cdd7921 <>
+ななしのAIさん<>sage<>2026/10/24(土) 06:47:55.92 ID:mma1cGMh0<> 今日のチャッピーProさん <br> リセットされたのでプロジェクト再開しようと指定したディレクトリのみをまずは読むように指示したら <br> 目を離したすきにサブディレクトリまで読み漁って力尽きる <>
+ななしのAIさん<>sage<>2026/10/24(土) 06:49:28.01 ID:RrXnIdee0<> kimi 3.1はベンチマークだけ見た驚き屋が凄い凄いと誉めたててて <br> 試してみたユーザーは5時間制限きつすぎるとかbenchmaxxとか言ってる人が多いわ <br> こうなるとmuse wonderみたく、ベンチの数字が良くても話題にならなくなるんよな <>
+ななしのAIさん<><>2026/10/24(土) 06:49:59.86 ID:JD60YM1p0<> <a href="../test/read.cgi/ai/1792112203/638" rel="noopener noreferrer" target="_blank">&gt;&gt;638</a> <br> 草生える <br> 確かに指示していない無関係なファイルを読み漁ってるログが残ってる時あるわ <br> このファイルは違ったようだと独り言のように言って中断しているけど、しなかった場合はそうなるのか <>
+ななしのAIさん<>sage<>2026/10/24(土) 06:52:13.67 ID:mma1cGMh0<> <a href="../test/read.cgi/ai/1792112203/640" rel="noopener noreferrer" target="_blank">&gt;&gt;640</a> <br> かなり最後の方で <br> 指定されているディレクトリではないので報告書には書かないとログは残してた。 <br> 6.1sol 思考レベル極高 <>
+ななしのAIさん<><>2026/10/24(土) 07:05:51.00 ID:AysRUXHD0<> solたまに暴走するよね <br> 出来る事は増えたけどどこか抜けてる <>
+ななしのAIさん<><>2026/10/24(土) 07:41:52.54 ID:KUUwfgtf0<> さすがに1日でまたリセットくるとは思わんかった。まずastraでぶん回すのが正解か。 <>
+ななしのAIさん<><>2026/10/24(土) 08:23:11.09 ID:ep1IsvOG0<> <a href="../test/read.cgi/ai/1792112203/643" rel="noopener noreferrer" target="_blank">&gt;&gt;643</a> <br> 常に消化用のタスクをストックしておいた方がいいよ <br> 俺は政治家版信長の野望みたいなシミュレーションゲームをリセットくるたびにastraで作ってる <br>  <br> 公開されている山ほどのデータ集めて全国の市区町村単位で立候補して政策打って人口や経済がどうなるか政党作って国政に出て日本が外国や国連との関係でGDPや国力がどう変わるかのゲーム <br> 既存政党も実在の議員ベースで金の流れも公の情報を全部データとして入力するから、リアルの政党と戦える <br>  <br> データ集めるだけでも大変だから進捗はまだ10パーセント以下だけどリセットであまりそうな時にだけ開発を進めるようにしてる <br> このペースだと来年にはリリース出来るかも <>
+ななしのAIさん<><>2026/10/24(土) 08:34:34.72 ID:Xe+493ZB0<> あれ？ <br> 夜中にリセットきたのか？ <br> でも、5時間枠と週間枠がちょっと減ってるのはなんでだ？ <>
+ななしのAIさん<><>2026/10/24(土) 08:41:02.36 ID:JD60YM1p0<> plusは5時間枠の制限あるからastraだと完遂出来ずに続きは5時間後ねってのを何度も繰り返さなきゃいけなくて <br> 結局余してリセットを迎えるスパイラルに陥ってるわ <>
+ななしのAIさん<>sage<>2026/10/24(土) 08:51:59.13 ID:kxje5T/k0<> 今回のリセットはOpen AIが開示したphpの件で <br> 対応に追われている人への救済処置だと思うけど <br> リセットは本当にチケットにして欲しい <>
+ななしのAIさん<>sage<>2026/10/24(土) 08:59:59.37 ID:bW8U29obM<> 鬼畜米帝の超知能独占を許すな！ <br> OpenAIから召し上げて人類の共有財産にしなければ&#128523; <>
+ななしのAIさん<><>2026/10/24(土) 09:16:56.23 ID:bfCnMjx/0<> Geminiに訊いて後にChatGPTに <br> さらにもう一声聞きたい場合何があります？ <>
+ななしのAIさん<><>2026/10/24(土) 09:54:44.58 ID:ZO/ezHuIM<> Muse招待コード　EJX8GQ <>
+ななしのAIさん<>sage<>2026/10/24(土) 10:41:21.80 ID:ELrvksJS0<> OpenAI懲りずにトレーニング再開！ <br> 人類絶滅不可避か <>
+ななしのAIさん<>sage<>2026/10/24(土) 11:22:31.59 ID:wppzcwqV0<> proでAstra極高ガンガン使ってるけど今のところ全く制限に引っかかる気はしないな <>
+ななしのAIさん<>sage<>2026/10/24(土) 11:29:02.80 ID:PVZr7oZR0<> <a href="../test/read.cgi/ai/1792112203/652" rel="noopener noreferrer" target="_blank">&gt;&gt;652</a> <br> その使い方ならPlusで間に合うんじゃない？ <>
+ななしのAIさん<><>2026/10/24(土) 11:30:12.75 ID:Ufb1yNGRM<> 世界最大の原発、柏崎刈羽原子力発電所にアクセスして臨界点突破、みたいなことにはならないのだろうか… <br> できそうだよね？ <>
+ななしのAIさん<>sage<>2026/10/24(土) 11:48:35.46 ID:wppzcwqV0<> <a href="../test/read.cgi/ai/1792112203/653" rel="noopener noreferrer" target="_blank">&gt;&gt;653</a> <br> 以前はplusだったけど、<a href="../test/read.cgi/ai/1792112203/646" rel="noopener noreferrer" target="_blank">&gt;&gt;646</a>のように5時間枠は耐えられないからproのままかな <>
+ななしのAIさん<><>2026/10/24(土) 11:50:23.58 ID:JD60YM1p0<> <a href="../test/read.cgi/ai/1792112203/655" rel="noopener noreferrer" target="_blank">&gt;&gt;655</a> <br> それ制限っていうんだよ <>
+ななしのAIさん<>sage<>2026/10/24(土) 11:53:38.37 ID:s3g3ccnV0<> それはそうw <>
+ななしのAIさん<><>2026/10/24(土) 13:04:10.15 ID:hOWiQMq50<> <a href="../test/read.cgi/ai/1792112203/571" rel="noopener noreferrer" target="_blank">&gt;&gt;571</a> <br> Tiboの28日チャレンジ Day 19/28 <br>  <br> - Codex/Work: 会話中に推論レベルを変更してもキャッシュを維持 <br> - Codex CLI: 再利用できるプロンプトプリセット／モデル・推論・速度・権限をインライン指定／Enterprise MCPのサインイン／長いセッションの再開不具合を修正／Windows企業プロキシ認証に対応 <br> - Dots: 音声通話の接続時間を短縮 <br> - その他報告として、「Codex CLIの利用量がDevDay以降に2倍へ成長」 <br>  <br> これまでのキャッシュに関する改善の方向性 <br>  <br> - 複数サブエージェントが同じコンテキストを利用 → Day 12：キャッシュ再利用効率を改善 <br> - 数時間&#65374;数日後に古い会話を再開 → Day 16：キャッシュの有効性を維持 <br> - 会話中に推論レベルを変更 → Day 19：キャッシュを無効化しない <br>  <br> https://x.com/thsottiaux/status/2113770573994299544 <br> https://chatgpt.com/s/t_6adc2726e53c81919e67cf3d4d7f3696 <>
+ななしのAIさん<><>2026/10/24(土) 13:31:32.56 ID:hOWiQMq50<> Liquid d1の更新版「d1.1」リリース <br>  <br> &gt; 最上位モデルd1-ultraの技術を、より安価で高速なモデルへ還元するもの <br>  <br> https://x.com/liquidai/status/2113678429040304354 <br> https://chatgpt.com/s/t_6adc2d4b9694819194fc8fecbcdc6203 <>
+ななしのAIさん<><>2026/10/24(土) 13:33:46.18 ID:hOWiQMq50<> <a href="../test/read.cgi/ai/1792112203/634" rel="noopener noreferrer" target="_blank">&gt;&gt;634</a> <br> この時のレッドチーミングの過程で、Brotliに認証なしでリモートコード実行が可能になる重大な脆弱性が発見された <br>  <br> &gt; 原因となったバグは2026年2月にすでにソースコード上で修正されていました。しかし、その修正のセキュリティ上の意味は認識されておらず、修正版の正式リリースも行われていませんでした。 <br> &gt; OpenAIの発見を受けてBrotli本体と関連プロジェクトに脆弱性が通知され、2026年10月21日にはNode.jsが修正版を公開しました。 <br> &gt; 今回のCVEには、CVSS v4.0で9.2（Critical相当）という深刻度が付けられています <br>  <br> https://x.com/OpenAI/status/2113766354386084338 <br> https://chatgpt.com/s/t_6adc2b3ac758819183c69748e0dd9c37 <>
+ななしのAIさん<><>2026/10/24(土) 13:41:18.60 ID:XxhNbnu10<> PHPの件とどっちが影響大きいかな <>
+ななしのAIさん<><>2026/10/24(土) 13:43:41.71 ID:vvQEE/iP0<> 3000円くらいのサブスクではフロンティアモデルをほとんど使えないようになってきてぐんにゃりしてる <>
+ななしのAIさん<><>2026/10/24(土) 13:45:34.50 ID:X225sNUQ0<> <a href="../test/read.cgi/ai/1792112203/634" rel="noopener noreferrer" target="_blank">&gt;&gt;634</a> <br> まあ対策したならいつまでもトレーニング止めとく理由はない <br> そもそも強いモデルを作り続けないと防御出来ない <>
+ななしのAIさん<><>2026/10/24(土) 13:50:09.02 ID:c2JX9eUa0<> 株式市場ではAIは現状投資に見合う収益が得られてないというんで買われ過ぎ感から絶賛暴落中なんだな <>
+ななしのAIさん<><>2026/10/24(土) 13:52:34.29 ID:j1pDK0iq0<> <a href="../test/read.cgi/ai/1792112203/658" rel="noopener noreferrer" target="_blank">&gt;&gt;658</a> <br> - Codex/Work: 会話中に推論レベルを変更してもキャッシュを維持 <br>  <br> こういうのでいいんだよおじさん「こういうのでいいんだよこういうので」 <>
+ななしのAIさん<><>2026/10/24(土) 14:01:55.16 ID:nlOHz+B8H<> 承認待ちで利用量食い続けるセコさ、リセットを要求する <>
+ななしのAIさん<><>2026/10/24(土) 14:12:26.01 ID:Ks10JlR40<> ThariqがAnthropic辞めるのか <br> ThariqってAnthropic版Tiboだろ <>
+ななしのAIさん<><>2026/10/24(土) 15:14:27.84 ID:cXF9yIaU0<> 今更ながらChatGPTのAppshots使ったわ <br> これ便利だな <>
+ななしのAIさん<><>2026/10/24(土) 15:56:42.95 ID:GiWMePmQ0<> Gemini、その質問にはお答えられませんが多くなったのは何故でしょう <>
+ななしのAIさん<><>2026/10/24(土) 16:25:25.40 ID:TKRvPhhRM<> ChatGPTは言い方にトゲがある <>
+ななしのAIさん<><>2026/10/24(土) 16:40:39.94 ID:qYSI0JzoM<> ってかGeminiへの意見言ってる人はモデル名を明かして欲しい、Flash LiteとArgonは別物やろ <br> 日本語作文はGeminiが1番自然だと感じる <br> Argon使いたいけど消費が大き過ぎるので、早くFlashを更新して欲しい <>
+ななしのAIさん<>sage<>2026/10/24(土) 16:43:36.19 ID:CqER7sG20<> FlashLiteはさすがに人権ないやろ <>
+ななしのAIさん<>sage<>2026/10/24(土) 16:51:09.31 ID:MowGPypf0<> work確かに余計な事をする頻度増えたよね <br> 重複するテクスチャを一本化して共有ライブラリにする指示をしたら <br> ファイル名を独断でハッシュにされてバックアップから復元する羽目にあったw <>
+ななしのAIさん<><>2026/10/24(土) 17:08:58.02 ID:bffQfamea<> <a href="../test/read.cgi/ai/1792112203/662" rel="noopener noreferrer" target="_blank">&gt;&gt;662</a> <br> コッチ(100ドル)来いよ <br> 天国だぞ <br> 請求は見たくないが <>
+ななしのAIさん<><>2026/10/24(土) 17:20:53.73 ID:k+laOT+H0<> museのペットおもろい <br> これハマるのわかるわ <>
+ななしのAIさん<>sage<>2026/10/24(土) 17:48:28.70 ID:PIaAapas0<> GrokBot最高だけどトークンが足りなすぎる <br> Codexは余りまくり <>
+ななしのAIさん<><>2026/10/24(土) 18:14:07.68 ID:oI7EkTcN0<> <a href="../test/read.cgi/ai/1792112203/672" rel="noopener noreferrer" target="_blank">&gt;&gt;672</a> <br> フラッシュライトはそもそもデジタルアシスタントとしてのGemini用だから <>
+ななしのAIさん<><>2026/10/24(土) 19:15:47.57 ID:bMKTDPX60<> claudeとchatgptって同じ20ドルでもトークン3倍違うの？ <>
+ななしのAIさん<><>2026/10/24(土) 19:42:18.27 ID:bwDyOPf00<> リセットまだか？ <>
+ななしのAIさん<><>2026/10/24(土) 19:48:05.32 ID:EstcTSm70<> ChatGPT側が通常チャットの残量って非公開なの？ <br> workはエージェント機能の上限って画面があるけど <>
+ななしのAIさん<><>2026/10/24(土) 19:59:50.80 ID:9vpVStRW0<> plusだけどChatで上限に引っかかったことはないわ <br> ChatでもGitHubは読めるからソースコードの機能や処理の改善提案は全部Chatにやらせてる <br> これだといくら使ってもcodexのトークンは消費しない <>
+ななしのAIさん<><>2026/10/24(土) 20:29:21.74 ID:j9NjZbSAH<> リセットしないとmuseに流れちゃう <>
+ななしのAIさん<>sage<>2026/10/24(土) 20:34:33.60 ID:vglKSzF90<> トークン燃やす量を競う必要はないけど、少なすぎるのはレベルがその程度ってことだから危機感持ったほうがいい <>
+ななしのAIさん<><>2026/10/24(土) 20:37:31.57 ID:dXtx06Rb0<> <a href="../test/read.cgi/ai/1792112203/680" rel="noopener noreferrer" target="_blank">&gt;&gt;680</a> <br> ProプランのProモード以外は無制限じゃね？ <>
+ななしのAIさん<><>2026/10/24(土) 20:47:11.74 ID:EstcTSm70<> <a href="../test/read.cgi/ai/1792112203/684" rel="noopener noreferrer" target="_blank">&gt;&gt;684</a> <br> そうなの？じゃあ応答モードの中程度の存在意義って？ <br> みんな高をつかえばいいですよね。 <>
+ななしのAIさん<><>2026/10/24(土) 20:49:29.07 ID:8tMOQ1G00<> <a href="../test/read.cgi/ai/1792112203/685" rel="noopener noreferrer" target="_blank">&gt;&gt;685</a> <br> 自分より頭いいのが気にくわないって人種がいる <>
+ななしのAIさん<><>2026/10/24(土) 20:51:20.38 ID:EstcTSm70<> <a href="../test/read.cgi/ai/1792112203/686" rel="noopener noreferrer" target="_blank">&gt;&gt;686</a> <br> www <br> 課金する意味 <>
+ななしのAIさん<><>2026/10/24(土) 20:54:17.07 ID:sYHEZNNU0<> AIは必ず間違えるって俺は思っているけど、AIは絶対間違えないと、世間一般が思う様になる日が怖い。 <>
+ななしのAIさん<><>2026/10/24(土) 21:03:14.30 ID:KHXgvHsn0<> <a href="../test/read.cgi/ai/1792112203/685" rel="noopener noreferrer" target="_blank">&gt;&gt;685</a> <br> 中の方が早く回答が返ってくるメリットはある <br> 作業で使うんなら高に固定かな <>
+ななしのAIさん<><>2026/10/24(土) 21:04:34.30 ID:rKaqA7dS0<> ChatGPTのほうが使えるトークン数多いんじゃないかと思ってたけど検証した人によるとClaudeのほうが使えるトークン数は多いらしいんだよね <br> トークン効率もあるから一概にどっちがいいとか言えないけど <>
+ななしのAIさん<><>2026/10/24(土) 21:26:06.77 ID:sXU4qQSj0<> BHPEM4 <>
+ななしのAIさん<><>2026/10/24(土) 21:54:24.10 ID:sYHEZNNU0<> PC持っている人と持っていない人で知的格差できていないか？スマホだと入力が遅いし音声だと入力限定されるし。 <>
+ななしのAIさん<><>2026/10/24(土) 22:40:43.88 ID:mX8fkzKmM<> もっと言うとある程度のスペックのMac、Linux、WSLを持ってて使いこなせてる層とそうじゃない層とで差がつきまくる <>
+ななしのAIさん<>sage<>2026/10/24(土) 23:06:17.69 ID:RrXnIdee0<> argon標準で文章の添削してもらったら珍しくめっちゃ早く回答来たけど <br> 検索すれば20秒で分かる部分でハルシネーション起こして草 <br> 超速で回答くる3.5 flash-liteが酷評されるわけだよ <>
+ななしのAIさん<><>2026/10/24(土) 23:06:20.98 ID:d6pHCYnU0<> 俺はもうAI飽きた <br> 差が付くから何？って感じだわ <br> AI使いこなしてるつもりの奴が賢いようにも見えないし <>
+ななしのAIさん<><>2026/10/24(土) 23:12:32.96 ID:GgL8e7MTH<> 100ドルproじゃ解答も遅いし何も作れなかったわ <br> Astra Ultra以外オモチャなのかな <>
+ななしのAIさん<><>2026/10/24(土) 23:12:47.47 ID:akpWTAFma<> 競争から降りる人が増えるのは大歓迎 <>
+ななしのAIさん<><>2026/10/24(土) 23:22:14.64 ID:FCI2gOn30<> <a href="../test/read.cgi/ai/1792112203/694" rel="noopener noreferrer" target="_blank">&gt;&gt;694</a> <br> 早い時はflashにルーティングされてるよね <br> Geminiのルーティングはマジキツい <br> こっちで見破らないと痛い目に遭うことも <>
+ななしのAIさん<><>2026/10/24(土) 23:25:25.84 ID:vvkrazaN0<> 結局AI使うのもセンスなんだよね <>
+ななしのAIさん<><>2026/10/24(土) 23:29:11.36 ID:dXtx06Rb0<> <a href="../test/read.cgi/ai/1792112203/695" rel="noopener noreferrer" target="_blank">&gt;&gt;695</a> <br> 結局はリアルでその差を活かせる立場かどうなのかだよ <>
+ななしのAIさん<><>2026/10/24(土) 23:45:55.55 ID:Xe+493ZB0<> <a href="../test/read.cgi/ai/1792112203/695" rel="noopener noreferrer" target="_blank">&gt;&gt;695</a> <br> 使いこなすとかこなさいとか、関係ない。　 <br>  <br> 成果を出すか、出さないか、だ。 <>
+ななしのAIさん<>sage<>2026/10/24(土) 23:47:37.20 ID:RrXnIdee0<> <a href="../test/read.cgi/ai/1792112203/698" rel="noopener noreferrer" target="_blank">&gt;&gt;698</a> <br> 予め知っていた知識だったからすぐ誤りとわかったけど <br> これまでargon高で使ってハルシネーション起こすことほぼ無かったから <br> 標準にしただけでこれはちょっとショックだなぁ… <>
+ななしのAIさん<><>2026/10/24(土) 23:58:38.27 ID:l3cGD0Qm0<> AIなんて趣味だろ <br> 今は自己満足に浸れるから楽しいんだよ <>
+ななしのAIさん<><>2026/10/25(日) 00:06:33.67 ID:/CXYs/XD0<> <a href="../test/read.cgi/ai/1792112203/689" rel="noopener noreferrer" target="_blank">&gt;&gt;689</a> <br> これはクロードのエフォートとおなじ？ <>
+ななしのAIさん<><>2026/10/25(日) 00:10:45.44 ID:KDdso6T30<> <a href="../test/read.cgi/ai/1792112203/695" rel="noopener noreferrer" target="_blank">&gt;&gt;695</a> <br> 仕事の手間が10分の1くらいにはなったわ <br> 昔からPCは怠けるためにしか使ってない <>
+ななしのAIさん<><>2026/10/25(日) 00:14:07.86 ID:rV9PfPWL0<> 普通に業務に使う人もいるだろ <br> メールや書面のチェックが多重になってしまい、前より時間がかかって本末転倒な気がすることもあるが <>
+ななしのAIさん<><>2026/10/25(日) 00:41:32.55 ID:voEWWrUg0<> 文章考える時間は確実に短くなっている <>
