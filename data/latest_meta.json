@@ -1,20 +1,31 @@
 {
   "target": "なんJNVA部",
   "subback_url": "https://fate.5ch.io/liveuranus/subback.html",
-  "fetched_at_utc": "2026-10-26T16:06:02+00:00",
-  "thread_count": 1,
+  "fetched_at_utc": "2026-10-27T15:50:11+00:00",
+  "thread_count": 2,
   "threads": [
     {
-      "title": "5: なんJNVA部★711 (704)",
+      "title": "7: なんJNVA部★711 (1002)",
       "thread_id": "1792886097",
       "thread_url": "https://fate.5ch.io/test/read.cgi/liveuranus/1792886097/",
       "dat_url": "https://fate.5ch.io/liveuranus/dat/1792886097.dat",
-      "last_res": 704,
-      "previous_last_res": 249,
-      "new_res_start": 250,
-      "new_res_end": 704,
-      "new_res_count": 455
+      "last_res": 1002,
+      "previous_last_res": 704,
+      "new_res_start": 705,
+      "new_res_end": 1002,
+      "new_res_count": 298
+    },
+    {
+      "title": "2: なんJNVA部★712 (39)",
+      "thread_id": "1793105366",
+      "thread_url": "https://fate.5ch.io/test/read.cgi/liveuranus/1793105366/",
+      "dat_url": "https://fate.5ch.io/liveuranus/dat/1793105366.dat",
+      "last_res": 39,
+      "previous_last_res": 0,
+      "new_res_start": 1,
+      "new_res_end": 39,
+      "new_res_count": 39
     }
   ],
-  "new_res_count_total": 455
+  "new_res_count_total": 337
 }
