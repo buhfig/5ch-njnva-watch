@@ -1,5 +1,5 @@
 ===== THREAD 1/2 =====
-title: 17: 【ChatGPT】AIチャット総合 61【Gemini・Claude】 (61)
+title: 18: 【ChatGPT】AIチャット総合 61【Gemini・Claude】 (61)
 thread_id: 1791324527
 thread_url: https://krsw.5ch.io/test/read.cgi/ai/1791324527/
 response_range: 1-61
@@ -439,12 +439,12 @@ www
 
 
 ===== THREAD 2/2 =====
-title: 1: 【ChatGPT】AIチャット総合 63【Gemini・Claude】 (834)
+title: 2: 【ChatGPT】AIチャット総合 63【Gemini・Claude】 (877)
 thread_id: 1793163672
 thread_url: https://krsw.5ch.io/test/read.cgi/ai/1793163672/
-response_range: 1-834
-previous_last_res: 753
-new_response_range: 754-834
+response_range: 1-877
+previous_last_res: 834
+new_response_range: 835-877
 ===== POSTS =====
 
 [1] 2026/10/28(水) 14:01:12.81 ID:63HWg9YG0 name:ななしのAIさん mail:
@@ -6470,3 +6470,330 @@ AIの文章ゴミやで。SEとかプログラムは有能かもしれんが
 [834] 2026/11/06(金) 00:34:50.99 ID:J/Q90ZRS0 name:ななしのAIさん mail:
 想像以上にローカルAIの進化が早かったな 
  もうメモリ64gとグラボあればクウェンNEXTFLASH動くんでしょ
+
+---
+
+[835] 2026/11/06(金) 01:16:54.23 ID:xuJWzDyT0 name:ななしのAIさん mail:sage
+AI規制かー中国の天下やな
+
+---
+
+[836] 2026/11/06(金) 01:26:52.13 ID:Z8yk76Nk0 name:ななしのAIさん mail:
+アンスロピック上場だけで40兆円ぐらい儲かるGoogleは凄すぎる 
+ 地球でDC建てるの禁止とかならない限りは、イーロンも勝てないな
+
+---
+
+[837] 2026/11/06(金) 01:35:25.72 ID:xuJWzDyT0 name:ななしのAIさん mail:sage
+データセンターは爆音過ぎて近隣のものが大変なことに
+
+---
+
+[838] 2026/11/06(金) 01:54:39.82 ID:CkHlnKIh0 name:ななしのAIさん mail:
+Claudeデスクトップに追加された/storageコマンド 
+ ClaudeがPCでどれだけのディスク容量を使用しているかを確認、非アクティブなタスクや未使用のworktreeをクリア 
+ 
+ https://x.com/lydiahallie/status/2118045439803195567 
+ https://video.twimg.com/amplify_video/2118044579278770176/vid/avc1/1920x1080/ZlPvoxMBW-rTriUg.mp4
+
+---
+
+[839] 2026/11/06(金) 01:56:43.60 ID:CkHlnKIh0 name:ななしのAIさん mail:
+AntigravityがJupyter notebookをネイティブでサポート 
+ 
+ https://x.com/antigravity/status/2118234632801910871 
+ https://video.twimg.com/amplify_video/2118234600870682624/vid/avc1/1856x1080/KqegjBpW3xZuPB5F.mp4
+
+---
+
+[840] 2026/11/06(金) 01:59:21.91 ID:CkHlnKIh0 name:ななしのAIさん mail:
+Sonioxから「Soniox STT v6」リリース 
+ 
+ > Agent text input：AIの発言テキストをSTTモデルにも入力し、ユーザーの返答を正確に認識する 
+ > Agent voice echo cancellation：AI自身の音声を認識結果から除外し、ユーザーによる割り込みは引き続き認識する 
+ 
+ > 最大の特徴は、音声認識モデルがAIエージェントの発言を把握し、ユーザーの返答を会話の一部として認識できるようにしたこと 
+ > STT自体の精度向上だけでなく、音声エージェント全体としての信頼性と会話の自然さを改善するための技術 
+ 
+ https://soniox.com/blog/soniox-stt-v6 
+ https://chatgpt.com/s/t_6aec5ada14008191ad367120554603e7
+
+---
+
+[841] 2026/11/06(金) 02:01:25.29 ID:CkHlnKIh0 name:ななしのAIさん mail:
+>>169 
+ 「Sarashinaサービス」アップデート 
+ 
+ > 「Sarashina3.2 translate」の提供を開始／最大の特徴：常体・敬体の指定 
+ > Sarashina3.2 mini thinkingも32k出力に拡張 
+ 
+ https://sbintuitions.co.jp/blog/entry/2026/11/05/163543 
+ https://chatgpt.com/s/t_6aec5c69abdc8191ba49ad808c8f3257
+
+---
+
+[842] 2026/11/06(金) 02:12:15.81 ID:CkHlnKIh0 name:ななしのAIさん mail:
+Gemini Omni 1.2 Flash リリース 
+ 
+ 動画の生成時間を延長するだけでなく、生成コストの削減、参照画像への忠実度、人物や物体の一貫性、対話による動画編集、音声生成、カメラワークなど、実用上重要な部分が幅広く改善 
+ Gemini Omniシリーズとして初めて一般提供（GA：General Availability）に移行 
+ 
+ https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/ 
+ https://chatgpt.com/s/t_6aecb8daafbc81918c3f0329b68de1a6
+
+---
+
+[843] 2026/11/06(金) 02:26:17.60 ID:CkHlnKIh0 name:ななしのAIさん mail:
+GPT-6 Cyber 発表 
+ 
+ > 審査制のDaybreak Redを通じて、APIとCodexで段階的に提供 
+ 
+ > 攻撃能力の大幅な向上：既知の脆弱性について、動作するエクスプロイトを開発する能力が向上 
+ > アラインメントの改善：調査対象外のシステムを攻撃しないよう、専用の訓練を実施 
+ > 実システムでの成果：LinuxカーネルやFirefoxなど、広範に利用されるソフトウェアの脆弱性を発見・検証 
+ 
+ https://openai.com/index/introducing-gpt-6-cyber/ 
+ https://chatgpt.com/s/t_6aecbb0fb0948191ab0a6fafe4c60a47
+
+---
+
+[844] 2026/11/06(金) 02:49:05.52 ID:Af45u9Je0 name:ななしのAIさん mail:sage
+エンプラユーザー向けに Dot ひとつにつき月額50ドルの請求が行くらしいぞw
+
+---
+
+[845] 2026/11/06(金) 03:55:16.76 ID:hxFHeNgs0 name:ななしのAIさん mail:
+めっちゃ久しぶりに通常のリセット来た
+
+---
+
+[846] 2026/11/06(金) 05:01:53.25 ID:hxFHeNgs0 name:ななしのAIさん mail:
+ultraにするとサブエージェント動かしまくるの見てて面白いな
+
+---
+
+[847] 2026/11/06(金) 07:26:17.74 ID:xEFMPbHv0 name:ななしのAIさん mail:
+>>834 
+ 本当に早い 
+ Strata / Basaltの出現が歴史を動かすレベルに凄い。 
+ 今はcodexと併用して使ってるけど、近いうちにpro100もいらなくなるかも
+
+---
+
+[848] 2026/11/06(金) 07:38:48.67 ID:jTvBSHN90 name:ななしのAIさん mail:sage
+>>847 
+ 良いグラボ必須じゃないの？
+
+---
+
+[849] 2026/11/06(金) 07:43:39.26 ID:xEFMPbHv0 name:ななしのAIさん mail:
+>>848 
+ 中国人が魔改造した4090のVRAM 48GB版を2枚挿してる 
+ アリエクで今年初めの頃に買った 
+ 今はそれも当時の4倍の価格になってる
+
+---
+
+[850] 2026/11/06(金) 10:45:58.90 ID:qCadeeNQ0 name:ななしのAIさん mail:
+株価落ちて今後しばらく収益重視かな 
+ 2027年はまったり進行か
+
+---
+
+[851] 2026/11/06(金) 12:18:19.99 ID:7EZHOYdw0 name:ななしのAIさん mail:
+リセット券使った直後に一斉リセットされると悔しいから使いづら過ぎる 
+ 「いつまで絶対リセットしない」情報があれば券使用も課金も気持ち良く実行できるのに
+
+---
+
+[852] 2026/11/06(金) 12:20:10.31 ID:Z8yk76Nk0 name:ななしのAIさん mail:
+来てないじゃんリセット
+
+---
+
+[853] 2026/11/06(金) 12:27:40.19 ID:kIcKVrn6H name:ななしのAIさん mail:
+リセット魔は異動になったので
+
+---
+
+[854] 2026/11/06(金) 12:28:19.53 ID:v9WSZbdD0 name:ななしのAIさん mail:sage
+リセットのためのAI浪費バカらしくない？
+
+---
+
+[855] 2026/11/06(金) 13:43:07.04 ID:h4d1TGpSM name:ななしのAIさん mail:
+2垢運用だが片方しかリセット来てないわ 
+ どうなってんだ
+
+---
+
+[856] 2026/11/06(金) 14:16:41.62 ID:xqs8DHPd0 name:ななしのAIさん mail:
+リセット祭り終了したか...
+
+---
+
+[857] 2026/11/06(金) 14:23:19.59 ID:jG9iAq/F0 name:ななしのAIさん mail:
+結局NVIDIA一人勝ちか？
+
+---
+
+[858] 2026/11/06(金) 14:52:46.94 ID:N2RhoXOAM name:ななしのAIさん mail:
+女スパイの件で下手すりゃ国家反逆罪らしいが
+
+---
+
+[859] 2026/11/06(金) 15:55:55.05 ID:W89HVvzt0 name:ななしのAIさん mail:
+チケット使った人はリセットきてないみたいだぞ
+
+---
+
+[860] 2026/11/06(金) 16:01:33.52 ID:9QHgRDoXH name:ななしのAIさん mail:
+何の発表も無く、性能落ちたモデルを回す日々が続くのか
+
+---
+
+[861] 2026/11/06(金) 16:16:44.39 ID:CkHlnKIh0 name:ななしのAIさん mail:
+Hermes Agent用のプラグイン、コネクター、スキルが1つのマーケットプレイスに統一 
+ 
+ https://x.com/NousResearch/status/2118058453415371119 
+ https://hermes-agent.nousresearch.com/marketplace
+
+---
+
+[862] 2026/11/06(金) 16:18:51.55 ID:CkHlnKIh0 name:ななしのAIさん mail:
+>>616 
+ METRによるAnthropicのAI研究開発加速の評価報告 
+ 
+ > 1. AI能力の進歩速度／約2倍／2024年3月～2025年10月との比較 
+ > 2. 現在の加速に対するAIの寄与／約80% ／ETRによる不確実性の大きい主観的推定 
+ > 3. 今後12か月の見通し／研究開発を大きく減速させる明確なボトルネックは見つからず、さらなる加速が起きる可能性がある 
+ 
+ > 今回の分析には、一般公開されたClaudeだけでなく、以下の未公開モデルも含まれています。 
+ > コードネーム／訓練完了時期 
+ > Unreleased 2022／2022年 
+ > Model 2／2026年7月 
+ > Model 3／2026年8～9月 
+ > Model 4／2026年9～10月 
+ 
+ > 加速の原因がAI研究開発支援に移りつつある／今回の結果が正しければ、そこに「より強いAIが、次のより強いAIの開発を加速する」というフィードバックが、すでに相当な規模で加わっています 
+ > 安全性の観点から特に懸念されるのは、能力開発の加速を正確に測定できるようになる前に、能力開発の加速そのものが進んでしまう可能性 
+ 
+ https://metr.org/blog/2026-11-05-anthropic-ai-rd-acceleration-assessment/ 
+ https://metr.org/assets/images/ai-rd-acceleration-assessment/jump-vs-slope-change.png 
+ https://chatgpt.com/s/t_6aed6c2fa3a4819194d585b318ac7028
+
+---
+
+[863] 2026/11/06(金) 16:20:56.51 ID:CkHlnKIh0 name:ななしのAIさん mail:
+inclusionAI/Ant Lingから「Ling-3.2-flash」リリース 
+ 560B-A25B 
+ 
+ > 560B／25Bという3.1世代の大型MoE基盤を維持しつつ、視覚能力を本格的に統合 
+ > 3DやGUI操作を含む視覚フィードバック型のエージェント能力を前面に出した 
+ > 視覚関連の3つのベンチマークでOpus 5（max）を上回る結果を報告 
+ 
+ https://x.com/AntLingAGI/status/2118428246664761379 
+ https://chatgpt.com/s/t_6aed702229e08191aa7ae324628ff9d5
+
+---
+
+[864] 2026/11/06(金) 16:23:00.93 ID:CkHlnKIh0 name:ななしのAIさん mail:
+Thinking Machines Labから「Inkling 2 Small」リリース 
+ 594B-17B 
+ 
+ > Variable Effort：タスクに応じて推論の労力を調整 
+ > 長時間の自律作業、視覚的な自己検証、異なるエージェント環境への適応、ファインチューニングの自動化に重点 
+ > 安全性評価を完了した後、モデルの全ウェイトを公開する方針 
+ > 公開予定のオープンウェイトモデルとしては非常に高い性能を示しており、Thinking Machines Labが目指す「カスタマイズ可能なAI」を具体化するモデル 
+ 
+ https://thinkingmachines.ai/news/inkling-2-small/ 
+ https://chatgpt.com/s/t_6aed736c377481919631fa7900918a5c
+
+---
+
+[865] 2026/11/06(金) 16:25:51.97 ID:CkHlnKIh0 name:ななしのAIさん mail:
+Kiro Crewの新機能として「Kiro bots」正式公開 
+ 
+ > 特定の役割を持ち、専用の記憶を蓄積しながら継続的に仕事を進めるAIエージェント／複数のWorkerセッションを自律的に起動・管理し、過去の経験や利用者からの訂正を次の仕事に反映する 
+ 
+ > Botごとの役割と専用ワークスペース／専用メモリと自己改善／Workerセッションの自律的な管理／Goal、Milestone、Work Log、Dashboard／CronとHeartbeatによる継続実行／Botごとの権限制御／BotとWorkerでモデルを使い分ける 
+ 
+ > 類似プロダクトとの比較／特に類似性が高いのは、Mercury Bots、Hermes Agent Bot Mode、OpenClaw、Grok Bot、Cursor Automations 
+ 
+ https://kiro.dev/blog/crew-bots/ 
+ https://chatgpt.com/s/t_6aed7c7c8afc8191a95d93d7264375ce
+
+---
+
+[866] 2026/11/06(金) 16:28:01.31 ID:CkHlnKIh0 name:ななしのAIさん mail:
+Microsoftから「Intelligent Terminal 0.3」リリース 
+ 
+ > 新サイドバーによるエージェント管理／ヘッドレスモード／対応AIエージェントの拡大 
+ 
+ https://github.com/microsoft/intelligent-terminal/releases/tag/v0.3 
+ https://chatgpt.com/s/t_6aed76b741448191b3ebae6522689fc5
+
+---
+
+[867] 2026/11/06(金) 16:31:27.94 ID:KyhKLFbt0 name:ななしのAIさん mail:
+CodexのAPI無料クレジット200ドル分も1ヶ月できれるから 両方使わんとな
+
+---
+
+[868] 2026/11/06(金) 19:06:48.69 ID:7YcDwVih0 name:ななしのAIさん mail:
+7日のリセット券使うの忘れないようにしないとな
+
+---
+
+[869] 2026/11/06(金) 21:34:26.74 ID:GhlFWDSi0 name:ななしのAIさん mail:
+有効期限:11月7日6:44GMT+9 
+ って表示だと6:44にきれちゃう？
+
+---
+
+[870] 2026/11/06(金) 22:01:08.46 ID:q3q/2GEx0 name:ななしのAIさん mail:
+>>862 
+ Model3→Model4でまた飛躍があったように見えるな
+
+---
+
+[871] 2026/11/06(金) 23:19:27.81 ID:t/5UJaXr0 name:ななしのAIさん mail:sage
+muse課金してる人いない？課金したら使い勝手よくなりますかね？ 
+ 無料版ちょっとおバカなんで
+
+---
+
+[872] 2026/11/06(金) 23:22:23.29 ID:pYZxOrMT0 name:ななしのAIさん mail:
+スマホに入れるヘルスケアアプリがどうのっていってる奴が 
+ 二人ほど地方新聞に出てたんだが(別人、別日) 
+ もしかしてAIで作ってるのかね 
+ 片方はついこの間でもう片方は去年か夏ごろ？
+
+---
+
+[873] 2026/11/06(金) 23:25:55.11 ID:pYZxOrMT0 name:ななしのAIさん mail:
+スマホに入れるヘルスケアアプリがどうのっていってる奴が 
+ 二人ほど地方新聞に出てたんだが(別人、別日) 
+ もしかしてAIで作ってるのかね 
+ 片方はついこの間でもう片方は去年か夏ごろ？
+
+---
+
+[874] 2026/11/06(金) 23:28:35.52 ID:pYZxOrMT0 name:ななしのAIさん mail:
+結構あり来たりな物や発想なのかもしれんな。しういうのは
+
+---
+
+[875] 2026/11/07(土) 00:02:13.85 ID:PxBkJT2y0 name:ななしのAIさん mail:
+自分用に作るならともかく 
+ 収入に出来そうなものは既に誰かが作ってる
+
+---
+
+[876] 2026/11/07(土) 00:14:34.85 ID:eXxFbl2F0 name:ななしのAIさん mail:
+Qwen4くるか
+
+---
+
+[877] 2026/11/07(土) 00:27:05.41 ID:7VvKnMvS0 name:ななしのAIさん mail:
+にっけいもGeminiにも仮想マシンきたああああああい
