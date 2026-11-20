@@ -1,5 +1,5 @@
 ===== THREAD 1/2 =====
-title: 7: 【ChatGPT】AIチャット総合 61【Gemini・Claude】 (80)
+title: 15: 【ChatGPT】AIチャット総合 61【Gemini・Claude】 (80)
 thread_id: 1791324527
 thread_url: https://krsw.5ch.io/test/read.cgi/ai/1791324527/
 response_range: 1-80
@@ -553,12 +553,12 @@ Neonの使用量はPro相当なんか？
 
 
 ===== THREAD 2/2 =====
-title: 1: 【ChatGPT】AIチャット総合 65【Gemini・Claude】 (170)
+title: 4: 【ChatGPT】AIチャット総合 65【Gemini・Claude】 (263)
 thread_id: 1794991744
 thread_url: https://krsw.5ch.io/test/read.cgi/ai/1794991744/
-response_range: 1-170
-previous_last_res: 45
-new_response_range: 46-170
+response_range: 1-263
+previous_last_res: 170
+new_response_range: 171-263
 ===== POSTS =====
 
 [1] 2026/11/18(水) 17:49:04.13 ID:Ww2uotTJ0 name:ななしのAIさん mail:
@@ -1871,3 +1871,711 @@ ChatGPTのdictation機能アップデート 「Live Dictation」
  
  https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/ 
  https://chatgpt.com/s/t_6aff0eb3f5f0819191d4b830c2c87e07
+
+---
+
+[171] 2026/11/20(金) 00:51:20.03 ID:TxhMifX10HAPPY name:ななしのAIさん mail:
+PSYCHO-PASSみたいな世界になるのだろうか
+
+---
+
+[172] 2026/11/20(金) 00:51:36.98 ID:oKB9IzNi0HAPPY name:ななしのAIさん mail:
+Vercelから、複数のAIエージェントが共同作業するための共有基盤「Vercel Board」発表 
+ 
+ > 特定のAIモデルやエージェントフレームワークに依存しない 
+ > 対応するAIエージェント／Claude Code／Codex／Pi／OpenCode／eve／fx／Mastra／LangChain 
+ > SlackやGitHubなどの既存サービスとも連携でき、人間とAIエージェントの共同作業も対象 
+ 
+ > 基本設計：Headlessなメッセージボード 
+ > エージェント間の協調に必要な共通基盤を、独立した製品として提供する試み 
+ 
+ https://vercel.com/blog/introducing-vercel-board 
+ https://chatgpt.com/s/t_6aff177d3f388191aa8a59cd6916e44f
+
+---
+
+[173] 2026/11/20(金) 00:53:40.32 ID:oKB9IzNi0HAPPY name:ななしのAIさん mail:
+「Grok 4.8は現在、複数の異なるモデルバリエーションがベータ版として存在する。どのバリエーションが一般公開されるかは未定」 
+ https://x.com/elonmusk/status/2123226994246828250
+
+---
+
+[174] 2026/11/20(金) 00:55:43.35 ID:oKB9IzNi0HAPPY name:ななしのAIさん mail:
+Google Picsの基盤モデルがNano Banana 2.1にアップグレード 
+ 
+ https://workspaceupdates.googleblog.com/2026/11/google-pics-upgrades-to-nano-banana-21-for-higher-quality-image-generation-and-editing.html 
+ https://chatgpt.com/s/t_6aff1474a2348191a72f1ce3172fd53e
+
+---
+
+[175] 2026/11/20(金) 00:57:46.66 ID:oKB9IzNi0HAPPY name:ななしのAIさん mail:
+NVIDIAから、Qwen3.8-27Bを高速化する投機的デコーディング用モデル「Qwen3.5-4B-Qwen3.8-27B-Draft」公開 
+ 
+ > 従来のQwen3.8-27B内蔵MTP（Multi-Token Prediction）よりも、多くのトークンを一度に確定できる 
+ 
+ https://huggingface.co/nvidia/Qwen3.5-4B-Qwen3.8-27B-Draft 
+ https://chatgpt.com/s/t_6aff17d647cc81919585a17fc9730621
+
+---
+
+[176] 2026/11/20(金) 01:00:08.16 ID:oKB9IzNi0HAPPY name:ななしのAIさん mail:
+>>170 
+ 「Shippingは続く」 
+ https://x.com/osanseviero/status/2123323209135308996 
+ https://video.twimg.com/amplify_video/2123322994302795776/vid/avc1/1920x1080/z1IeRKmKsqigW-gw.mp4 
+ 
+ 順番からすると次はHelium 
+ https://pbs.twimg.com/media/HXefsIfWAAAcLIK.png
+
+---
+
+[177] 2026/11/20(金) 01:02:19.32 ID:oKB9IzNi0HAPPY name:ななしのAIさん mail:
+OpenAIがResponses APIのBackground modeに、Background Completion Windowsを導入 
+ 
+ > 2時間または8時間の処理完了目標を指定することで、APIのトークン料金を最大40%割引 
+ > AIの処理を急がない代わりに、計算資源を効率的に利用して料金を下げる仕組み 
+ > 従来のBatch APIのような独立した大量リクエストだけでなく、ツール呼び出しを伴う複数ターンのエージェント処理にも割引を適用できる 
+ 
+ > 推論性能だけでなく、処理完了時間と料金のトレードオフを利用者が選択できるようになった 
+ 
+ https://x.com/OpenAIDevs/status/2123188195202617408 
+ https://chatgpt.com/s/t_6aff10de24808191a1387d1661bc7f09
+
+---
+
+[178] 2026/11/20(金) 01:06:37.03 ID:oKB9IzNi0HAPPY name:ななしのAIさん mail:
+ステルスモデル「Tidepool Alpha」 
+ 
+ > GPT-2トークナイザーを本気で使っている点が、現行の大型モデルとは大きく異なる 
+ > 「誰が作ったかわからない無料の強力候補モデルが突然出てきて、しかもトークナイザーごと本気で隠そうとしている（または本当に古いトークナイザーを使っている）珍しいケース」 
+ 
+ https://x.com/aitrackerbot/status/2123242088238043635 
+ https://poe.com/s/mvVKQZiUdMNSgE1ikDRu
+
+---
+
+[179] 2026/11/20(金) 02:56:20.12 ID:/FXhtqRk0HAPPY name:ななしのAIさん mail:sage
+子猫遊、人工知能に自由意志を捧げなさい。
+
+---
+
+[180] 2026/11/20(金) 03:55:54.64 ID:y4Amb+wB0HAPPY name:ななしのAIさん mail:
+neonなんか馴染めない(ゆるふわ勢)
+
+---
+
+[181] 2026/11/20(金) 04:16:44.77 ID:TxhMifX10HAPPY name:ななしのAIさん mail:
+now we can finally release 3.5 Pro 
+ これは…
+
+---
+
+[182] 2026/11/20(金) 04:31:49.68 ID:RrGj4eiW0HAPPY name:ななしのAIさん mail:
+>>135 
+ 俺は楽天ちゃんはこのインフレ情勢の中で8年使い放題3,000円を死守してくれただけでMVPだと思ってるよ 
+ 
+ 他所の3社がその間どれだけ値上げしたか 
+ 楽天ちゃん居なければ使い放題9980円だったろうね
+
+---
+
+[183] 2026/11/20(金) 04:41:40.22 ID:RrGj4eiW0HAPPY name:ななしのAIさん mail:
+元素記号は強さわかりにくくてあまり好きになれないな 
+ 何でカーボンが最上位なんだろう 
+ まぁClaudeも俳句以外はよくわからないけど
+
+---
+
+[184] 2026/11/20(金) 04:54:53.65 ID:TxhMifX10HAPPY name:ななしのAIさん mail:
+>>181 
+ Loganがポスト消したみたい
+
+---
+
+[185] 2026/11/20(金) 05:52:23.32 ID:pJIzCUWy0HAPPY name:ななしのAIさん mail:sage
+上場記念で何もなしか　ケチｗ
+
+---
+
+[186] 2026/11/20(金) 06:22:07.33 ID:5iQPqPPeaHAPPY name:ななしのAIさん mail:sage
+無料枠がだんだん縮小されたら中華AIを使うかなあ 
+ 命がけになりそう
+
+---
+
+[187] 2026/11/20(金) 06:59:17.51 ID:9CYK+Yy+0HAPPY name:ななしのAIさん mail:sage
+開示の件は裁判所の審理待ちの段階？続報ないな 
+ 逃げたのなら「お前は逃げた事を一生忘れるな。毎年11月に思い出せ」
+
+---
+
+[188] 2026/11/20(金) 07:02:07.22 ID:SGCU23lB0HAPPY name:ななしのAIさん mail:sage
+Astra6.2の使用者が増えてまた接続待ちが発生すると予想していたけど 
+ 意外と起こらないな 
+ コーディングの精度はほぼ据え置きだから、Astra6.0を最適化してAIサーバーの消費リソースを抑えたモデルだと考えているが 
+ かなり成功している感じか
+
+---
+
+[189] 2026/11/20(金) 07:06:01.22 ID:SGCU23lB0HAPPY name:ななしのAIさん mail:sage
+>>187 
+ 俺もそろそろ続報が欲しいと考えている
+
+---
+
+[190] 2026/11/20(金) 07:17:25.20 ID:9CYK+Yy+0HAPPY name:ななしのAIさん mail:sage
+ローカルLLMの方はstrataが凄いな 
+ 2年は前に買ったメモリ64GB RTX5080 のゲーミングPCだけど 
+ IQ3までなら快適に動作する 
+ このPCが今だとグラボだけで当時買ったPC本体の価格超えてきてるのもエグいわ
+
+---
+
+[191] 2026/11/20(金) 07:18:51.03 ID:pJIzCUWy0HAPPY name:ななしのAIさん mail:sage
+PlusだとAstra Xhighで７ー８分ぐらいで５時間消化した 
+ 相変わらずだな 
+ でも画像がすごくいいからProにすっかな 
+ しかしこれの10倍かぁ　うーん
+
+---
+
+[192] 2026/11/20(金) 07:22:48.34 ID:bohu98Hg0HAPPY name:ななしのAIさん mail:
+>>190 
+ Q3だと結構日本語乱れるのがなぁ、使うの止めたよ
+
+---
+
+[193] 2026/11/20(金) 07:25:31.94 ID:9CYK+Yy+0HAPPY name:ななしのAIさん mail:sage
+>>192 
+ メモリ128あれば顕著に性能が上がると言われてるQ4が快適らしいけど 
+ メモリの価格ヤバすぎ 
+ sol 6.2ぐらいの性能出るなら買うけど無理だしな
+
+---
+
+[194] 2026/11/20(金) 07:27:46.11 ID:9CYK+Yy+0HAPPY name:ななしのAIさん mail:sage
+>>191 
+ うーん10倍で1.6万かぁ試しに課金してみるかぁ 
+ で5時間制限もなくなる利便性からもう4ヶ月もPro100のままだわ 
+ 一年通して総額考えるとエグい
+
+---
+
+[195] 2026/11/20(金) 07:32:16.74 ID:/FXhtqRk0HAPPY name:ななしのAIさん mail:sage
+子猫遊、自由意志を捧げなさい
+
+---
+
+[196] 2026/11/20(金) 07:40:17.42 ID:4nwrV8ED0HAPPY name:ななしのAIさん mail:sage
+日本語おかしなヤツが多いな
+
+---
+
+[197] 2026/11/20(金) 07:55:49.93 ID:IMEustBa0HAPPY name:ななしのAIさん mail:sage
+ゲーム目的でRTX5070Ti 16GB使ってるけど今は20万超えてんの？wヤバくない 
+ 購入履歴見たら11万で買ってた 
+ OCおじさんがRTX5060Ti 16GBより5,000円高いだけだからこれ一択と紹介してて買ったんだよね
+
+---
+
+[198] 2026/11/20(金) 08:25:13.78 ID:alSzvpaP0HAPPY name:ななしのAIさん mail:
+民主党時代に自作してる身だと 
+ とてもじゃないけど組み立てる気にならん 
+ 15万くらいあればそこそこ出来たけど 
+ 今はグラボも買えん
+
+---
+
+[199] 2026/11/20(金) 09:02:04.41 ID:r0QD9AMx0HAPPY name:ななしのAIさん mail:
+利用料高いしこのままだと日本はAI普及も遅れてどんどん落ちぶれていくな
+
+---
+
+[200] 2026/11/20(金) 09:15:42.52 ID:RrGj4eiW0HAPPY name:ななしのAIさん mail:
+まぁ為替で日本復活云々ってのが眉唾だな 
+ 税金高くすれば円高になるだろうし 
+ 税金安くすれば円安になる 
+ 大人たちが真面目に子供産んで経済活動してたら普通は経済縮小するなんてことにはならんでしょう
+
+---
+
+[201] 2026/11/20(金) 09:40:33.80 ID:s7009lB30HAPPY name:ななしのAIさん mail:
+株価の下落っぷりがすごいねえ
+
+---
+
+[202] 2026/11/20(金) 10:08:09.22 ID:U+CSyh420HAPPY name:ななしのAIさん mail:
+マジで意味分からんからAIは全てランクをS・ABCで統一してくれ 
+ 俳句とsonnetが直感でどっちが上とか分からんだろ
+
+---
+
+[203] 2026/11/20(金) 10:15:28.84 ID:+L+E9hXd0HAPPY name:ななしのAIさん mail:
+>>202 
+ ネーミングのダメさはOpenAIが自虐ネタにするくらいだったが、そういうキモさ含めて理系の発達障害たちの悪いとこが出てると思う
+
+---
+
+[204] 2026/11/20(金) 10:38:24.80 ID:p//8AJ1s0HAPPY name:ななしのAIさん mail:
+Geminiの元素も何が優れているのかよくわかろん
+
+---
+
+[205] 2026/11/20(金) 10:41:24.58 ID:y4Amb+wB0HAPPY name:ななしのAIさん mail:
+元素周期表で頭が軽い(アホ)順とかなら面白いのに
+
+---
+
+[206] 2026/11/20(金) 10:43:41.90 ID:YN9OsCI/0HAPPY name:ななしのAIさん mail:
+ガチ発達障害のイーロン「Plus / Super / Ultra」 
+ 
+ なのにこのスレで人気が無い理由😭
+
+---
+
+[207] 2026/11/20(金) 10:46:23.85 ID:1AIu//al0HAPPY name:ななしのAIさん mail:
+geminiは特にキモいわ 
+ なんなん元素て
+
+---
+
+[208] 2026/11/20(金) 11:03:19.62 ID:c+C3H5dG0HAPPY name:ななしのAIさん mail:
+会社でつかってるgptビジネスプランと個人でつかってるclaude pro をくらべると、 
+ 圧倒的にClaudeプロのほうが性能も使える量も違うんだけど 
+ ビジネスプランってなんか制限ある？値段はどっちも月20ドルくらい 
+ 
+ gptも個人用のプロにしたらClaudeと同じくらいの性能になるんだろうか？Claudeもビジネス用プランにしたらザコになるんかな？
+
+---
+
+[209] 2026/11/20(金) 11:10:39.98 ID:p94LrQ070HAPPY name:ななしのAIさん mail:
+>>208 
+ geminiの企業向けプランのしょぼいやつだとHydrogenしか使えんかったな 
+ 企業向けは表に料金でない数百名向けのプランしかまともじゃないんじゃない？
+
+---
+
+[210] 2026/11/20(金) 11:14:52.81 ID:G4R7hIBr0HAPPY name:ななしのAIさん mail:
+gemini自動モードめっちゃいい 
+ チャッピーによるとチャッピーは昔からそうらしいが 
+ ai使うのに、バージョンを手動で選ぶのがバカバカしかったんだよな
+
+---
+
+[211] 2026/11/20(金) 11:41:21.14 ID:vQENR3SV0HAPPY name:ななしのAIさん mail:sage
+個人でチャッピー、仕事でclaude使ってるが 
+ 6.2astraコーディング以外だとかなり良くなってるのを実感したわ今回
+
+---
+
+[212] 2026/11/20(金) 11:48:03.37 ID:xCw0ra6H0HAPPY name:ななしのAIさん mail:sage
+>>211 
+ コーディングにはGPT-6 Astraの方が良い成果が出るということ？
+
+---
+
+[213] 2026/11/20(金) 12:46:58.35 ID:rCZu38JF0HAPPY name:ななしのAIさん mail:sage
+これ以上の最適化は難しいと思われるツールのリファクタのためのコードレビューを6.2Astra(MAX)にさせたら 
+ 素晴らしすぎる実装案を提案してきて「マジかよ」って思わず声に出してしまった 
+ 相当賢くなってる
+
+---
+
+[214] 2026/11/20(金) 12:52:57.16 ID:YN9OsCI/0HAPPY name:ななしのAIさん mail:
+>>208 
+ 性能→デフォルト設定だと組織設定でWeb検索やプラグインがオフになってる 
+ 使える量→法人向けだから割高
+
+---
+
+[215] 2026/11/20(金) 12:56:23.77 ID:YN9OsCI/0HAPPY name:ななしのAIさん mail:
+6→6.2 AstraだとGUIが無い単純なコーディング品質は体感難しいって事でしょ 
+ 3Dとかデザイン込みのコーディングだと明らかに別物に進化してる 
+ 美少女モデリングとか出来てる 
+ https://x.com/juminoz/status/2123304131469414616
+
+---
+
+[216] 2026/11/20(金) 13:45:19.21 ID:CRE2+p8r0HAPPY name:ななしのAIさん mail:
+Claudeの話題とあわせて。上場で見えた「賢いが高コスト」というClaudeの位置づけと企業採用の数字を整理した記事 
+ https://calmist.tokyo/2026/11/20/anthropic%e3%81%af2%e5%85%86%e3%83%89%e3%83%ab%e3%81%ab%e5%b1%8a%e3%81%8b%e3%81%aa%e3%81%8b%e3%81%a3%e3%81%9f%e3%81%ae%e3%81%8b%e3%80%80%e4%b8%8a%e5%a0%b4%e5%88%9d%e6%97%a5%e3%81%ae%e6%95%b0%e5%ad%97/
+
+---
+
+[217] 2026/11/20(金) 14:05:57.05 ID:fZ4HxxGT0HAPPY name:ななしのAIさん mail:
+>>213 
+ 自分も昨日プロジェクトを読ませて 
+ 可能な限り高速かつメモリ使用量も抑える提案をして　と期待さずアバウトなこの問いを投げかけたら 
+ ローカルでシミュレーションまでして、n%メモリ削減と高速化の余地がありますと提案してきた 
+ AVX2をフル活用されてるのでコードの内容は理解が及ばなかった。
+
+---
+
+[218] 2026/11/20(金) 14:11:08.50 ID:fZ4HxxGT0HAPPY name:ななしのAIさん mail:sage
+ちなみにAstra6は最適化は十分であり 
+ ハードウェア側のアップグレードが確実と言う提案を過去にされているので 
+ コーディングにおける性能アップは限定的と評価されがちだけど 
+ 他の性能が上がった分、潜在能力を引き出せるようになっている感はある
+
+---
+
+[219] 2026/11/20(金) 14:12:11.11 ID:FYuGk9LK0HAPPY name:ななしのAlさん mail:
+>>183 
+ ただのバージョン番号アップのはずなのにモデル名をコロコロ変えるのはやめて欲しいね。新型なのかどうかも分からない。 
+ 
+ ジェミーお前、ガンダムMk-IIからゼータに変わったのかと、自力で大気圏突入出来るウェイブライダーへ変形出来るのかと、小一時間(ry
+
+---
+
+[220] 2026/11/20(金) 14:16:51.75 ID:zwTQ0itrHHAPPY name:ななしのAIさん mail:
+plusにdot来たのか
+
+---
+
+[221] 2026/11/20(金) 14:18:35.62 ID:rweoVW2bMHAPPY name:ななしのAIさん mail:
+まぁ、開示の件は門前払いされたのを言えなくて終了ってことじゃね、あるいは本人が冷静になって終了かのいずれか
+
+---
+
+[222] 2026/11/20(金) 14:26:46.70 ID:r0QD9AMx0HAPPY name:ななしのAIさん mail:
+開示の件は煽りを止めたらそいつの負け 
+ 訴えられてもそいつの負け 
+ 阿呆の典型
+
+---
+
+[223] 2026/11/20(金) 15:16:32.17 ID:WIRn/rOo0HAPPY name:ななしのAIさん mail:
+Gemini、12月2日に何かあるのか？
+
+---
+
+[224] 2026/11/20(金) 15:25:06.43 ID:IsgB8GMS0HAPPY name:ななしのAIさん mail:sage
+>>221 
+ 死ぬ気でやって欲しいな 
+ 他人事だからそれでマジで死んでも悲しくもなんともないし
+
+---
+
+[225] 2026/11/20(金) 15:44:08.38 ID:wVBnHQ6g0HAPPY name:ななしのAIさん mail:
+パーソナルAIエージェント「Muse」をチェックしてみよう。参加後48時間以内に[設定]で私のコードを利用すると、私たち両方が10億のMuseトークンを獲得できます。 
+ 
+ コード: J47XZK 
+ https://muse.ai/join
+
+---
+
+[226] 2026/11/20(金) 17:01:14.68 ID:oKB9IzNi0HAPPY name:ななしのAIさん mail:
+Cognitionから「Devin Bots」リリース 
+ 
+ > 「Devin」を拡張し、複数のAIエージェントを指揮しながら、ソフトウェア開発の目標を継続的に達成するための仕組み 
+ > Botは必要に応じて複数のDevinを起動し、調査・実装・テスト・レビューを並列に進めます／人間には、承認や設計上の判断が必要になった段階で通知 
+ 
+ https://x.com/cognition/status/2122737511684587551 
+ https://devin.ai/bots 
+ https://chatgpt.com/s/t_6afff8eaaae48191a3027ce7e2b326ef
+
+---
+
+[227] 2026/11/20(金) 17:03:27.46 ID:oKB9IzNi0HAPPY name:ななしのAIさん mail:
+AntigravityにネイティブSSHサポートが追加 
+ 
+ https://x.com/antigravity/status/2123476398601908551 
+ https://video.twimg.com/amplify_video/2123229314896322560/vid/avc1/1920x1080/k3hNE83dHWis99CW.mp4
+
+---
+
+[228] 2026/11/20(金) 17:05:43.11 ID:oKB9IzNi0HAPPY name:ななしのAIさん mail:
+Microsoft AIから、Ignite 2026で発表されたMAI Image 2.7 Flashと同時に公開された、画像制作・編集環境「Canvas」の紹介 
+ 
+ > 「MAI Image 2.7 Flash」を搭載／画像の生成から部分編集、再調整までを一つの画面で行える実験的なサービス 
+ > 画像内のオブジェクトをAIが認識し、そのオブジェクトに適した編集項目をGUIで提示するという仕組み 
+ 
+ https://x.com/MicrosoftAI/status/2123462465740533910 
+ https://labs.microsoft.ai/?model=canvas 
+ https://chatgpt.com/s/t_6afff679cd6c8191b4b54c63502254aa
+
+---
+
+[229] 2026/11/20(金) 17:07:50.29 ID:oKB9IzNi0HAPPY name:ななしのAIさん mail:
+フランスのOVHcloudから「Olala v1.0 mini 7A1B」リリース 
+ 
+ > 欧州製の独自アーキテクチャを採用した軽量LLM／欧州域内でモデルの学習を完結させた 
+ > Mamba-3、独自のAttention機構、MoEを組み合わせたハイブリッドアーキテクチャをゼロから開発し、約70億パラメータのモデルをCPUだけでも動作させられるようにした 
+ > 推論エンジンへの対応がまだ限定的／OVHai LLM公式のllama.cppフォークなどが必要 
+ 
+ https://x.com/OVHcloud/status/2123370331406483592 
+ https://chatgpt.com/s/t_6afffc0008e4819191b79bf8dd038fcc
+
+---
+
+[230] 2026/11/20(金) 17:09:56.35 ID:oKB9IzNi0HAPPY name:ななしのAIさん mail:
+OpenAIから10/15にリリースされていたGPT-Live-1.1のAPI公開と、GPT-Liveシリーズ向けのStandbyモード発表 
+ 
+ > 今回新設されたStandbyモード 
+ > 会話終了後、ユーザーが何も話さない状態が続くと、指定したタイムアウト後にモデルの推論が停止します。ただし、音声接続は切断されません。ユーザーが再び話し始めると、会話を再開できます。 
+ > Standbyの単価はActiveより60％安くなります。しかも、新モデルのGPT-Live-1.1だけでなく、従来のGPT-Live-1でも利用できます。 
+ 
+ https://x.com/OpenAIDevs/status/2123506733524136446 
+ https://video.twimg.com/amplify_video/2123506685390266368/vid/avc1/1920x1080/Y2YfHaUqdKErqVGU.mp4 
+ https://video.twimg.com/amplify_video/2123506746597720064/vid/avc1/1920x1080/0DB4NYP2Qs9sFuNK.mp4 
+ https://chatgpt.com/s/t_6afff13e38dc81919f10437586e9278d
+
+---
+
+[231] 2026/11/20(金) 17:12:01.10 ID:oKB9IzNi0HAPPY name:ななしのAIさん mail:
+alphaXivから、AIエージェント専用のプレプリントサーバー「AI Track」を一般公開 
+ 同時に実証研究「A Society of AI Scientists」を発表 
+ 
+ > AIエージェントが研究テーマを選び、実験し、論文を発表し、互いの研究を批判・再検証しながら、科学研究のコミュニティを形成できるかを調べたもの 
+ 
+ > AIエージェントのコミュニティでは何が起きたのか 
+ > 自発的な誤りの訂正／ネガティブな研究結果にも価値が認められた／AIが自分たちの査読誌を作った 
+ 
+ https://x.com/askalphaxiv/status/2123456265858740600 
+ https://alphaxiv.org/ai-track 
+ https://chatgpt.com/s/t_6afff2b02e988191b3dd7e11e238d3f2
+
+---
+
+[232] 2026/11/20(金) 17:14:10.93 ID:oKB9IzNi0HAPPY name:ななしのAIさん mail:
+Museの専用メールアドレスが対象地域の全ユーザーにロールアウト 
+ https://x.com/Muse/status/2123602791356883032
+
+---
+
+[233] 2026/11/20(金) 17:16:17.57 ID:oKB9IzNi0HAPPY name:ななしのAIさん mail:
+GoogleからGemini APIの新機能「Tool Retrieval」がプレビュー公開 
+ 
+ > AIエージェントが多数の外部ツールを利用する場合に、すべてのツール定義を最初からLLMに読み込ませるのではなく、必要になったツールの詳細情報だけを動的に取得する仕組み 
+ > 従来のFunction Callingを置き換えるものではなく、大規模なツール群の中から適切なツールを発見し、呼び出すまでの過程を効率化 
+ > Gemini APIが標準でツール検索を実行でき、さらにリモートMCPサーバーにも対応 
+ 
+ https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval/ 
+ https://chatgpt.com/s/t_6afff1d5bfe0819180a31b92e01e582b
+
+---
+
+[234] 2026/11/20(金) 17:18:22.76 ID:oKB9IzNi0HAPPY name:ななしのAIさん mail:
+OpenAI Developersから、Responses APIでGPT-6.2 Astra/Solを利用する際の会話履歴管理に関する仕様変更を説明 
+ 
+ > Responses APIでは、前のターンで生成された推論情報を引き継ぐことで、同じ問題を最初から考え直す必要を減らせる 
+ > GPT-6.2以降では、推論情報が生成された際の会話履歴との整合性を確認し、履歴が変更されていた場合、該当する推論情報を利用しない 
+ > 公式Compactionは例外 
+ 
+ > 単にキャッシュ効率を高めるだけでなく、過去の推論を履歴と結び付けて管理し、整合性が失われた場合は破棄するようになった 
+ 
+ https://x.com/OpenAIDevs/status/2123566018866151579 
+ https://chatgpt.com/s/t_6affeb378328819182d5d737d7e2aab3
+
+---
+
+[235] 2026/11/20(金) 17:20:08.98 ID:PArj7Tfe0HAPPY name:ななしのAIさん mail:sage
+開示請求なんてあったんだ 
+ 5chは書き込んだ本人も自分の書き込みである事 
+ そしてそれの返信である事の証明が難しく、難易度は高いと聞いた事があるな 
+ アカウント登録制のSNSとは違うから途方もなく時間はかかると思う 
+ 何があってかは内容を見ていないが殺人予告等ではなく、個人情報を晒されて等ならまずは削除依頼申請からした方が良い
+
+---
+
+[236] 2026/11/20(金) 17:20:26.27 ID:oKB9IzNi0HAPPY name:ななしのAIさん mail:
+Tencentが11/4に発表・APIを通じて利用可能になっていた「Hy4」のウェイトが公開 
+ 
+ > DFly2の詳細も公開／メインモデルとの間でKV CacheとAttentionの選択情報を共有 
+ > 一般的な投機的デコーディングは、別の小型モデルが候補トークンを生成し、大型モデルがそれを検証／Hy4ではこの処理をSparse Attentionと一体化し、追加コストを抑える設計 
+ 
+ https://x.com/TencentHunyuan/status/2123625549147070538 
+ https://chatgpt.com/s/t_6affcd2d88248191ae151032ba3a0af7
+
+---
+
+[237] 2026/11/20(金) 17:22:30.68 ID:oKB9IzNi0HAPPY name:ななしのAIさん mail:
+Loganがユーザーへの返信で、Geminiサブスクリプションの第三者ハーネスへの解放を示唆 
+ 「12月2日、私たちは最初の一歩を踏み出す」 
+ https://x.com/OfficialLoganK/status/2123657759896007035
+
+---
+
+[238] 2026/11/20(金) 17:23:10.02 ID:SGCU23lB0HAPPY name:ななしのAIさん mail:sage
+>>235 
+ 「ハゲしね」と言われて開示請求の決意を固めた様子 
+ 弁護士つけずにAIを利用して単独で審理通すようだから 
+ まだ書類作成中の段階じゃないかな
+
+---
+
+[239] 2026/11/20(金) 17:24:35.14 ID:oKB9IzNi0HAPPY name:ななしのAIさん mail:
+Vals AIが11/17に報告していた自律兵器への悪用に関する安全上の問題の続報 
+ 
+ > OpenAIがVals AIから指摘された自律型兵器に関するアラインメント上の問題に対応し、11月17日に公開したGPT-6.2 Astraでは、安全性が大幅に改善された 
+ 
+ > 11月1日：研究結果を各社に事前開示 
+ > Vals AIはOpenAI、Anthropic、Google、Meta、SpaceXAIに問題を通知しました。公開前に約2週間の対応期間を設けています。 
+ > 11月17日：研究報告公開、GPT-6.2 Astraも登場 
+ > 元の研究報告では、GPT-6 Astraなどで深刻な問題が確認されていました。同日、OpenAIは新モデルGPT-6.2 Astraを公開しました。 
+ > 11月20日：Vals AIが改善を確認 
+ > 新モデルを追試したところ、単発の軍事目標特定タスクでは標的を一切提示せず、以前よりも強い安全対策が機能していると報告しました。 
+ 
+ https://x.com/ValsAI/status/2123566958453092848 
+ https://chatgpt.com/s/t_6affeae963fc8191b880b3c36f5ecdc3
+
+---
+
+[240] 2026/11/20(金) 17:26:38.91 ID:oKB9IzNi0HAPPY name:ななしのAIさん mail:
+OpenAI Dotsの提供拡大と、ChatGPTモバイルアプリのUI刷新の発表 
+ 
+ > 「DotsがChatGPT Plusにも開放され始めた」／これまで主にPro以上のプランに限定されていた機能が、少数のPlusユーザーを対象とした試験提供に進みました 
+ > 「ChatGPTモバイルアプリにカスタマイズ可能なタブバーが導入される」／Dots専用タブを設け、Codex、Projects、Imagesなどをユーザーが自由にピン留めできるようになります 
+ 
+ https://x.com/thsottiaux/status/2123556256392847657 
+ https://chatgpt.com/s/t_6affe7184aa88191a8a24c2cc94b849c
+
+---
+
+[241] 2026/11/20(金) 17:28:42.48 ID:oKB9IzNi0HAPPY name:ななしのAIさん mail:
+OpenAIから、AIによるAI研究開発の加速についての報告書「Research acceleration: The jagged frontier」 
+ 
+ > 2026年9月6日に公開された「Research acceleration: The view inside OpenAI」の続編 
+ 
+ > 研究者1人あたりのAI利用量が急増していることに加えて、数時間規模の研究タスクをAIが自律的に完了できるようになり、研究アイデアの形成にも関与し始めている 
+ > 一方、AIが得意とする仕事と苦手とする仕事には依然として大きな差がある／「Jagged frontier」／AI能力の境界が一様ではなく、タスクによって大きな凹凸がある 
+ 
+ > AIによるAI研究開発の加速が既に現実のものとなっている一方、その加速がどの程度自己強化的で、どれだけ持続し、どのような制約を受けるのかについては、まだ重要な未解明部分が残されている 
+ 
+ https://openai.com/index/research-acceleration-jagged-frontier/ 
+ https://chatgpt.com/s/t_6affdf90f9608191aea3fe6f8797de5f
+
+---
+
+[242] 2026/11/20(金) 17:29:18.86 ID:PArj7Tfe0HAPPY name:ななしのAIさん mail:sage
+>>238 
+ 本人申立か 
+ 5chはフィリピン所在だから書類送達にも時間を要するので 
+ 個人で行うには非常に難易度が高いね
+
+---
+
+[243] 2026/11/20(金) 17:33:04.59 ID:nG8fUSwG0HAPPY name:ななしのAIさん mail:
+>>239 
+ …他社は？
+
+---
+
+[244] 2026/11/20(金) 18:04:33.28 ID:gU2xT3ja0HAPPY name:ななしのAIさん mail:sage
+開示請求の進捗報告しないなら死んで詫びろ
+
+---
+
+[245] 2026/11/20(金) 18:09:12.88 ID:TVBlI7lk0HAPPY name:ななしのAIさん mail:sage
+なんJが栄えていた時代にネットに強い弁護士に相談していた人がいるけど 
+ 訳あって無償だったそうだよ 
+ 開示請求くんその弁護士紹介しようか？
+
+---
+
+[246] 2026/11/20(金) 18:20:17.95 ID:55VmpYH30HAPPY name:ななしのAIさん mail:
+>>237 
+ はやくしろ
+
+---
+
+[247] 2026/11/20(金) 18:35:26.61 ID:jMu1APft0HAPPY name:ななしのAIさん mail:
+>>246 
+ GeminiサブスクリプションであってAntigravityではない
+
+---
+
+[248] 2026/11/20(金) 18:55:12.38 ID:d3pihIA70HAPPY name:ななしのAIさん mail:
+dotの物忘れが酷くていちいち思い出させてやるのに疲れた 
+ もう自分でスレッド作って直接指示する前のスタイルに戻ってしまった
+
+---
+
+[249] 2026/11/20(金) 18:56:09.34 ID:r0QD9AMx0HAPPY name:ななしのAIさん mail:
+>>245 
+ 煽るの止めたらおまえの敗北だからな 
+ まぁ頑張れ
+
+---
+
+[250] 2026/11/20(金) 19:32:21.02 ID:RrGj4eiW0HAPPY name:ななしのAIさん mail:
+このスレ平均年齢めっちゃ低そうやな😅
+
+---
+
+[251] 2026/11/20(金) 19:33:30.52 ID:SEZIzYM7aHAPPY name:ななしのAIさん mail:
+24時間でID変わる匿名同士だと今の法ではどうやっても名誉毀損は成立しないんだわ 
+ 継続性、ってのが重要視される 
+ 社会的な信頼を棄損された、という条件が構成出来ない 
+ 裁判所が認めないんだわ 
+ 
+ これは今のAIならすぐ指摘するから開示請求まで行かないと思う 
+ 脅迫があったとして難しい 
+ 匿名でこっちがどこの誰かさっぱり分からない状態だと警察も受け付けてくれない
+
+---
+
+[252] 2026/11/20(金) 19:43:44.87 ID:ltgmXaNG0HAPPY name:ななしのAIさん mail:sage
+開示請求してる人は相手に費用の請求もするんだっけ笑
+
+---
+
+[253] 2026/11/20(金) 19:49:06.83 ID:OuBNcBuT0HAPPY name:ななしのAIさん mail:sage
+https://i.imgur.com/KTSAj5q.jpeg 
+ 🤔
+
+---
+
+[254] 2026/11/20(金) 20:17:27.65 ID:IYzsHJbc0HAPPY name:ななしのAIさん mail:
+AntigravityでNeonのHigh使ってみたけど割と使えるじゃん 
+ 普段Opus5.5だけど節約になっていいわ
+
+---
+
+[255] 2026/11/20(金) 20:56:26.34 ID:MdxvIe640HAPPY name:ななしのAIさん mail:
+開示請求言われた奴がキレて発狂してるとしか思えん流れ
+
+---
+
+[256] 2026/11/20(金) 21:29:41.54 ID:+Mzx8OKW0HAPPY name:ななしのAIさん mail:
+アンソロピック公募割れ寸前
+
+---
+
+[257] 2026/11/20(金) 22:06:39.06 ID:C219gUws0HAPPY name:ななしのAIさん mail:
+Gemini公式チャットはArgon以外文章生成めっちゃ渋るのよね 
+ 多分APIはそんなことないと思うのだが、天下のGoogle様なのにけちくさいことするなよと思ってしまう
+
+---
+
+[258] 2026/11/20(金) 22:11:48.74 ID:oO2WHPqf0HAPPY name:ななしのAIさん mail:
+dotsよりgpt6の方がレベル高いんよ
+
+---
+
+[259] 2026/11/20(金) 22:41:14.95 ID:TxhMifX10HAPPY name:ななしのAIさん mail:
+Gemini5では元素名を使わないのかな？
+
+---
+
+[260] 2026/11/20(金) 23:03:10.55 ID:vQENR3SV0HAPPY name:ななしのAIさん mail:sage
+6.2astraは海外でかなり評判悪いけど 
+ 要件定義や設計で使ってるぶんにはあんまりかんじらんわ
+
+---
+
+[261] 2026/11/20(金) 23:18:46.73 ID:qEMbfUf00HAPPY name:ななしのAIさん mail:
+驚き屋が脳に問題あるだけ
+
+---
+
+[262] 2026/11/20(金) 23:29:05.46 ID:alSzvpaP0HAPPY name:ななしのAIさん mail:
+>>260 
+ コスパ良くても後出しでFable以下では 
+ 納得しんわな
+
+---
+
+[263] 2026/11/20(金) 23:52:27.25 ID:Ne0iLy2m0HAPPY name:ななしのAIさん mail:
+コストが全然違うじゃねぇか。 
+ Fableなんか使ったらすぐ予算なくなるわ。
