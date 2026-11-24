@@ -530,3 +530,102 @@
 ななしのAIさん<><>2026/11/24(火) 00:09:16.06 ID:M4SnPj980<> Z.aiからGLM-5.4リリース <br>  <br> &gt; 750B規模のLoop Transformer／2T&#65374;3T級の知能を主張 <br> &gt; 推論効率の改善／視覚理解とコーディングの統合 <br> &gt; GLM Coding Planで利用開始／Z.ai ChatやZCodeでも利用可能 <br> &gt; 巨大化による性能向上から、同じ重みを使った計算の反復による性能向上へと、設計上の新しい選択肢を示した <br>  <br> z.ai/blog/glm-5.4 <br> https://chatgpt.com/s/t_6b045158c9c08191b91fd362561cc526 <>
 ななしのAIさん<><>2026/11/24(火) 00:11:50.42 ID:M4SnPj980<> OpenAIのJimmy Laiによる、この1週間のChatGPTアプリ・CLIの改善について解説 <br>  <br> &gt; AIエージェントの普及によって、従来のチャットアプリの設計が性能上の限界に達しつつあった <br> &gt; 従来のチャットUIを前提とした仮想化から、エージェントによる大量のツール呼び出しを前提とした仮想化へ移行 <br>  <br> https://x.com/feedthejim/status/2124603578019086484 <br> https://chatgpt.com/s/t_6b04520ec69c81918b3f53f1d2231fd4 <>
 ななしのAIさん<><>2026/11/24(火) 00:14:03.43 ID:M4SnPj980<> Strataで <br> &gt; 独自推論エンジンへの移行がほぼ完成／v0.2.18でTencent Hy4-Flash（220B）、v0.2.19でThinking Machines LabのInkling 2 Mini（26.4B）に対応 <br>  <br> https://github.com/Niko1221/Strata/releases/ <br> https://chatgpt.com/s/t_6b043fd3bf88819192e07f050e5c6826 <br>  <br> Project Mayaで <br> &gt; v1.1.68&#65374;74：Hy4-Flash 220BとInkling 2 Mini 26Bを追加、8GB GPU、Blackwell、Windows、AMD、長大コンテキストへの対応を急速に拡張 <br>  <br> https://github.com/mw00/project-maya/releases <br> https://chatgpt.com/s/t_6b0443288f4881919ecbe80bd253eefc <br>  <br> Basaltで <br> &gt; v0.5.0 Tencent Hy4-flash対応／v0.5.5 Inkling 2 Mini対応、Looped Transformerの高速推論 <br>  <br> https://github.com/jesdga95/basalt/releases <br> https://chatgpt.com/s/t_6b0427fe84e8819193166367ca1bc235 <>
+ななしのAIさん<><>2026/11/24(火) 01:41:19.27 ID:xVkGGAfN0<> <a href="../test/read.cgi/ai/1794991744/511" rel="noopener noreferrer" target="_blank">&gt;&gt;511</a> <br> <a href="../test/read.cgi/ai/1794991744/512" rel="noopener noreferrer" target="_blank">&gt;&gt;512</a> <br> 27日からと公式が明言してるね <br> 50%かどうかはわからんのだよな <br> ショボかったら年末セール待つギャンブルもアリかと <>
+ななしのAIさん<><>2026/11/24(火) 05:09:14.57 ID:DE7cKyk/0<> <a href="../test/read.cgi/ai/1794991744/514" rel="noopener noreferrer" target="_blank">&gt;&gt;514</a> <br> 残りの日数分は返金もしてくれるんだぜ <>
+ななしのAIさん<><>2026/11/24(火) 05:38:28.93 ID:focqTenD0<> 去年の今頃は今ほどGeminiに依存してなかったからブラックフライデーセールを知らなかったわ <>
+ななしのAIさん<><>2026/11/24(火) 06:31:34.69 ID:focqTenD0<> Geminiは4.xを出さずに5にいくのかな <>
+ななしのAIさん<><>2026/11/24(火) 06:37:42.02 ID:CvjYGfbF0<> Gemini好きなやつよくわからんな <br> ClaudeやChatGPTに比べて不便なところばかりじゃん <br>  <br> Googleみたいな広告業の企業とか一番嫌いなんだよね <br> ただでさえandroidにYouTubeにウェブ広告にサーバーと何もかも握ってるのに <br>  <br> Google Cloud目当てで契約するならPクラウドでも買っとけよ <br> 一度払えば生涯無料だぞ <>
+ななしのAIさん<><>2026/11/24(火) 07:11:26.64 ID:M4SnPj980<> MyClaw 3.0 リリース <br>  <br> &gt; 個々のAIエージェントをホスティングするサービスから、複数のエージェントを連携させて仕事を遂行するプラットフォームへと進化した <br> &gt; MyClaw 3.0では、以下の6種類のAgent Engineを同一プラットフォーム上で利用できる。／OpenClaw／Hermes Agent／Pi／Claude Code／Codex／DeepSeek Harness <br> &gt; AIエージェントがチームとして働くようになった／役割別のエージェントが最初から用意される／Data Routerで外部データへのアクセスを統合 <br>  <br> https://x.com/MyClaw_Official/status/2123053283665203371 <br> https://chatgpt.com/s/t_6b0473b098f4819188b4474790cbb668 <>
+ななしのAIさん<><>2026/11/24(火) 07:13:30.51 ID:M4SnPj980<> AntigravityのOrchestrator Settingsで使用するモデルとeffortを設定出来るようになった <br>  <br> https://x.com/_mohansolo/status/2124917777630961911 <br> https://pbs.twimg.com/media/HX05InpbIAEzIvy.jpg <>
+ななしのAIさん<><>2026/11/24(火) 07:15:33.59 ID:M4SnPj980<> Ant Ling/inclusionAIから、「Ling-3.2-air」リリース <br> 124B-A5.5B <br>  <br> &gt; 3.2-flashの単純な縮小版というよりも、3.0-flash-VLの設計を使い、後続世代の実務向け学習を反映させた改良モデル <br> &gt; モデルを大きくせずに、実務エージェントと専門文書処理の能力を大幅に改善 <br>  <br> https://x.com/AntLingAGI/status/2124891223597240338 <br> https://chatgpt.com/s/t_6b047120f4cc8191ba689b481ede04bc <>
+ななしのAIさん<><>2026/11/24(火) 07:17:44.63 ID:M4SnPj980<> Qoderのステルスモデル「HungerG」 <br> 提供期間 11月24日1時&#65374;12月1日1時 JST <br>  <br> https://x.com/qoder_ai_ide/status/2124899980632822148 <br> https://chatgpt.com/s/t_6b047bd3d0a48191878e283714b98799 <>
+ななしのAIさん<><>2026/11/24(火) 07:19:48.42 ID:M4SnPj980<> Googleから、Gemini 4のエージェント群とLeanを組み合わせ、従来より計算資源を大幅に削減できる量子アルゴリズムを発見したと発表 <br>  <br> &gt; 最大の特徴は、AIが量子アルゴリズムを探索するだけでなく、その正しさと計算コストをLeanによって数学的に検証する仕組みを構築したこと <br> &gt; 次の3つを組み合わせた実例／生成AIによる探索／形式検証による保証／形式検証による保証 <br> &gt; 具体的な量子アルゴリズムの改善／核融合シミュレーション／光化学反応／CYP450のシミュレーション／Grover探索とarcsin <br>  <br> https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification/ <br> https://chatgpt.com/s/t_6b0477c83148819183315a91bdcbd58e <>
+ななしのAIさん<><>2026/11/24(火) 07:19:55.40 ID:kON+UYF80<> <a href="../test/read.cgi/ai/1794991744/532" rel="noopener noreferrer" target="_blank">&gt;&gt;532</a> <br>  <br> 最近strataにハマってるんだけど <br> メモリ64GB <br> RTX5070Ti 16GBって言うこの中途半端なPCで出ちゃダメな速度が出てる <>
+ななしのAIさん<><>2026/11/24(火) 07:21:52.85 ID:M4SnPj980<> AnthropicがClaude Codeの新機能「Claude Ship」発表 <br>  <br> &gt; GitHubのPull Request（PR）に対して、コードレビュー、問題の修正、承認判断までをAIエージェントに任せられる仕組み <br> &gt; 従来のClaude Codeが主に「コードを書く」工程を支援してきたのに対し、Claude Shipは「書いたコードをレビューし、修正し、マージ可能な状態にする」工程を自動化 <br>  <br> https://claude.com/resources/articles/introducing-claude-ship <br> https://chatgpt.com/s/t_6b04b24b09d4819185123e6207a5ba1c <>
+ななしのAIさん<><>2026/11/24(火) 07:24:01.21 ID:M4SnPj980<> GoogleからGemini APIの新機能「Native File Slicing」と「Multimodal Function Results」発表 <br>  <br> &gt; Native File Slicing：文書の指定ページ、Excelの指定セル範囲、動画・音声の指定時間だけをサーバー側で読み込む <br> &gt; Multimodal Function Results：Function Callingの実行結果として、文書・音声・動画をGeminiに直接渡せる <br> &gt; Office / OpenDocument対応：Word、Excel、PowerPoint、ODF形式を変換せずに直接入力できる <br>  <br> &gt; AIエージェントの開発では、モデル自体の知能だけでなく、外部から情報を取得し、必要な形に変換し、モデルに渡すハーネスの設計が重要 <br> &gt; 今回の拡張は、そのハーネスが担ってきた仕事の一部をGemini API側に移すもの <br>  <br> https://x.com/_philschmid/status/2124929125974450503 <br> https://x.com/GoogleAIStudio/status/2124928707529674979 <br> https://chatgpt.com/s/t_6b04adf947448191b0500e232e33f273 <>
+ななしのAIさん<><>2026/11/24(火) 07:26:04.24 ID:M4SnPj980<> 11/30までに作成された新しいChatGPT Businessワークスペースでは、12/31まですべてのシートタイプで利用枠が2倍 <br> https://x.com/thsottiaux/status/2124922313019953319 <>
+ななしのAIさん<><>2026/11/24(火) 07:27:21.17 ID:p90W28AA0<> ChatGPTのChatにSol6.2きてるな <br> ProのAstraは6.0で据え置きみたい <>
+ななしのAIさん<><>2026/11/24(火) 07:28:07.32 ID:M4SnPj980<> Varun「Antigravityの全ユーザー向けにGeminiの利用枠をリセット、ProユーザーにCarbonを解放、Hydrogenを全ユーザーに解放」 <br> https://x.com/_mohansolo/status/2124960419429458207 <>
+ななしのAIさん<><>2026/11/24(火) 07:30:10.90 ID:M4SnPj980<> OpenAIから、11/17にリリースしたGPT-6.2 Solのチャット向け最適化版をChatGPTのChatタブに順次展開中 <br>  <br> &gt; 画像理解の向上／複雑な指示への追従／Web検索と比較・推薦の改善／フォローアップの判断改善／安全性の改善 <br>  <br> https://x.com/ChatGPT/status/2124942186425069836 <br> https://help.openai.com/en/articles/6825453-chatgpt-release-notes#gpt-62-now-in-the-chat-tab <br> https://chatgpt.com/s/t_6b04a89d44508191a80d8b340650f925 <>
+ななしのAIさん<><>2026/11/24(火) 07:32:28.84 ID:M4SnPj980<> Claudeから、ConnectorsとSkillsを「Plugins」に統合して提供することを発表 <br>  <br> &gt; これまで個別に扱われていた外部サービスとの接続機能と、AIに専門的な作業手順を教える機能が、一つのプラグインシステムにまとめられる <br> &gt; 新しいPluginsディレクトリには10,000以上の拡張機能が掲載され、Free、Pro、Max、Ultraプランでは既に利用可能 <br>  <br> &gt; 特に注目したいのは、Anthropicが自ら生み出したMCPとAgent Skillsを統合する一方、競合他社が共同で策定したオープン標準「Agent Plugins」には、現時点で公式対応していないという点 <br> &gt; Anthropicが標準化した技術を基盤として、競合他社が新たな標準を作り、その一方でAnthropicは自社のプラットフォームを強化する／今回のPlugins統合は、この興味深い構図を浮かび上がらせた <br>  <br> https://x.com/claudeai/status/2124970294523945328 <br> https://chatgpt.com/s/t_6b04b7e3260c8191bfee96583c53a1af <>
+ななしのAIさん<>sage<>2026/11/24(火) 07:42:52.33 ID:qm62b1VQ0<> <a href="../test/read.cgi/ai/1794991744/537" rel="noopener noreferrer" target="_blank">&gt;&gt;537</a> <br> geminiは文章能力は一番優秀だからじゃないか <br> 特にneonはかつてのGPT 4oみたいに感じると言っている人もちらほらみかけるし <br> あとgeminiだけyoutube動画を見なくても把握できるのが大きい <br> 開発者だといろいろ不満あるかもだけど別に大半の人は開発者じゃないしな <>
+ななしのAIさん<><>2026/11/24(火) 08:01:02.93 ID:3CLLtD+z0<> <a href="../test/read.cgi/ai/1794991744/551" rel="noopener noreferrer" target="_blank">&gt;&gt;551</a> <br> いや動画要約はEdgeCopilotでも出来るだろ <br> 拡張機能自作すればChatGPTやClaudeでも出来るし色々カスタマイズ出来て遥かに便利だぞ <>
+ななしのAIさん<><>2026/11/24(火) 08:09:18.35 ID:nonms3uWH<> チャットに6.2が来てるな <>
+ななしのAIさん<><>2026/11/24(火) 08:12:18.97 ID:+6Yq6haO0<> チャットの6.2極でもかなり速い <>
+ななしのAIさん<><>2026/11/24(火) 08:14:32.25 ID:3CLLtD+z0<> ブラウザ拡張機能自作すればルール無用の自動botも出来るしな <br> 俺はもう広告ブロックブラウザ自体を自作してるけど <br> Chromeのシェアは一気に下がると思うぞこれから <>
+ななしのAIさん<><>2026/11/24(火) 08:14:52.32 ID:Po6ehuQD0<> <a href="../test/read.cgi/ai/1794991744/530" rel="noopener noreferrer" target="_blank">&gt;&gt;530</a> <br> もうなし崩し的にループモデル広まっちゃってるな <br> GLMもInklingもSenseNovaも <br> CoT監視困難に警鐘鳴らしてるOpenAI自身が、監視困難なAstra出しちゃってるし <br> 危ないって言ってる本人が危ないモデル出して、システムカードで「危ない！危ない！」って言ってるんだから、他社が足並み揃えるわけない <>
+ななしのAIさん<><>2026/11/24(火) 08:24:20.83 ID:JPsrkV2z0<> <a href="../test/read.cgi/ai/1794991744/555" rel="noopener noreferrer" target="_blank">&gt;&gt;555</a> <br> 車を自作したおっさんがトヨタのシェア低下を予言してたら笑うだろ <br> お前が自作したのはブラウザであって、市場を変える技術じゃないw <>
+ななしのAIさん<>sage<>2026/11/24(火) 08:36:24.57 ID:X9UR/Sc1H<> Geminiがブラフラで激安だからProを契約して試しに使ってみようかと思ったけど <br> 普段使用しているClaudeやCodexみたいな使い心地で運用できるのかな <>
+ななしのAIさん<><>2026/11/24(火) 09:17:56.33 ID:TgKihXRi0<> <a href="../test/read.cgi/ai/1794991744/558" rel="noopener noreferrer" target="_blank">&gt;&gt;558</a> <br> やめておけ <br> GeminiのよさはGeminiの機能を予めわかってる知能がないと分からない <>
+ななしのAIさん<><>2026/11/24(火) 09:22:17.20 ID:Myu8mC4n0<> geminiに慣れてるのはじわじわくるな <br> よっぽどの知能のようだ <>
+ななしのAIさん<><>2026/11/24(火) 09:23:12.49 ID:7sJj2kM00<> （笑） <br> 裸の王様でも読んだほうがいいんじゃないのか？ <>
+ななしのAIさん<><>2026/11/24(火) 09:24:27.24 ID:3CLLtD+z0<> <a href="../test/read.cgi/ai/1794991744/557" rel="noopener noreferrer" target="_blank">&gt;&gt;557</a> <br> AIに言えば一言で終わるのに誰もやらないって思うお前がお花畑だろ笑 <>
+ななしのAIさん<><>2026/11/24(火) 09:26:21.09 ID:S45tmtJJ0<> ネタで言ってるのだろうけどウケるw <>
+ななしのAIさん<>sage<>2026/11/24(火) 09:26:57.04 ID:X9UR/Sc1H<> 要するに相変わらず以前通りで使い物にならないということなのかな <>
+ななしのAIさん<><>2026/11/24(火) 09:37:19.20 ID:MwpJUfyC0<> ブラックフライデーの <br> pro月額プランって消えた? <br> 年契約しか無いけど <br> さんざん悩んで契約しようとしたんだが・・・ <>
+ななしのAIさん<><>2026/11/24(火) 09:53:59.99 ID:st5/ZdVI0<> 記事読むとどういう条件か出てるよ。 <br> これでGPTもPro半額年間パック　くるかな・・・・ <>
+ななしのAIさん<><>2026/11/24(火) 09:58:13.91 ID:dkmfCzuu0<> 次スレからスレタイのChatGPT、Gemini、Claudeの文字消さない？ <br> AIモデルなんか他に沢山あるんだしMuseのスレまで立ってるしモデル毎にスレ立って過疎って内容薄くなるより一つのスレに集約させた方がいいと思う <>
+ななしのAIさん<><>2026/11/24(火) 10:19:46.29 ID:A2+Oztin0<> 開示請求ってワード何度も出てるけど何かあった？ <>
+ななしのAIさん<><>2026/11/24(火) 10:27:19.93 ID:Iid1Nx0a0<> Geminiおじさんが終始浮いてるのは複数AIを使い分けたり乗り換えたりって意識がまるでないことだよな <br> そんなスタイルでAI使ってる時点で大多数に負けてる <>
+ななしのAIさん<><>2026/11/24(火) 10:35:55.39 ID:LpryxXnE0<> Astra6.2が想定していたよりがっかりだったからPro100の自動更新止めた。 <br> 精度据え置きなら使用量が大幅減とか別のメリット欲しかったね <br> Open AI赤字凄い様子だから、焦ってるのかもしれないけど <br> このやり方はかえってユーザ離れを加速させるよ <>
+ななしのAIさん<><>2026/11/24(火) 10:38:14.53 ID:9Lq89rM00<> proプランにCarbonキターーー <br> やはりGoogleは年末に本気出すな <>
+ななしのAIさん<><>2026/11/24(火) 10:39:34.82 ID:zE+WlVqg0<> tiboも相変わらずガタガタうるさいやつだな <br> 凄いモデル出す以外に誰も何も求めて居ないというのに <br>  <br> 冷静に考えてOpenAIは後発のダリオにボコられて恥ずかしすぎる <>
+ななしのAIさん<><>2026/11/24(火) 10:46:27.51 ID:XytOT/JB0<> <a href="../test/read.cgi/ai/1794991744/572" rel="noopener noreferrer" target="_blank">&gt;&gt;572</a> <br> ClaudeもOpenAIが分裂して出来たものだからな <br> Claudeは創業者7人に対してカルトっぽいから好きではないな <>
+ななしのAIさん<><>2026/11/24(火) 10:51:19.44 ID:nwPKxESFH<> 6.2astra来てないからリセットを要求する <>
+ななしのAIさん<><>2026/11/24(火) 11:10:58.87 ID:SwjpSnJi0<> そもそもAnthropicって何で分裂したの？ <br> 思想的な話？ <>
+ななしのAIさん<><>2026/11/24(火) 11:13:17.58 ID:YE2Tq0k00<> NVIDIAの株価変動すごいなあ <br> Googleが開発しているAI用のTPUも関心があるけど <br> これ一般市場に流して欲しい <>
+ななしのAIさん<><>2026/11/24(火) 11:21:28.56 ID:BFD3aowx0<> Geminiさんリセット来てるやん <br> Googleさん年末はAI本気だね <>
+ななしのAIさん<><>2026/11/24(火) 11:25:14.97 ID:1hTjY+ai0<> ガバナンスが崩壊し、政権側のインサイダー疑惑もあるNVIDIAなのに革ジャン復帰♪と沸き立つだけのAIインフルエンサーたちは罪深いな <>
+ななしのAIさん<>sage<>2026/11/24(火) 11:39:16.73 ID:jH5jYV4r0<> 米正副大統領、フアン氏のエヌビディアＣＥＯ復帰に関与　米ＡＩ競争力を重視 <br> https://www.reuters.com/jp/business/DWD4P5CMT5KVZMNROQE3UPMGMM-2026-11-23/ <br>  <br> オープンウェイトモデルの開発で中国に劣後するわけにはいかないという戦略的な動機が云々と書いてある模様 <>
+ななしのAIさん<><>2026/11/24(火) 11:49:50.75 ID:OAnQl8SV0<> Open AIは最後にリセットチケット配布してから随分間が空いてるな <br> 王者の余裕か <>
+ななしのAIさん<>sage<>2026/11/24(火) 11:52:12.47 ID:qm62b1VQ0<> <a href="../test/read.cgi/ai/1794991744/577" rel="noopener noreferrer" target="_blank">&gt;&gt;577</a> <br> 最近改善に力入れてるよな <br> antigravityにbanked reset実装予定らしいから楽しみ <>
+ななしのAIさん<><>2026/11/24(火) 11:54:12.23 ID:r2epLhc+0<> Open AIはNVIDIA Amazon ソフバンから多額の出資受け取ってるから身動き取りにくそうね <br> 一方でGoogleはのびのびやってる印象 <>
+ななしのAIさん<><>2026/11/24(火) 12:13:15.79 ID:7sJj2kM00<> <a href="../test/read.cgi/ai/1794991744/578" rel="noopener noreferrer" target="_blank">&gt;&gt;578</a> <br> ああ。 <br>  <br> モラルもコンプラも「非常事態」の前に有耶無耶にする実例を示した。 <br>  <br> トランプは、次に「自分」に適用するぞ。 <>
+ななしのAIさん<><>2026/11/24(火) 12:14:45.38 ID:zE+WlVqg0<> OpenAIが受けてる出資は、半導体と計算資源を出資額以上に買う契約だからむしろカモられてるだけ <br>  <br> ソフトバンクだけがガチで金を払っているw <br> 実はリセット祭りとソフトバンクの出資タイミングは完全に一致しているのだ <br> 7月1日、10月1日に100億ドルずつ <br>  <br>  <br> 俺達はハゲからリセットを貰ったのだw <>
+ななしのAIさん<><>2026/11/24(火) 12:15:02.80 ID:ja0LEUb00<> やっとお前らAntigravity使い始めたか <br> gemIniCLIから使ってるから感慨深いわ <>
+ななしのAIさん<><>2026/11/24(火) 12:17:19.69 ID:zE+WlVqg0<> 4月1日も100億ドルで、4月もリセット祭りだった <br>  <br> マジで恐ろしいくらいカモられてるんだよな孫 <br> 誰も言及してないのが不思議 <>
+ななしのAIさん<><>2026/11/24(火) 12:20:25.16 ID:2fD5ifrN0<> <a href="../test/read.cgi/ai/1794991744/585" rel="noopener noreferrer" target="_blank">&gt;&gt;585</a> <br> アンチグラビティ日本人には流行らんだろ <br> 日本語UIないし <>
+ななしのAIさん<><>2026/11/24(火) 12:20:28.55 ID:JPsrkV2z0<> いうて利用シェアはChatGPTが圧倒的だからどうマネタイズするかだとは思うけどね <br> 広告を突っ込んだら解決だけどそのタイミングがあるかどうか <>
+ななしのAIさん<><>2026/11/24(火) 12:21:04.45 ID:22NZljkX0<> マジかよソフバンもう200兆円ぐらい出資してやってくれんか <>
+ななしのAIさん<><>2026/11/24(火) 12:21:58.00 ID:1TVxUi3o0<> <a href="../test/read.cgi/ai/1794991744/587" rel="noopener noreferrer" target="_blank">&gt;&gt;587</a> <br> パッチはあるぞ <br> ブラウザで開けばChromeが翻訳するし <>
+ななしのAIさん<><>2026/11/24(火) 12:22:03.59 ID:Tb7t75M80<> 12月からなんだよなchat6.2怖いの <br> 利用枠どんくらい使うのか <>
+ななしのAIさん<><>2026/11/24(火) 12:23:12.07 ID:2fD5ifrN0<> <a href="../test/read.cgi/ai/1794991744/590" rel="noopener noreferrer" target="_blank">&gt;&gt;590</a> <br> 全翻訳じゃないじゃん <br> ほんの一部だけ <br> Geminiはやる気なさすぎる <>
+ななしのAIさん<><>2026/11/24(火) 12:27:26.41 ID:2fD5ifrN0<> ChatGPTのcodexやClaudecodeを使えばGeminiより性能も良く安く日本語UIでプログラミング出来るのに <br> わざわざ高くて性能が低く英語UIのGeminiアンチグラビティを使うやつは果たして国内にどれだけいるのか <>
+ななしのAIさん<><>2026/11/24(火) 12:34:55.91 ID:pOFmDEng0<> <a href="../test/read.cgi/ai/1794991744/593" rel="noopener noreferrer" target="_blank">&gt;&gt;593</a> <br> 同意見だけど最近のOpen AIにはちょっと金払うのバカらしくなってきたなぁって感じはする <br> ChatGPTがwork枠 <br> Astra6.2はインパクト無し <br> どうしちゃったんだろね <>
+ななしのAIさん<><>2026/11/24(火) 12:35:22.89 ID:7sJj2kM00<> <a href="../test/read.cgi/ai/1794991744/591" rel="noopener noreferrer" target="_blank">&gt;&gt;591</a> <br> 普通の会話なんかたいしたことないだろ。 <br>  <br> 大規模なソースをガンガン解析や変更させるから、みるみる減るのであって、会話や質問の延長線上のトークンなんかたかが知れてる。 <>
+ななしのAIさん<><>2026/11/24(火) 12:45:10.64 ID:JPsrkV2z0<> Chatを全部Workに切り替えて使ってみてるけどProではChat用途なんて全然消費せんよ <br> 調査用途でも全然減らない1％も減ることも稀 <br> 減るのはなんか作ったりPCを操作させる系 <>
+ななしのAIさん<><>2026/11/24(火) 12:49:09.92 ID:2fD5ifrN0<> <a href="../test/read.cgi/ai/1794991744/594" rel="noopener noreferrer" target="_blank">&gt;&gt;594</a> <br> Claudeとはコスパが違うからなぁ <br> ClaudeだけだとClaudeのミスに気づかないからやっぱChatGPTはいると思うわ <br> 雑に使えるし <br> ClaudeはFable枠使うからすぐなくなるしな <br> ChatGPTは他社で好評なやつすぐ取り入れるから信頼してるわ <br> APIキー配布とかエージェントとかな <br> Claudeはduet配布早くしてほしいね <>
+ななしのAIさん<><>2026/11/24(火) 12:54:17.62 ID:ja0LEUb00<> 8月上旬にグーグルがディープマインドの体制を大幅刷新したのをしらないのかな？ <br> その成果がやっとで始めたところなのに <>
+ななしのAIさん<>sage<>2026/11/24(火) 13:13:42.96 ID:QT6XjOeb0<> 躍進する時の分かりやすい動きがあるよ <br> 研究肌の奴をリストラした時 <br>  <br> ヤン・ルカンとかGoogleの大家達な <br> もう研究者はお払い箱だAIでいいしな <>
+ななしのAIさん<><>2026/11/24(火) 13:38:36.21 ID:lkzOluuA0<> <a href="../test/read.cgi/ai/1794991744/567" rel="noopener noreferrer" target="_blank">&gt;&gt;567</a> <br> スレタイに代表的なサービスが入ってるのは、そもそも3年半前このスレが出来た時、当時まだAI板が無くて（ネットサービス板に間借りしてた）、一つのスレで板の役割も兼ねる必要があったから、多少でも検索しやすくするため <br>  <br> 今はAI板があるから、話題をここに集約する必要は無い <br> もちろんここで全部の話をしたければしてもいいが <br>  <br> ただ検索しやすくする必要も薄くなったんで、そろそろスレタイからサービス名は取ってもいいかもしれない <>
+ななしのAIさん<><>2026/11/24(火) 14:25:16.65 ID:1TVxUi3o0<> <a href="../test/read.cgi/ai/1794991744/592" rel="noopener noreferrer" target="_blank">&gt;&gt;592</a> <br> パッチはほぼ全翻訳だぞ <br> Chromeは完全翻訳だぞ <>
+ななしのAIさん<><>2026/11/24(火) 14:59:49.64 ID:x5eLHgk30<> Geminiはうちのハーネス評判悪い？なら他所のに正式対応させるわ <br> って潔すぎるスタイルだから <>
+ななしのAIさん<><>2026/11/24(火) 15:07:47.62 ID:3CLLtD+z0<> <a href="../test/read.cgi/ai/1794991744/601" rel="noopener noreferrer" target="_blank">&gt;&gt;601</a> <br> 知ってる <br> Chromeはフルアクセスじゃないじゃん <br> ほぼ翻訳出来てないの間違いだろ <>
+ななしのAIさん<><>2026/11/24(火) 17:44:44.80 ID:b8eJFLx70<> GeminiアプリにもCarbonくるのかな？ <>
+ななしのAIさん<><>2026/11/24(火) 17:50:20.51 ID:/cukWT+GM<> できないなら、これから来る新規ちゃん向けも外れるんでね…… <>
+ななしのAIさん<><>2026/11/24(火) 17:52:07.26 ID:b8eJFLx70<> AI Proプランね <>
+ななしのAIさん<>sage<>2026/11/24(火) 18:16:20.27 ID:KNBGU8wy0<> Argonおまえ消えるのか… <>
+ななしのAIさん<><>2026/11/24(火) 19:55:40.51 ID:1TVxUi3o0<> <a href="../test/read.cgi/ai/1794991744/604" rel="noopener noreferrer" target="_blank">&gt;&gt;604</a> <br> タスクにはくるかもね <br> チャットにはこない <>
+ななしのAIさん<><>2026/11/24(火) 20:04:31.97 ID:SnFp8aNU0<> geminiがアクセス制限されたわw <br> 普通に話してただけなのに酷い <>
+ななしのAIさん<><>2026/11/24(火) 20:07:07.77 ID:SnFp8aNU0<> 少女の服脱がしただの変なことに使ってる奴居るのになんだこの差 <>
+ななしのAIさん<><>2026/11/24(火) 20:14:38.40 ID:5AmKOjqp0<> ま、「普通」の感覚は人それぞれだし <>
+ななしのAIさん<>sage<>2026/11/24(火) 20:15:30.87 ID:YnYb+UMB0<> 未公開モデルを一般公開した場合の安全な運用ガー　か <br> うーむ <>
+ななしのAIさん<><>2026/11/24(火) 20:31:33.48 ID:M3EB6Izv0<> <a href="../test/read.cgi/ai/1794991744/609" rel="noopener noreferrer" target="_blank">&gt;&gt;609</a> <br> いつの間に顔で弾ける顔認証機能が実装されたんだよ酷い <>
+ななしのAIさん<><>2026/11/24(火) 20:36:21.97 ID:hV277HMS0<> <a href="../test/read.cgi/ai/1794991744/556" rel="noopener noreferrer" target="_blank">&gt;&gt;556</a> <br> パラメーター効率のメリットと、1回の推論が重くなるデメリットというトレードオフ <br> でも実際の運用コストではメリットが上回るから広がってる <br> もうこの流れは止められない <>
+ななしのAIさん<><>2026/11/24(火) 20:43:57.65 ID:x9Ggp0zu0<> アンソロ公募割れしとるやないか <>
+ななしのAIさん<><>2026/11/24(火) 20:45:48.91 ID:SnFp8aNU0<> いや普通と言っても著作権侵害とかそういう話でもないよ <br> 暴力的なことでもないしセンシティブは一切ない <br> ブラウザーが匿名性重視で使ってて無駄な通信とか遮断したりGoogleに通らないようなしたからかもな <br> VPNとか使ったわけでもない <br> 異議申し立てのようなことも個人情報入力させるしだからもう使うのやめた <br> 本人に本人確認とかばからしいわ <>
+ななしのAIさん<><>2026/11/24(火) 20:54:10.39 ID:SnFp8aNU0<> 多分geminiとGoogle検索を切り離すように使ってたってことだと思う <br> そのままGoogle検索するとログイン状態なってて履歴残るのが嫌だから対策してたくらい <br> これが原因かどうか知らんけどGoogle嫌いだわw <>
+ななしのAIさん<><>2026/11/24(火) 20:55:19.33 ID:oGYo7z5i0<> 買えば絶対儲かる <br> なんて言われてたのになぁアンソロ <>
+ななしのAIさん<><>2026/11/24(火) 21:43:22.80 ID:rsKYD5eh0<> Chatに6.2sol来てるわ <br> やっぱGeminiなんかとレベルが違うね <>
+ななしのAIさん<><>2026/11/24(火) 21:52:08.87 ID:TuJ1BciV0<> Geminiアンチおじさん… <>
+ななしのAIさん<><>2026/11/24(火) 22:28:39.64 ID:7Gl4XGSl0<> <a href="../test/read.cgi/ai/1794991744/619" rel="noopener noreferrer" target="_blank">&gt;&gt;619</a> <br> どこでわかるの？6.2としかいわないけど <>
+ななしのAIさん<><>2026/11/24(火) 22:36:11.53 ID:QTaUFS9wM<> 道具に拘る人と道具は別に何でもいいかって人に分かれるからなあ <>
+ななしのAIさん<>sage<>2026/11/24(火) 22:36:54.47 ID:PuJU/YXR0<> 来年道具の域こえそうだな <>
+ななしのAIさん<><>2026/11/24(火) 23:10:42.35 ID:DO0AzTTu0<> googleAIpro今年1月の半額キャンペーンで使ってるけど今やってるキャンペーンで延長する裏技無いかな <>
+ななしのAIさん<><>2026/11/24(火) 23:30:55.71 ID:/9A7ChDn0<> <a href="../test/read.cgi/ai/1794991744/624" rel="noopener noreferrer" target="_blank">&gt;&gt;624</a> <br> 今出てるのは、年契約してるならそれを月契約に変更（返金も受けられる）、それで半額オファー画面が来れば当たり <br> だけど上でも言ってる人いるけどこれでオファー来ないケースも <br> もうひとつは別アカウントで290円のストレージプランを契約、これでPro年の半額オファーを待つ <br> これGeminiが提案してきたけど、調べさせたら成功例の報告は見つからなかったとの事、なんやねん <br>  <br> それと27日に新規向けのセールやることは公式が発表してるからそれを待つ <br> これも別アカになるね <>
+ななしのAIさん<><>2026/11/24(火) 23:33:22.30 ID:Q+WwXVrh0<> リーマン予想すら解きもうすぐ自律性を完全に持たせようとするAIに対してただの道具と言い張るやつはもはや時代遅れの老害 <>
+ななしのAIさん<>sage<>2026/11/24(火) 23:46:59.04 ID:PuJU/YXR0<> P≠NP問題も　もうとけるっぽいしなｗ <>
+ななしのAIさん<><>2026/11/25(水) 00:25:16.94 ID:wrT96oqv0<> 無料Chatでもすぐ制限かかるのに、プロで4倍にしかならないジェミニでまともに使えんの？ <>
+ななしのAIさん<><>2026/11/25(水) 00:33:29.66 ID:hBN4o6YT0<> <a href="../test/read.cgi/ai/1794991744/552" rel="noopener noreferrer" target="_blank">&gt;&gt;552</a> <br> youtubeの動画解析はGemini最強と言っていい <br> youtubeの動画まともに見なくなったくらい <>
+ななしのAIさん<>sage<>2026/11/25(水) 00:36:34.47 ID:kYFgGY4S0<> パソコン操作で得られるものに関してはほぼAIに置き換わっていくのかな <>
+ななしのAIさん<><>2026/11/25(水) 00:39:38.65 ID:yQnQNQro0<> Anthropicはあんな変人数学者雇ってて大丈夫なんか <br> 証明の正しさに影響は無くても信頼失うだろ <>
